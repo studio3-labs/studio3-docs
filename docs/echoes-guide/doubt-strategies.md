@@ -213,7 +213,7 @@ concern is one of the most valuable things an Echo can give a venture.</p>
 <h3>⏰ When to Signal Doubt</h3>
 <p>**Early Doubt (Days 1-7)**</p>
 <ul>
-<li>**Maximum contrarian bonus**</li>
+<li>**Most informative if you are right**</li>
 <li>Highest risk</li>
 <li>Based on analysis</li>
 <li>Small positions</li>
@@ -230,7 +230,7 @@ concern is one of the most valuable things an Echo can give a venture.</p>
 <p>**Late Doubt (Days 22+)**</p>
 <ul>
 <li>**Clear problems**</li>
-<li>Lower returns</li>
+<li>Less informative by then</li>
 <li>Higher certainty</li>
 <li>Larger positions safe</li>
 
@@ -523,7 +523,7 @@ concern is one of the most valuable things an Echo can give a venture.</p>
 <li>Claim: 2 weeks to production</li>
 <li>Reality: 6 months minimum</li>
 <li>Doubt entry: Day 2</li>
-<li>Result: 2.3x return</li>
+<li>Result: milestone failed as forecast</li>
 
 </ul>
 <p><strong>Lessons:</strong></p>
@@ -540,13 +540,13 @@ concern is one of the most valuable things an Echo can give a venture.</p>
 <li>Issue: 5 better alternatives</li>
 <li>Research: Detailed comparison</li>
 <li>Doubt entry: 70% belief</li>
-<li>Result: 1.8x return</li>
+<li>Result: milestone failed as forecast</li>
 
 </ul>
 <p><strong>Lessons:</strong></p>
 <ul>
 <li>**Research wins**</li>
-<li>Contrarian profitable</li>
+<li>Contrarian accuracy counts for more</li>
 <li>Facts convince</li>
 <li>Patience required</li>
 
@@ -589,9 +589,9 @@ concern is one of the most valuable things an Echo can give a venture.</p>
 <h3>📊 Doubt KPIs</h3>
 <p><strong>Key Metrics:</strong></p>
 <ul>
-<li>**Doubt win rate: Target 40%+**</li>
-<li>Average return: Target 1.5x+</li>
-<li>Contrarian bonus rate</li>
+<li>**Doubt forecast accuracy: Target 40%+**</li>
+<li>Calibration: stated confidence vs outcomes</li>
+<li>Accuracy on contrarian calls</li>
 <li>Research accuracy</li>
 <li>Timing effectiveness</li>
 
@@ -599,10 +599,10 @@ concern is one of the most valuable things an Echo can give a venture.</p>
 <p><strong>Monthly Analysis:</strong></p>
 <p>Track your doubt signal performance:</p>
 <ul>
-<li><strong>Total Doubt Signals:</strong> Number of doubt positions taken</li>
-<li><strong>Successful:</strong> Milestones that failed as predicted</li>
-<li><strong>Failed:</strong> Milestones that succeeded despite doubt</li>
-<li><strong>Win Rate:</strong> Success percentage (target 40%+)</li>
+<li><strong>Total Forecasts:</strong> Number of sceptical forecasts made</li>
+<li><strong>Resolved Correct:</strong> Milestones that failed as forecast</li>
+<li><strong>Resolved Wrong:</strong> Milestones that succeeded despite your doubt</li>
+<li><strong>Accuracy:</strong> Correct percentage (target 40%+)</li>
 <li><strong>Calibration:</strong> How your stated confidence compared with outcomes</li>
 <li><strong>Best Doubt:</strong> The concern nobody else raised that turned out to matter</li>
 <li><strong>Key Lessons:</strong> What you learned this month</li>

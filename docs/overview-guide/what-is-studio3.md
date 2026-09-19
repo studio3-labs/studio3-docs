@@ -44,7 +44,7 @@ Building ventures becomes an engaging experience:
 Everyone wins when ventures succeed:
 
 - **Founders** gain resources and support
-- **Supporters** earn rewards for accurate predictions
+- **Supporters** build a public accuracy record and earn progression titles; real rewards come through Drops and Bounties
 
 - **Validators** → [Anchors Guide](../anchors-guide/index.md)
 

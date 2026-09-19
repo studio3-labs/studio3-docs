@@ -287,15 +287,15 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 <li>Enter with standard position</li>
 <li>Add on confirmation</li>
 <li>Ride to completion</li>
-<li>Take profits</li>
+<li>Record the outcome</li>
 </ol>
 
 <p><strong>Risk Management:</strong></p>
 <ul>
 <li><strong>Never chase late</strong></li>
-<li>Set stop-loss mentally</li>
-<li>Take partial profits</li>
-<li>Don't get greedy</li>
+<li>Revise your forecast when the evidence changes</li>
+<li>Say plainly when you were wrong</li>
+<li>Don't let one good call inflate your confidence</li>
 </ul>
 </div>
 
@@ -327,7 +327,7 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 <li><strong>Wait for pivot proof</strong></li>
 <li>Start small</li>
 <li>Add on progress</li>
-<li>Higher returns possible</li>
+<li>Larger accuracy gain possible</li>
 </ul>
 </div>
 
@@ -418,7 +418,7 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 <ul>
 <li>Final addition</li>
 <li>High conviction</li>
-<li>Maximize returns</li>
+<li>State your strongest confidence</li>
 </ul>
 </li>
 </ol>
@@ -537,7 +537,7 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 <li>Phase: Ignition</li>
 <li>Entry: Day 3 of 45</li>
 <li>Team: Second-time founders</li>
-<li>Result: 3.2x return</li>
+<li>Result: milestone delivered as forecast</li>
 </ul>
 
 <p><strong>Key Lessons:</strong></p>
@@ -554,7 +554,7 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 <li>Phase: Drift</li>
 <li>Entry: After positive demo</li>
 <li>Momentum: Building fast</li>
-<li>Result: 2.1x return</li>
+<li>Result: milestone delivered as forecast</li>
 </ul>
 
 <p><strong>Key Lessons:</strong></p>
@@ -562,7 +562,7 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 <li><strong>Momentum entry works</strong></li>
 <li>Demo de-risked</li>
 <li>B2B higher success</li>
-<li>Profit taking smart</li>
+<li>Confidence matched the evidence</li>
 </ul>
 </div>
 
@@ -635,9 +635,9 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 <h3>📊 KPIs for Belief Signals</h3>
 <p><strong>Key Metrics:</strong></p>
 <ul>
-<li><strong>Win rate: Target 70%+</strong></li>
-<li>Average return: Target 1.8x+</li>
-<li>Risk-adjusted return</li>
+<li><strong>Forecast accuracy: Target 70%+</strong></li>
+<li>Calibration: stated confidence vs outcomes</li>
+<li>Accuracy on contrarian calls</li>
 <li>Phase distribution</li>
 <li>Sector performance</li>
 </ul>
@@ -645,10 +645,10 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 <p><strong>Monthly Review:</strong></p>
 <p>Track your belief signal performance with this monthly review template:</p>
 <ul>
-<li><strong>Total Belief Signals:</strong> Count all belief signals made this month</li>
-<li><strong>Successes:</strong> Number of successful milestone completions</li>
-<li><strong>Failures:</strong> Number of failed milestones</li>
-<li><strong>Win Rate:</strong> Calculate your success percentage</li>
+<li><strong>Total Forecasts:</strong> Count all forecasts made this month</li>
+<li><strong>Resolved Correct:</strong> Forecasts the outcome bore out</li>
+<li><strong>Resolved Wrong:</strong> Forecasts the outcome contradicted</li>
+<li><strong>Accuracy:</strong> Calculate your correct percentage</li>
 <li><strong>Calibration:</strong> How your stated confidence compared with outcomes</li>
 <li><strong>Best Call:</strong> The one you got right when few others did</li>
 <li><strong>Worst Call:</strong> The one you were confidently wrong about</li>

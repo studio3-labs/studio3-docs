@@ -31,7 +31,7 @@ answers it.
 
 <ul>
 <li>Free to cast</li>
-<li>One tap, no account required to start</li>
+<li>One tap</li>
 <li>Visible to the founder immediately</li>
 </ul>
 

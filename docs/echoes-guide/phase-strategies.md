@@ -249,7 +249,7 @@
 
 <li>Team trust required</li>
 
-<li>2x+ potential</li>
+<li>Most informative if you are right</li>
 
 </ul>
 <p>2. **Mid Ignition (Days 16-45)**</p>
@@ -261,7 +261,7 @@
 
 <li>Balanced approach</li>
 
-<li>1.7x potential</li>
+<li>Moderately informative</li>
 
 </ul>
 <p>3. **Late Ignition (Days 46-60)**</p>
@@ -533,9 +533,9 @@
 <li>Historical significance</li>
 
 </ul>
-<p><strong>Returns Expectation:</strong></p>
+<p><strong>What to Expect:</strong></p>
 <ul>
-<li>**Minimal financial return**</li>
+<li>**No money moves on being right**</li>
 <li>Reputational value</li>
 <li>Network benefits</li>
 <li>Learning opportunity</li>
@@ -694,43 +694,43 @@ risk is the credibility of your record.</p>
 <table>
 <tr>
 <th>Phase</th>
-<th>Total Signals</th>
-<th>Successful</th>
-<th>Win Rate</th>
+<th>Total Forecasts</th>
+<th>Resolved Correct</th>
+<th>Accuracy</th>
 <th>Calibration</th>
 </tr>
 <tr>
 <td>Spark</td>
-<td>Track total Spark signals</td>
-<td>Count wins</td>
+<td>Track total Spark forecasts</td>
+<td>Count correct</td>
 <td>Calculate %</td>
 <td>Stated confidence vs outcomes</td>
 </tr>
 <tr>
 <td>Forge</td>
-<td>Track Forge signals</td>
-<td>Count wins</td>
+<td>Track Forge forecasts</td>
+<td>Count correct</td>
 <td>Calculate %</td>
 <td>Stated confidence vs outcomes</td>
 </tr>
 <tr>
 <td>Ignition</td>
-<td>Track Ignition signals</td>
-<td>Count wins</td>
+<td>Track Ignition forecasts</td>
+<td>Count correct</td>
 <td>Calculate %</td>
 <td>Stated confidence vs outcomes</td>
 </tr>
 <tr>
 <td>Drift</td>
-<td>Track Drift signals</td>
-<td>Count wins</td>
+<td>Track Drift forecasts</td>
+<td>Count correct</td>
 <td>Calculate %</td>
 <td>Stated confidence vs outcomes</td>
 </tr>
 <tr>
 <td>Later Phases</td>
-<td>Track Orbit+ signals</td>
-<td>Count wins</td>
+<td>Track Orbit+ forecasts</td>
+<td>Count correct</td>
 <td>Calculate %</td>
 <td>Stated confidence vs outcomes</td>
 </tr>

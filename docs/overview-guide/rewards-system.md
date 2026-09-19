@@ -193,7 +193,8 @@ A: No. Signalling and forecasting are free, and bounties are claimed by doing th
 A: Studio3 staff at launch, Anchors later.
 
 **Q: How is a reward split between several contributors?**
-A: Not settled yet, and deliberately not described here.
+A: The Sender proposes the split, contributors can dispute it, and an Anchor arbitrates. The
+proportions themselves are not settled, and are deliberately not described here.
 
 **Q: Can a failed milestone be removed from the record?**
 A: No.

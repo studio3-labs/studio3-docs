@@ -24,7 +24,7 @@
 <li>Pool resources and capital</li>
 <li>Coordinate signal strategies</li>
 <li>Amplify collective impact</li>
-<li>Achieve superior returns</li>
+<li>Achieve superior accuracy together</li>
 </ul>
 
 <p><strong>Network Types:</strong></p>
@@ -190,7 +190,7 @@
 <li>**Network charter**</li>
 <li>Operating agreement</li>
 <li>Code of conduct</li>
-<li>Profit sharing model</li>
+<li>Bounty contribution split</li>
 
 </ul>
 </div>
@@ -280,7 +280,7 @@
 
 <li>Expertise leveraged</li>
 
-<li>Returns optimized</li>
+<li>Accuracy improved</li>
 
 </ul>
 <p>3. **Hedged Strategies**</p>
@@ -292,7 +292,7 @@
 
 <li>Market neutral</li>
 
-<li>Steady returns</li>
+<li>Steady calibration</li>
 
 </ul>
 </div>
@@ -417,7 +417,7 @@
 
 <li>Market inefficiency capture</li>
 
-<li>Superior returns</li>
+<li>Superior accuracy</li>
 
 </ul>
 <p>2. **Scale Arbitrage**</p>
@@ -515,7 +515,7 @@
 <ul>
 <li>Proven model</li>
 
-<li>Consistent returns</li>
+<li>Consistent accuracy</li>
 
 <li>Member satisfaction</li>
 
@@ -599,7 +599,7 @@
 <ul>
 <li>**12 members, all DeFi experts**</li>
 <li>92% signal success rate</li>
-<li>3.2x average returns</li>
+<li>Consistently well-calibrated forecasts</li>
 <li>Created sector-leading tools</li>
 
 </ul>
@@ -842,7 +842,7 @@ You've completed the Echoes Guide! Your journey continues with:
 ---
 
 !!! success "Network Mastery"
-    Echo Networks represent the pinnacle of collaborative intelligence in Studio3. Master this approach and you'll achieve returns and impact impossible alone. The future belongs to connected Echoes.
+    Echo Networks represent the pinnacle of collaborative intelligence in Studio3. Master this approach and you'll achieve accuracy and impact impossible alone. The future belongs to connected Echoes.
 
 !!! tip "Final Thought"
     You started as an individual Echo learning to signal. You're finishing as a potential network leader ready to shape the future. Your transformation is complete - now go transform the ecosystem.
