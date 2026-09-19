@@ -40,7 +40,7 @@ Ascension is the final phase where ventures achieve full sovereignty by buying b
 ### NFT Valuation
 
 1. **Spark NFT**: Original creation value + appreciation
-2. **Signal NFT**: Performance-based multiplier
+2. **Signal NFT**: Valued on the venture's verified track record
 3. **Halo NFT**: Unlocks upon complete buyback
 
 ### Pricing Formula
@@ -53,7 +53,7 @@ Buyback Price = Base Value × Performance Multiple × Market Factor
 - Direct purchase (preferred)
 - Structured payments
 - Revenue sharing
-- Token swap (if applicable)
+- Equity or revenue instruments (if applicable)
 
 ## Ascension Timeline
 

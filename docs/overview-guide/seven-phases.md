@@ -62,7 +62,7 @@ graph LR
 <p><strong>Success Criteria:</strong></p>
 
 <ul>
-<li><strong>Minimum 100 $SIGNAL in belief</strong></li>
+<li><strong>A threshold of community support</strong></li>
 <li><strong>At least 10 unique supporters</strong></li>
 <li><strong>Clear problem-solution fit</strong></li>
 <li><strong>Feasible execution plan</strong></li>
@@ -98,10 +98,10 @@ graph LR
 <p><strong>Duel Format:</strong></p>
 
 <ul>
-<li><strong>Entry Stakes</strong>: 1,000 $SIGNAL minimum</li>
+<li><strong>Entry</strong>: by application, nothing to put up</li>
 <li><strong>Preparation</strong>: 72 hours to prepare pitch</li>
 <li><strong>Presentation</strong>: Live pitch to community</li>
-<li><strong>Voting</strong>: Token-weighted community decision</li>
+<li><strong>Voting</strong>: community decision by Signal</li>
 <li><strong>Winner Takes All</strong>: Signal NFT + leadership rights</li>
 
 </ul>
@@ -123,7 +123,7 @@ graph LR
     1. **Demonstrate Expertise** - Show deep domain knowledge
     2. **Rally Support** - Build coalitions before the duel
     3. **Present Clear Plan** - Specific milestones win votes
-    4. **Show Commitment** - Stake significant tokens
+    4. **Show Commitment** - Make the scale of what you are taking on clear
     5. **Engage Actively** - Answer all questions thoroughly
 
 ## Phase 3: Ignition 🚀
@@ -164,7 +164,7 @@ graph TD
     B --> C[NFTs Deposited]
     C --> D[Governance Enabled]
     D --> E[Treasury Activated]
-    E --> F[Team Tokens Allocated]
+    E --> F[Team and Roles Set]
 ```
 
 ### Resource Allocation
@@ -254,7 +254,7 @@ When pivoting during Drift:
 <li>Milestone success rate: 80%+</li>
 <li>Team retention: 90%+</li>
 <li>User satisfaction: 4.5/5+</li>
-<li>Token velocity: Increasing</li>
+<li>Community forecast confidence: rising</li>
 
 </ul>
 </div>
@@ -304,7 +304,7 @@ graph LR
 <li><strong>Traditional VCs (now interested)</strong></li>
 <li>Strategic partners</li>
 <li>Revenue-based financing</li>
-<li>Token sales (if applicable)</li>
+<li>Strategic investment</li>
 <li>Community rounds</li>
 
 </ul>
@@ -419,7 +419,7 @@ Flare Phase Target Metrics:
 
 - **Spark**: Idea doesn't gather support → NFT remains tradeable
 - **Forge**: No suitable founder emerges → Spark returns to Arena
-- **Ignition**: Can't build MVP → Dissolution, token return
+- **Ignition**: Can't build MVP → Dissolution, unreleased rewards returned
 - **Drift**: No product-market fit → Pivot or dissolve
 - **Orbit**: Can't sustain operations → Acquisition candidate
 - **Flare**: Growth stalls → Return to Orbit or exit

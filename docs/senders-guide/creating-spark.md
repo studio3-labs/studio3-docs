@@ -166,7 +166,7 @@
 
 - Collaborative challenges
 
-- Progress tokenization
+- Verifiable progress records
 
 ## Crafting Your Narrative
 
@@ -460,7 +460,7 @@
 </ul>
 <p>** Results:**</p>
 <ul>
-<li>**50,000 $SIGNAL in first week**</li>
+<li>**Overwhelming support in the first week**</li>
 <li>500+ unique supporters</li>
 <li>Won Forge against 4 competitors</li>
 <li>Now in Orbit phase</li>

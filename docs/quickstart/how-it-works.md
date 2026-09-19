@@ -70,21 +70,22 @@
 <p><strong>How the community participates:</strong></p>
 <p>1. <strong>Research</strong></p>
 <p>the venture and team</p>
-<p>2. <strong>Decide</strong></p>
-<p>to signal belief or doubt</p>
-<p>3. <strong>Stake</strong></p>
-<p>$SIGNAL tokens on outcome</p>
+<p>2. <strong>Signal</strong></p>
+<p>support or doubt - free</p>
+<p>3. <strong>Forecast</strong></p>
+<p>the probability it happens - also free</p>
 <p>4. <strong>Monitor</strong></p>
 <p>progress actively</p>
-<p>5. <strong>Earn or lose</strong></p>
-<p>based on results</p>
+<p>5. <strong>Get scored</strong></p>
+<p>against the verified outcome</p>
 
 <p><strong>Example:</strong></p>
 <ul>
-<li><strong>You believe TeamX will deliver their app by March 1st</strong></li>
-<li>You stake 1,000 $SIGNAL tokens as a belief signal</li>
-<li>If they succeed: You get 1,500-3,000 tokens back (1.5x-3x)</li>
-<li>If they fail: Your 1,000 tokens are burned forever</li>
+<li><strong>You think TeamX will deliver their app by March 1st</strong></li>
+<li>You signal support, and forecast 70% that they make the date</li>
+<li>If they deliver: your forecast is scored as a good call and your accuracy improves</li>
+<li>If they miss: it is scored against you, and both the miss and your call stay public</li>
+<li>Neither costs you anything</li>
 
 </ul>
 </div>
@@ -113,18 +114,18 @@
 <h3>💰 The Settlement</h3>
 <p><strong>If Milestone Succeeds:</strong></p>
 <ul>
-<li><strong>Believers earn token multipliers (1.5x-3x)</strong></li>
-<li>Doubters lose their entire stake</li>
-<li>Founder unlocks next funding</li>
-<li>Anchor earns validation fee</li>
+<li><strong>The Arena releases the reward it was holding</strong></li>
+<li>Forecasts of success are scored correct</li>
+<li>Founder unlocks the next stage</li>
+<li>The achievement is recorded permanently</li>
 
 </ul>
 <p><strong>If Milestone Fails:</strong></p>
 <ul>
-<li><strong>Doubters earn token multipliers (1.2x-2x)</strong></li>
-<li>Believers lose their entire stake</li>
+<li><strong>The reward is not released</strong></li>
+<li>Forecasts of failure are scored correct</li>
 <li>Founder faces reputation damage</li>
-<li>Must pivot or abandon</li>
+<li>The failure is recorded permanently and must be answered for</li>
 
 </ul>
 </div>
@@ -172,7 +173,7 @@ Every venture progresses through seven phases:
 <p>Success creates value for everyone:</p>
 <ul>
 <li><strong>Founders</strong> build valuable ventures</li>
-<li><strong>Supporters</strong> earn token rewards</li>
+<li><strong>Supporters</strong> earn real rewards and a record worth having</li>
 <li><strong>Validators</strong> receive fees for quality assurance</li>
 <li><strong>Community</strong> benefits from innovation</li>
 </ul>
@@ -228,7 +229,7 @@ Every venture progresses through seven phases:
 <p><strong>Transparency</strong> + <strong>Skin in the Game</strong> + <strong>Community Wisdom</strong> = <strong>Better Outcomes</strong></p>
 <ul>
 <li><strong>Public pressure creates accountability</strong></li>
-<li>Token stakes ensure serious participation</li>
+<li>A permanent public record ensures serious participation</li>
 <li>Collective intelligence catches problems early</li>
 <li>Aligned incentives drive collaboration</li>
 <li>Gamification makes it engaging</li>

@@ -15,7 +15,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 <p>1. Create Your Account</p>
 
 <ul>
-<li><strong>Connect wallet with $SIGNAL tokens</strong></li>
+<li><strong>Sign up - a wallet is created for you, and you need no balance to start</strong></li>
 <li>Set up profile with real information</li>
 <li>Verify email for notifications</li>
 <li>Enable two-factor authentication</li>
@@ -138,7 +138,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 <p><strong>Technical Ready:</strong></p>
 
 <ul>
-<li>[ ] Wallet funded with $SIGNAL</li>
+<li>[ ] Account created and profile complete</li>
 <li>[ ] Development environment set</li>
 <li>[ ] Version control configured</li>
 <li>[ ] Communication tools ready</li>
@@ -168,23 +168,23 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 #### Week 1: Learning
 
-1. **Understand Signaling**
+1. **Understand Signalling**
    - Read signal mechanics
-   - Study reward calculations
-   - Learn burn scenarios
-   - Practice with paper trades
+   - Learn the difference between a Signal and a Forecast
+   - Understand how forecasts are scored
+   - Follow a few milestones without weighing in
 
 2. **Develop Analysis Framework**
    - Create evaluation checklist
-   - Define risk parameters
-   - Set position sizing rules
-   - Plan portfolio balance
+   - Decide what evidence would change your mind
+   - Work out where your judgement is actually good
+   - Plan which ventures to follow closely
 
-3. **Start Small**
-   - Make first 10 $SIGNAL signal
+3. **Start**
+   - Cast your first signal and your first forecast - both are free
    - Track reasoning publicly
    - Learn from outcome
-   - Adjust strategy
+   - Adjust approach
 
 #### Week 2: Building Skills
 
@@ -212,22 +212,22 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <h3>📈 Progressive Scaling</h3>
 
-<p><strong>Signal Sizing:</strong></p>
+<p><strong>Building the Habit:</strong></p>
 
 <ul>
-<li>Week 1: 10-50 $SIGNAL per signal</li>
-<li>Week 2: 50-100 $SIGNAL per signal</li>
-<li>Week 3: 100-500 $SIGNAL per signal</li>
-<li>Week 4: Your comfort level</li>
+<li>Week 1: one venture, followed closely</li>
+<li>Week 2: forecast every milestone in that venture</li>
+<li>Week 3: add a second venture in a different domain</li>
+<li>Week 4: review your calls against what happened</li>
 
 </ul>
-<p><strong>Portfolio Rules:</strong></p>
+<p><strong>Ground Rules:</strong></p>
 
 <ul>
-<li>Maximum 10% in one venture</li>
-<li>Minimum 5 active positions</li>
-<li>Balance belief/doubt signals</li>
-<li>Reserve 30% for opportunities</li>
+<li>Forecast only what you understand</li>
+<li>Write down your reasoning every time</li>
+<li>Keep Signals and Forecasts separate</li>
+<li>Skipping a question costs you nothing</li>
 
 </ul>
 </div>
@@ -318,7 +318,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 | Role | Common Mistake | Better Approach |
 |------|----------------|-----------------|
 | **Sender** | Over-promising on first milestone | Under-promise, over-deliver |
-| **Echo** | Betting entire stake on one venture | Diversify from day one |
+| **Echo** | Forecasting on ventures you don't understand | Follow a few closely, skip the rest |
 | **Anchor** | Being too harsh or too lenient | Find balanced middle ground |
 
 ## 30-Day Success Metrics
@@ -345,9 +345,9 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 <h4>📡 Echo Success</h4>
 
 <ul>
-<li>10+ signals placed</li>
-<li>60%+ accuracy rate</li>
-<li>100+ $SIGNAL profit</li>
+<li>10+ signals cast</li>
+<li>10+ forecasts scored</li>
+<li>Calibration close to your stated confidence</li>
 <li>Active in 3+ ventures</li>
 <li>Growing reputation</li>
 

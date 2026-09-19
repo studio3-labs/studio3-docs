@@ -271,12 +271,12 @@
 <li>Risk managed</li>
 
 </ul>
-<p>2. **Portfolio Approach**</p>
+<p>2. **Coverage Approach**</p>
 
 <ul>
 <li>Assigned sectors/phases</li>
-<li>Diversification built</li>
-<li>in</li>
+<li>Broad coverage between you</li>
+<li>Independent calls</li>
 
 <li>Expertise leveraged</li>
 
@@ -366,16 +366,16 @@
 <li>Expert consultations</li>
 
 </ul>
-<p>2. **Signal Pool**</p>
+<p>2. **Shared Research Pool**</p>
 
 <ul>
-<li>Collective bankroll</li>
+<li>Pooled analysis</li>
 
-<li>Proportional ownership</li>
+<li>Shared sources</li>
 
-<li>Professional management</li>
+<li>Coordinated coverage</li>
 
-<li>Risk distribution</li>
+<li>Independent forecasts</li>
 
 </ul>
 <p>3. **Hybrid Pool**</p>

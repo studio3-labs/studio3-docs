@@ -12,23 +12,24 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 
 ## Financial Requirements
 
-### Token Holdings
+### What You Need to Start
 
 <div class="arena-card" markdown="1">
 
-### 💰 Minimum Stakes
+### 💰 Nothing to Buy
 
-**Phase-Based Requirements:**
+**There is no Studio3 token, and no minimum holding to enter.**
 
-- **Spark Entry**: 100 $SIGNAL (recommended 500+)
-- **Forge Competition**: 1,000 $SIGNAL minimum
-- **Ignition Launch**: 5,000 $SIGNAL reserve
-- **Operations Buffer**: 10,000 $SIGNAL recommended
-**Why You Need Tokens:**
+- **Spark Entry**: an idea and the willingness to defend it in public
+- **Forge Competition**: a Spark NFT and a founder profile
+- **Ignition Launch**: a team and a fundable first milestone
+- **Operations**: enough runway to deliver what you declare
 
-- Demonstrate skin in the game
-- Pay for platform operations
-- Emergency milestone coverage
+**What you do need:**
+
+- Real operating runway for the work itself
+- The ability to fund, or attract funding for, the rewards your Arena will hold
+- Time to answer the community in public
 - Team incentive pool
 - Community rewards
 </div>
@@ -96,8 +97,8 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 3. **DAO Operations**
    - Multisig management
    - Governance proposals
-   - Token distributions
    - Treasury management
+   - NFT custody
 </div>
 
 ## Time Commitment
@@ -187,7 +188,7 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 - Freelance platforms
 **Incentive Structures:**
 
-- Token allocations (5-15%)
+- Equity allocations (5-15%)
 - Milestone bonuses
 - Revenue sharing
 - Reputation rewards
@@ -291,7 +292,7 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 - Tax obligations
 - Data protection (GDPR)
 - Jurisdiction requirements
-- Token classification
+- Reward and prize classification
 </div>
 
 ### Risk Mitigation

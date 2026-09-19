@@ -4,9 +4,9 @@
 
 <div class="arena-card">
 
-<h3>🎯 Optimize Returns by Phase</h3>
+<h3>🎯 Read Each Phase Correctly</h3>
 
-<p>Each phase in Studio3's seven-phase journey presents unique opportunities and risks. This guide provides deep insights into phase-specific strategies, helping you maximize returns by understanding the nuances of each stage in a venture's lifecycle.</p>
+<p>Each phase in Studio3's seven-phase journey asks a different question and fails in a different way. This guide covers what to look for, what to ask, and how confident to be at each stage of a venture's lifecycle. Signalling and forecasting are free throughout - what changes is how hard the call is.</p>
 
 </div>
 
@@ -16,17 +16,17 @@
 
 <div class="arena-card">
 
-<h3>📈 Risk-Return by Phase</h3>
+<h3>📈 How Hard the Call Is, by Phase</h3>
 
-| Phase | Risk Level | Return Range | Success Rate | Typical Duration |
-|-------|------------|--------------|--------------|------------------|
-| ✨ Spark | Very High | 2.5x-4x | 55-60% | 7-14 days |
-| ⚔️ Forge | High | 2x-3x | 60-65% | 14-21 days |
-| 🚀 Ignition | High-Med | 1.7x-2.5x | 65-70% | 30-60 days |
-| 🌊 Drift | Medium | 1.5x-2x | 70-75% | 60-90 days |
-| 🛸 Orbit | Low-Med | 1.3x-1.7x | 75-80% | 90-120 days |
-| 🔥 Flare | Low | 1.2x-1.5x | 80-85% | 120-180 days |
-| 🎖️ Ascension | Very Low | 1.1x-1.3x | 85-90% | 180+ days |
+| Phase | Uncertainty | Credit for a Good Call | Typical Success Rate | Typical Duration |
+|-------|-------------|------------------------|----------------------|------------------|
+| ✨ Spark | Very High | Highest | 55-60% | 7-14 days |
+| ⚔️ Forge | High | High | 60-65% | 14-21 days |
+| 🚀 Ignition | High-Med | High | 65-70% | 30-60 days |
+| 🌊 Drift | Medium | Medium | 70-75% | 60-90 days |
+| 🛸 Orbit | Low-Med | Low-Med | 75-80% | 90-120 days |
+| 🔥 Flare | Low | Low | 80-85% | 120-180 days |
+| 🎖️ Ascension | Very Low | Very Low | 85-90% | 180+ days |
 
 </div>
 
@@ -43,7 +43,7 @@
 <li>**Raw ideas enter Arena**</li>
 <li>Minimal validation</li>
 <li>High uncertainty</li>
-<li>Maximum potential returns</li>
+<li>The hardest calls on the platform</li>
 <li>Shortest duration</li>
 
 </ul>
@@ -79,11 +79,11 @@
 <ul>
 <li>First 24 hours entry</li>
 
-<li>Maximum multiplier</li>
+<li>Most credit if you are right</li>
 
 <li>High risk tolerance</li>
 
-<li>Small positions only</li>
+<li>Hedge your probability</li>
 
 <li>Quick decisions</li>
 
@@ -101,11 +101,11 @@
 <li>More information</li>
 
 </ul>
-<p><strong>Position Sizing:</strong></p>
+<p><strong>How Confident to Be:</strong></p>
 <ul>
-<li>**Maximum 1% of portfolio per signal**</li>
-<li>Diversify across 5-10 Sparks</li>
-<li>Expect 50% failure rate</li>
+<li>**Rarely above 70% at this stage**</li>
+<li>Follow 5-10 Sparks rather than one</li>
+<li>Expect roughly half to fail</li>
 <li>Focus on home runs</li>
 
 </ul>
@@ -172,7 +172,7 @@
 
 <li>Monitor sentiment</li>
 
-<li>Adjust positions</li>
+<li>Update your forecast</li>
 
 <li>Follow momentum</li>
 
@@ -180,9 +180,9 @@
 <p>3. **Post-Declaration**</p>
 
 <ul>
-<li>Back winner quickly</li>
+<li>Back the winner quickly</li>
 
-<li>Larger positions</li>
+<li>Commit to a firmer forecast</li>
 
 <li>Ride confidence</li>
 
@@ -271,7 +271,7 @@
 
 <li>Low risk</li>
 
-<li>Smaller returns</li>
+<li>Less credit for calling it</li>
 
 <li>High certainty</li>
 
@@ -340,7 +340,7 @@
 
 <li>Clear PMF</li>
 
-<li>Larger positions</li>
+<li>Forecast with confidence</li>
 
 </ul>
 <p>2. **Turnaround Play**</p>
@@ -352,7 +352,7 @@
 
 <li>New traction</li>
 
-<li>Higher returns</li>
+<li>A call few others will make</li>
 
 <li>Careful timing</li>
 
@@ -381,7 +381,7 @@
 <li>Predictable growth</li>
 <li>Established market</li>
 <li>Lower volatility</li>
-<li>Steady returns</li>
+<li>Few surprises</li>
 
 </ul>
 <p><strong>Investment Thesis:</strong></p>
@@ -390,7 +390,7 @@
 <li>Execution focus</li>
 <li>Scale potential</li>
 <li>Lower risk</li>
-<li>Consistent returns</li>
+<li>Consistent accuracy</li>
 
 </ul>
 <p><strong>Due Diligence:</strong></p>
@@ -409,21 +409,21 @@
 <div class="arena-card">
 
 <h3>⚖️ Stability Investing</h3>
-<p><strong>Portfolio Role:</strong></p>
+<p><strong>Role in Your Record:</strong></p>
 <ul>
-<li>**Core holdings**</li>
-<li>Larger positions</li>
+<li>**The steady base**</li>
+<li>Confident forecasts</li>
 <li>Lower volatility</li>
-<li>Steady accumulation</li>
-<li>Risk balance</li>
+<li>Reliable accuracy</li>
+<li>Balance to the hard calls</li>
 
 </ul>
-<p><strong>Signal Sizing:</strong></p>
+<p><strong>How Confident to Be:</strong></p>
 <ul>
-<li>**3-5% positions acceptable**</li>
+<li>**75-85% is defensible here**</li>
 <li>Focus on quality</li>
-<li>Long-term holds</li>
-<li>Compound returns</li>
+<li>Follow over the long term</li>
+<li>Steady accuracy</li>
 <li>Low maintenance</li>
 
 </ul>
@@ -479,11 +479,11 @@
 <div class="arena-card">
 
 <h3>📈 Scale Investment Tactics</h3>
-<p><strong>Investment Approach:</strong></p>
+<p><strong>Approach:</strong></p>
 <ul>
-<li>**Large, safe positions**</li>
-<li>Lower returns accepted</li>
-<li>Portfolio anchors</li>
+<li>**Confident, low-drama calls**</li>
+<li>Little credit, high accuracy</li>
+<li>The anchor of your record</li>
 <li>Reputation builders</li>
 <li>Network effects</li>
 
@@ -497,13 +497,13 @@
 <li>Exit potential</li>
 
 </ul>
-<p><strong>Position Management:</strong></p>
+<p><strong>Staying Engaged:</strong></p>
 <ul>
-<li>**5%+ positions possible**</li>
+<li>**High confidence is usually warranted**</li>
 <li>Long-term perspective</li>
 <li>Support actively</li>
-<li>Compound gains</li>
-<li>Exit planning</li>
+<li>Track the whole arc</li>
+<li>Watch for the Ascension plan</li>
 
 </ul>
 </div>
@@ -576,7 +576,7 @@
 <ul>
 <li>Confirmation of advancement</li>
 
-<li>New phase multipliers</li>
+<li>A fresh set of questions</li>
 
 <li>Fresh opportunity</li>
 
@@ -602,9 +602,9 @@
 <p>2. **Phase Momentum Trading**</p>
 
 <ul>
-<li>Ride success through phases</li>
+<li>Follow a venture through its phases</li>
 
-<li>Compound returns</li>
+<li>Your knowledge compounds</li>
 
 <li>Build relationships</li>
 
@@ -616,49 +616,46 @@
 
 <li>Deep expertise</li>
 
-<li>Consistent returns</li>
+<li>Consistent accuracy</li>
 
 <li>Reputation building</li>
 
 </ul>
 </div>
 
-## Phase Portfolio Allocation
+## Where to Spend Your Attention
 
-### Optimal Phase Mix
+### Choosing a Phase Mix
 
 <div class="arena-card">
 
-<h3>📊 Phase Diversification</h3>
-<p><strong>Aggressive Portfolio:</strong></p>
-<p>For risk-tolerant Echoes seeking maximum returns:</p>
+<h3>📊 Three Workable Patterns</h3>
+<p><strong>Hard-calls first:</strong></p>
+<p>For Echoes who want the calls that are worth most when they land:</p>
 <ul>
-<li><strong>Spark Phase: 25%</strong> - High risk, highest potential returns</li>
-<li><strong>Forge Phase: 20%</strong> - Competition outcomes offer strong opportunities</li>
-<li><strong>Ignition Phase: 30%</strong> - Building phase with good risk/reward balance</li>
-<li><strong>Drift Phase: 15%</strong> - Market validation reducing exposure</li>
-<li><strong>Later Phases: 10%</strong> - Minimal allocation to mature ventures</li>
+<li><strong>Spark and Forge</strong> - most of your attention, and most of your wrong answers</li>
+<li><strong>Ignition</strong> - where judgement about execution really shows</li>
+<li><strong>Later phases</strong> - occasional, for contrast</li>
 </ul>
 
-<p><strong>Balanced Portfolio:</strong></p>
-<p>For steady growth with managed risk:</p>
+<p><strong>Balanced:</strong></p>
+<p>For a record that is both credible and calibrated:</p>
 <ul>
-<li><strong>Spark Phase: 10%</strong> - Limited exposure to highest risk</li>
-<li><strong>Forge Phase: 15%</strong> - Moderate competition plays</li>
-<li><strong>Ignition Phase: 25%</strong> - Core allocation to building phase</li>
-<li><strong>Drift Phase: 25%</strong> - Equal weight to validation phase</li>
-<li><strong>Later Phases: 25%</strong> - Stability from mature ventures</li>
+<li><strong>A few Sparks</strong> - limited exposure to the hardest questions</li>
+<li><strong>Ignition and Drift</strong> - the core of your coverage</li>
+<li><strong>Later phases</strong> - a steady base of confident calls</li>
 </ul>
 
-<p><strong>Conservative Portfolio:</strong></p>
-<p>For risk-averse Echoes prioritizing capital preservation:</p>
+<p><strong>Steady:</strong></p>
+<p>For Echoes building accuracy before taking on harder calls:</p>
 <ul>
-<li><strong>Spark Phase: 5%</strong> - Minimal early-stage exposure</li>
-<li><strong>Forge Phase: 10%</strong> - Small allocation to competitions</li>
-<li><strong>Ignition Phase: 20%</strong> - Moderate building phase exposure</li>
-<li><strong>Drift Phase: 30%</strong> - Focus on proven traction</li>
-<li><strong>Later Phases: 35%</strong> - Majority in established ventures</li>
+<li><strong>Drift onwards</strong> - proven traction, checkable claims</li>
+<li><strong>Occasional early calls</strong> - only where you have domain knowledge</li>
+<li><strong>Move earlier</strong> as your calibration proves out</li>
 </ul>
+
+<p>None of this costs anything. The only scarce resource is your attention, and the only thing at
+risk is the credibility of your record.</p>
 
 </div>
 
@@ -672,7 +669,7 @@
 
 | Phase | Primary Risk | Mitigation Strategy |
 |-------|--------------|-------------------|
-| Spark | Idea invalidation | Small positions, diversify |
+| Spark | Idea invalidation | Hedge your probability, follow several |
 | Forge | Wrong winner | Research all candidates |
 | Ignition | Technical failure | Check progress weekly |
 | Drift | No PMF | Monitor metrics closely |
@@ -700,52 +697,52 @@
 <th>Total Signals</th>
 <th>Successful</th>
 <th>Win Rate</th>
-<th>Average Return</th>
+<th>Calibration</th>
 </tr>
 <tr>
 <td>Spark</td>
 <td>Track total Spark signals</td>
 <td>Count wins</td>
 <td>Calculate %</td>
-<td>Average multiplier</td>
+<td>Stated confidence vs outcomes</td>
 </tr>
 <tr>
 <td>Forge</td>
 <td>Track Forge signals</td>
 <td>Count wins</td>
 <td>Calculate %</td>
-<td>Average multiplier</td>
+<td>Stated confidence vs outcomes</td>
 </tr>
 <tr>
 <td>Ignition</td>
 <td>Track Ignition signals</td>
 <td>Count wins</td>
 <td>Calculate %</td>
-<td>Average multiplier</td>
+<td>Stated confidence vs outcomes</td>
 </tr>
 <tr>
 <td>Drift</td>
 <td>Track Drift signals</td>
 <td>Count wins</td>
 <td>Calculate %</td>
-<td>Average multiplier</td>
+<td>Stated confidence vs outcomes</td>
 </tr>
 <tr>
 <td>Later Phases</td>
 <td>Track Orbit+ signals</td>
 <td>Count wins</td>
 <td>Calculate %</td>
-<td>Average multiplier</td>
+<td>Stated confidence vs outcomes</td>
 </tr>
 </table>
 
-<p>Example benchmarks: Spark (55% win rate, 2.8x return), Forge (67% win rate, 2.3x return), Ignition (72% win rate, 1.9x return), Drift (75% win rate, 1.7x return), Later phases (85% win rate, 1.4x return)</p>
+<p>Example benchmarks: Spark (55% accuracy), Forge (67%), Ignition (72%), Drift (75%), later phases (85%). A lower accuracy rate in early phases is expected - what matters is whether your stated confidence matched it.</p>
 
 <p><strong>Optimization Focus:</strong></p>
 <ul>
 <li>**Identify strong phases**</li>
 <li>Improve weak areas</li>
-<li>Adjust allocation</li>
+<li>Shift your attention</li>
 <li>Build expertise</li>
 
 </ul>
@@ -757,8 +754,8 @@
 
 Continue with:
 
-1. [Contrarian Plays](contrarian-plays.md) - Against the grain
-2. [Risk Management](risk-management.md) - Protect capital
+1. [Signalling Support](belief-strategies.md) - Backing a venture well
+2. [Signalling Doubt](doubt-strategies.md) - Useful scepticism
 3. [Community Engagement](community-engagement.md) - Build influence
 
 ---
@@ -767,4 +764,4 @@ Continue with:
     Each phase is a different game with different rules. Master the nuances of each, and you'll find opportunities others miss while avoiding risks others take.
 
 !!! success "Pro Strategy"
-    The best Echoes develop phase specializations. Find your sweet spot - maybe you excel at early-stage analysis or later-stage stability. Play to your strengths.
+    The best Echoes develop phase specialisations. Find your sweet spot - maybe you excel at early-stage analysis, maybe at judging whether a scale-up will hold together. Play to your strengths.

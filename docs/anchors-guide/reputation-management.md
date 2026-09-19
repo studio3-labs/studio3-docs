@@ -59,10 +59,10 @@
 <p>founder_nps * 0.1</p>
 <p>)</p>
 
-<p>behavior_multiplier = calculate_behavior_score()</p>
+<p>behavior_factor = calculate_behavior_score()</p>
 <p>specialization_bonus = calculate_expertise_bonus()</p>
 
-<p>return performance * behavior_multiplier + specialization_bonus</p>
+<p>return performance * behavior_factor + specialization_bonus</p>
 ```
 
 </div>
@@ -534,18 +534,14 @@
 
 <div class="arena-card">
 
-<h3>💰 Monetizing Your Brand</h3>
-<p>**Reputation Monetization:**</p>
+<h3>💰 What a Strong Reputation Opens Up</h3>
 
-<p>**Rate Premiums:**</p>
+<p>**A strong record gets you asked to do the work that matters most**, and gives you the standing to
+turn down the rest. Platform compensation rates are not yet set, so no premium scale is published
+here - see <a href="compensation.md">Compensation</a>.</p>
 
-<p>| Reputation Level | Rate Multiplier |</p>
-<p>|-----------------|----------------|</p>
-<p>| Building | 1.0x |</p>
-<p>| Established | 1.3x |</p>
-<p>| Expert | 1.6x |</p>
-<p>| Authority | 2.0x |</p>
-<p>| Legend | 2.5x+ |</p>
+<p>**Where reputation clearly pays:** advisory roles, board seats, speaking and consulting, all
+arranged directly rather than through the platform.</p>
 
 <p>**Premium Opportunities:**</p>
 

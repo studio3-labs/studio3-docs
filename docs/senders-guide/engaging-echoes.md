@@ -6,7 +6,7 @@
 
 <h3>📡 Transforming Signals into Support</h3>
 
-<p>Echoes are your early believers - the community members who signal confidence in your venture through $SIGNAL tokens. Learning to engage, nurture, and leverage this community is crucial for your venture's success.</p>
+<p>Echoes are your early believers - the community members who signal support for your venture and forecast whether you will deliver. Both cost them nothing, which means the only thing holding their attention is you. Learning to engage, nurture, and leverage this community is crucial for your venture's success.</p>
 
 </div>
 
@@ -51,7 +51,7 @@
 <p>3. **Financial Backers**</p>
 
 <ul>
-<li>Token investors</li>
+<li>Future investors</li>
 
 <li>Future equity interest</li>
 
@@ -80,11 +80,11 @@
 <h3>🧠 Understanding Motivations</h3>
 <p>** Why Echoes Signal:**</p>
 
-<p><strong>Financial Motivations:</strong></p>
+<p><strong>What they get out of it:</strong></p>
 <ul>
-<li>Primary: Token appreciation potential</li>
-<li>Secondary: Early access to deals and opportunities</li>
-<li>Tertiary: Network effects and value growth</li>
+<li>Primary: a public record of judgement that proves out</li>
+<li>Secondary: early access to ventures, deals and opportunities</li>
+<li>Tertiary: rewards through the Drops and Bounties your Arena holds</li>
 </ul>
 
 <p><strong>Strategic Motivations:</strong></p>
@@ -308,8 +308,8 @@
    
    <p><strong>Ambassador Reward Structure:</strong></p>
    <ul>
-   <li><strong>Referrals</strong>: 5% signal bonus for each new Echo</li>
-   <li><strong>Content Creation</strong>: 100 $SIGNAL per quality piece</li>
+   <li><strong>Referrals</strong>: recognition for each new Echo brought in</li>
+   <li><strong>Content Creation</strong>: a bounty, where you have posted one</li>
    <li><strong>Community Moderation</strong>: Monthly reward packages</li>
    <li><strong>Bug Reporting</strong>: Bounty program with tiered rewards</li>
    <li><strong>Feature Suggestions</strong>: Implementation credits and recognition</li>

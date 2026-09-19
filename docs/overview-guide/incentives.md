@@ -70,18 +70,18 @@ graph TD
 ### For Echoes (Supporters)
 
 ### 📡 Echo Incentive Matrix
-**Direct Returns:**
+**What you get:**
 
-| Signal Type | Accuracy | Return Multiple | Risk |
-|-------------|----------|-----------------|------|
-| Early Belief | Correct | 2.5-3x | High |
-| Late Belief | Correct | 1.5-2x | Medium |
-| Early Doubt | Correct | 1.8-2x | Medium |
-| Contrarian | Correct | +0.3x bonus | Varies |
+| What you do | Costs | What it earns you |
+|-------------|-------|-------------------|
+| Signal support or doubt | Nothing | A say in what the venture does next |
+| Forecast an outcome | Nothing | A public, scored accuracy record |
+| Claim and deliver a bounty | Your work | A real reward, released by the Arena |
+| Contribute to a venture that succeeds | Your work | A share of what the Arena holds |
 
 ** Indirect Benefits:**
 
-- **🌟 **Reputation Growth: XP from accurate predictions
+- **🌟 **Reputation Growth: progression titles from verified outcomes and forecast accuracy
 - **🤝 **Network Access: Connect with winners early
 - **🎓 **Learning Opportunity: Understand venture building
 - **🎯 **Influence Power: Shape venture direction
@@ -89,29 +89,29 @@ graph TD
 ** Behavioral Incentives:**
 
 - **Research rewarded over speculation**
-- Diversification encouraged through portfolio approach
+- Calibration rewarded over volume
 - Active engagement improves outcomes
-- Long-term holders gain reputation compound
+- Consistency over time is what builds a title
 
 ### For Anchors (Validators)
 
 ### ⚓ Anchor Reward System
-** Fee Structure:**
+** How Anchors are rewarded:**
 
-- **Base fee**:
-  3% of milestone value
-- **Quality multiplier**:
-  1x to 3x based on validation score
-- **Speed bonus**:
-  Up to 20% for 24-hour completion
-- **Reputation multiplier**:
-  +10% per 10,000 XP
-- **Maximum fee**:
-  Capped at 10% of milestone value
+- **Real rewards**:
+  USDC and non-cash items, released by the Arena
+- **Against verified work**:
+  Paid for verification and mentorship that actually happened
+- **Rates and proportions**:
+  Not yet set, and deliberately not described here
+
+!!! note "Verification at launch"
+    Studio3 staff verify milestones and bounties at launch. Anchors take verification over as the
+    platform matures.
 
 ** Additional Incentives:**
 
-- **🎆 **Success Participation: Tokens in validated ventures
+- **🎆 **Success Participation: a share of what the Arena releases on ventures you helped
 - **👥 **Network Premium: Access to top founders
 - **🏅 **Status Recognition: Elite validator standing
 - **🌱 **Ecosystem Impact: Shape quality standards
@@ -156,10 +156,10 @@ graph LR
 - Abandoned ventures blacklist founders
     
     For Echoes:
-- **Wrong signals burn tokens irrecoverably **
-- Herd following punished through contrarian bonuses
+- **Wrong forecasts are recorded permanently against your accuracy**
+- Herd following shows up as poor calibration
 
-- Inactive accounts lose reputation over time
+- Reputation reflects recent, verified activity
     
     For Anchors:
 - **Poor validations reduce future assignments**
@@ -169,36 +169,39 @@ graph LR
 
 ## Economic Alignments
 
-### Token Economics
+### How the Economics Work
+
+Studio3 has no native token, so none of this runs on supply, demand, or burns. It runs on real
+rewards committed up front and released against verified results.
 
 <div class="grid cards">
     <div class="card">
-        <h4>💵 Value Accrual</h4>
-        <p>Success increases token demand</p>
+        <h4>💵 Real Rewards</h4>
+        <p>USDC and non-cash items</p>
         <ul>
-            <li>More ventures need signals</li>
-            <li>Burned tokens reduce supply</li>
-            <li>Reputation requires holding</li>
+            <li>Committed to the Arena before work starts</li>
+            <li>Released on verified success</li>
+            <li>Not released on failure</li>
         </ul>
     </div>
     
     <div class="card">
-        <h4>🔥 Burn Mechanics</h4>
-        <p>Failure removes tokens permanently</p>
+        <h4>🔥 Permanent Record</h4>
+        <p>Failure is public and stays public</p>
         <ul>
-            <li>No redistribution to winners</li>
-            <li>Deflationary pressure</li>
-            <li>Quality maintenance</li>
+            <li>Nothing is quietly retired</li>
+            <li>A clean record is hard to get</li>
+            <li>Which is what makes it worth having</li>
         </ul>
     </div>
     
     <div class="card">
-        <h4>🌀 Velocity Control</h4>
-        <p>Incentives for optimal flow</p>
+        <h4>🌀 Free Participation</h4>
+        <p>No barrier to weighing in</p>
         <ul>
-            <li>Staking for signals</li>
-            <li>Reputation time-locks</li>
-            <li>Graduation requirements</li>
+            <li>Signals cost nothing</li>
+            <li>Forecasts cost nothing</li>
+            <li>Titles come from outcomes, not holdings</li>
         </ul>
     </div>
 </div>
@@ -222,7 +225,7 @@ flowchart TD
 
 ### Reputation as Currency
 
-### 🌟 The XP Economy
+### 🌟 Reputation Without Points
 **How Reputation Aligns Behavior:**
 
 1. 
@@ -238,7 +241,7 @@ Cannot Be Bought
 - Success breeds success
 - **Reputation Benefits: **
 
-- **🎯 Higher signal multipliers**
+- **🎯 A title that reflects verified work**
 - 🗿️ Governance voting weight
 - 🎆 Priority access to opportunities
 - 🤝 Trust in interactions
@@ -262,7 +265,7 @@ Cannot Be Bought
 
 
 <ul>
-<li>Quick signal returns</li>
+<li>Fast feedback on your forecasts</li>
 
 
 <li>Milestone funding</li>
@@ -271,7 +274,7 @@ Cannot Be Bought
 <li>Validation fees</li>
 
 
-<li>Daily XP gains</li>
+<li>Bounties delivered and paid</li>
 
 </ul>
 </div>
@@ -319,7 +322,7 @@ Cannot Be Bought
 
 1. **Sybil Attacks** Reputation tied to single identity
 
-- Minimum stakes prevent spam
+- Titles require verified outcomes, which extra accounts cannot manufacture
 
 - Network analysis detects clusters
 
@@ -330,13 +333,13 @@ Cannot Be Bought
 
 - Community oversight
 
-3. **Pump & Dump**
+3. **Hype cycles**
 
 - **Long-term reputation effects**
 
-- Burn mechanics punish failure
+- Rewards only release against verified delivery
 
-- Vesting requirements
+- Failure stays on the record
 
 4. **Information Asymmetry**
 
@@ -375,7 +378,7 @@ When incentives seem misaligned:
 
 - **If venture quality drops**:
   Increase failure penalties
-- If Echo participation lags: Boost return multipliers
+- If Echo participation lags: Make forecast questions clearer and windows longer
 - If Anchor performance suffers: Enhance quality bonuses
 - If growth slows: Introduce new incentives
 
@@ -390,8 +393,8 @@ When incentives seem misaligned:
 
 !!! tip "Planned Enhancements"
 
-- **Dynamic Multipliers**:
-  Adjust based on market conditions
+- **Conditional Signals**:
+  "I think we should, if..."
 - **Skill-Based Matching**:
   Connect compatible participants
 - **Achievement Unlocks**:
@@ -450,9 +453,9 @@ When incentives seem misaligned:
 
 #### 💪 The QuickPivot Comeback
 
-**Situation:** Failed first product, needed major pivot- Alignment: Burn mechanics motivated honest assessmentResult:
+**Situation:** Failed first product, needed major pivot- Alignment: A permanent public failure record motivated honest assessmentResult:
 
-Fast pivot, community retained, eventual success> "Losing tokens hurt, but it forced us to be honest about our failure. The quick pivot saved the venture and our supporters appreciated the transparency." - QuickPivot Founder
+Fast pivot, community retained, eventual success> "Having the failure sit there in public hurt, but it forced us to be honest about it. The quick pivot saved the venture and our supporters appreciated the transparency." - QuickPivot Founder
 
 ## Your Incentive Strategy
 
@@ -470,6 +473,5 @@ Fast pivot, community retained, eventual success> "Losing tokens hurt, but it fo
 - Active participation captures more value
 
 - Review role-specific incentives in detailed guides
-- Study [Token Economics](signal-token.md) for deeper understanding
-- Learn [Rewards & Penalties](rewards-system.md) specifics
-- Explore [Value Flow](value-flow.md) through ecosystem
+- Learn [Rewards & Consequences](rewards-system.md) specifics
+- Read [Signals & Forecasts](belief-signals.md) for how the community weighs in

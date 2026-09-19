@@ -122,7 +122,7 @@ This guide is specifically designed for founders (Senders) who want to build ven
 
 <li>Running Effective Arenas</li>
 
-<li>Managing Token Burns</li>
+<li>Handling Public Failure</li>
 
 </ul>
 </div>
@@ -140,8 +140,8 @@ Track your progress through key indicators:
 - On-time delivery rate
 - **Community Growth**
 - Active supporter count
-- **XP Accumulation**
-- Founder experience points
+- **Progression Title**
+- Earned from verified delivery
 
 ## 🌟 Featured Success Stories
 

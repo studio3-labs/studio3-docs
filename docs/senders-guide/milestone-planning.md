@@ -216,44 +216,36 @@
 
 <div class="arena-card">
 
-<h3>💰 Configuring Milestone Rewards</h3>
+<h3>💰 What the Arena Holds</h3>
 
-<p>**As a Sender, you control how arena rewards are distributed:**</p>
+<p>**A milestone carries a reward, and the Arena holds it until the outcome is settled.**</p>
 
-<p>When declaring a milestone, you set the reward split between:</p>
+<p>A reward can be USDC, non-cash items - merch, access, tickets, credits, digital collectibles - or
+both. It is committed before the work starts, which is what makes the commitment credible, and it
+is released only when the milestone is verified as achieved.</p>
+
+<p>**How it is shared out:**</p>
 <ul>
-<li><strong>Company Pool:</strong> Funds allocated for venture development</li>
-<li><strong>Participant Pool:</strong> Rewards for Echoes and Anchors who participate</li>
+<li>As the Sender, you propose how the reward is divided between the people who contributed</li>
+<li>Contributors can dispute your proposal</li>
+<li>An Anchor arbitrates the dispute</li>
 </ul>
 
-<p>**Typical Split Configurations:**</p>
-
-<ul>
-<li><strong>Early Stage (Spark/Forge):</strong> 30% Company / 70% Participants
-   - Higher participant rewards to attract initial support</li>
-<li><strong>Growth Stage (Ignition/Drift):</strong> 50% Company / 50% Participants
-   - Balanced allocation as venture gains traction</li>
-<li><strong>Mature Stage (Orbit/Flare):</strong> 70% Company / 30% Participants
-   - More resources for scaling, established community</li>
-</ul>
-
-<p>**Reward Distribution Within Participant Pool:**</p>
-<ul>
-<li><strong>Echoes (Supporters):</strong> 85% of participant pool
-   - Distributed based on signal accuracy and stake size</li>
-<li><strong>Anchors (Validators):</strong> 15% of participant pool
-   - Fixed validation fees plus performance bonuses</li>
-</ul>
+<p>The proportions themselves are not fixed by the platform, and are not specified here.</p>
 
 <p>**Strategic Considerations:**</p>
 <ul>
-<li>Higher participant splits attract more signals</li>
-<li>Lower company splits may limit execution resources</li>
-<li>Adjust splits based on milestone difficulty</li>
-<li>Consider community sentiment and phase requirements</li>
+<li>A reward that is clearly worth the work attracts better contributors</li>
+<li>A split proposal that contributors accept without dispute saves everyone time</li>
+<li>Scale the reward to milestone difficulty</li>
+<li>Remember the reward is committed up front - do not promise what you cannot fund</li>
 </ul>
 
 </div>
+
+!!! note "Being built, not yet live"
+    Arena-held rewards, Drops, Bounties and evidence submission are settled decisions that are
+    still being built.
 
 ## Planning Process
 

@@ -32,7 +32,7 @@
 </ul>
 <p>You'll need:</p>
 <ul>
-<li>1,000+ $SIGNAL tokens</li>
+<li>An idea worth defending in public</li>
 <li>Time commitment (full-time)</li>
 <li>Team building skills</li>
 
@@ -53,7 +53,7 @@
 </ul>
 <p>You'll need:</p>
 <ul>
-<li>100+ $SIGNAL tokens</li>
+<li>An account - nothing to buy</li>
 <li>Daily time (30-60 min)</li>
 <li>Research mindset</li>
 
@@ -92,19 +92,19 @@
 
 <h3>💻 What You Need</h3>
 
-<p>1. <strong>Web3 Wallet</strong></p>
+<p>1. <strong>An Account</strong></p>
 
 <ul>
-<li>MetaMask (recommended)</li>
-<li>WalletConnect compatible</li>
-<li>Hardware wallet (optional but recommended)</li>
+<li>Email or social sign-up</li>
+<li>A wallet is created for you</li>
+<li>No balance needed to participate</li>
 </ul>
-<p>2. <strong>$SIGNAL Tokens</strong></p>
+<p>2. <strong>Nothing to Buy</strong></p>
 
 <ul>
-<li>Minimum based on role</li>
-<li>Available on major DEXs</li>
-<li>Start small to learn</li>
+<li>Signals are free</li>
+<li>Forecasts are free</li>
+<li>Studio3 has no token</li>
 </ul>
 <p>3. <strong>Platform Access</strong></p>
 
@@ -117,13 +117,12 @@
 
 ### Account Setup Process
 
-1. <strong>Install MetaMask</strong> or compatible wallet
-2. <strong>Fund with ETH</strong> for gas fees
-3. <strong>Acquire $SIGNAL</strong> tokens via DEX
-4. <strong>Connect to Studio3</strong> platform
-5. <strong>Complete profile</strong> with real information
-6. <strong>Verify email</strong> for notifications
-7. <strong>Join Discord</strong> community
+1. <strong>Sign up</strong> with email or a social account
+2. <strong>Get your wallet</strong> - created for you, transparently
+3. <strong>Connect to Studio3</strong> platform
+4. <strong>Complete profile</strong> with real information
+5. <strong>Verify email</strong> for notifications
+6. <strong>Join Discord</strong> community
 
 ## 📚 Step 3: Learn the Basics
 
@@ -154,14 +153,14 @@
 
 1. <strong>The Arena System</strong>
 - How public building works
-2. <strong>Signal Mechanics</strong>
-- Belief/doubt token stakes
+2. <strong>Signals and Forecasts</strong>
+- Two free actions, and why they differ
 3. <strong>Seven Phases</strong>
 - Venture progression path
-4. <strong>Rewards & Burns</strong>
-- Economic incentives
-5. <strong>Reputation (XP)</strong>
-- Long-term value building
+4. <strong>Rewards & Consequences</strong>
+- What the Arena holds, and what failure costs
+5. <strong>Progression Titles</strong>
+- Long-term reputation from verified outcomes
 
 ## 🌱 Step 4: Start Small
 
@@ -184,7 +183,7 @@
 
 <h4>📡 First Echo Steps</h4>
 
-<p>1. Make tiny test signal (10 $SIGNAL)</p>
+<p>1. Cast your first signal - it's free</p>
 <p>2. Research 5 ventures daily</p>
 <p>3. Join Echo discussion groups</p>
 <p>4. Track your predictions</p>
@@ -246,23 +245,25 @@
 
 ## 📈 Step 6: Build Your Reputation
 
-### The XP System
+### Progression Titles
 
 <div class="arena-card">
 
 <h3>🌟 Reputation Matters</h3>
 
-<p><strong>How to earn XP:</strong></p>
+<p>Titles run novice, adept, expert, master, legend. They are earned, never bought or accumulated.</p>
+
+<p><strong>What earns them:</strong></p>
 <ul>
-<li>Successful milestones (Senders)</li>
-<li>Accurate signals (Echoes)</li>
+<li>Verified milestones delivered (Senders)</li>
+<li>Forecast accuracy (Echoes)</li>
 <li>Quality validations (Anchors)</li>
-<li>Community contributions</li>
-<li>Consistent participation</li>
+<li>Delivered bounties</li>
 </ul>
-<p>Benefits of high XP:</p>
+<p>What they are not earned from: points, staking, holdings, or time served.</p>
+<p>Benefits of a high title:</p>
 <ul>
-<li>Better multipliers</li>
+<li>Your judgement carries weight</li>
 <li>Priority access</li>
 <li>Trusted status</li>
 <li>Governance weight</li>
@@ -293,9 +294,9 @@
 <p><strong>Day 1:</strong></p>
 <ul>
 <li>[ ] Choose your role</li>
-<li>[ ] Set up wallet</li>
-<li>[ ] Get $SIGNAL tokens</li>
 <li>[ ] Create account</li>
+<li>[ ] Complete your profile</li>
+<li>[ ] Cast your first signal</li>
 </ul>
 <p>Day 2-3:</p>
 <ul>
@@ -341,7 +342,7 @@
 <h4>❌ DON'T:</h4>
 
 <ul>
-<li>Rush into big stakes</li>
+<li>Forecast on ventures you haven't researched</li>
 
 <li>Ignore community wisdom</li>
 <li>Hide failures</li>

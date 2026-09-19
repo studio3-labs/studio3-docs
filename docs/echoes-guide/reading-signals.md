@@ -23,7 +23,7 @@
 <li><strong>Total Pool Size:</strong> Overall interest level</li>
 <li><strong>Belief/Doubt Ratio:</strong> Sentiment direction</li>
 <li><strong>Signal Velocity:</strong> Speed of accumulation</li>
-<li><strong>Average Stake Size:</strong> Conviction level</li>
+<li><strong>Average Forecast:</strong> Community confidence level</li>
 <li><strong>Echo Distribution:</strong> Participant spread</li>
 </ul>
 
@@ -44,12 +44,12 @@
 <p>Imagine a visual representation showing:</p>
 
 <ul>
-<li><strong>Belief Bar:</strong> 75% filled (7,500 $SIGNAL staked on belief)</li>
-<li><strong>Doubt Bar:</strong> 25% filled (2,500 $SIGNAL staked on doubt)</li>
-<li><strong>Total Pool:</strong> 10,000 $SIGNAL across all signals</li>
-<li><strong>Echo Count:</strong> 89 total (71 belief, 18 doubt)</li>
-<li><strong>Average Stake:</strong> 112 $SIGNAL per signal</li>
-<li><strong>24h Change:</strong> +35% growth in signal activity</li>
+<li><strong>Support Bar:</strong> 75% of signals say go ahead</li>
+<li><strong>Doubt Bar:</strong> 25% say don't</li>
+<li><strong>Echo Count:</strong> 89 total (71 support, 18 doubt)</li>
+<li><strong>Community Forecast:</strong> 62% chance the milestone is met</li>
+<li><strong>Forecasters:</strong> 54, of whom 11 have an expert title or above</li>
+<li><strong>24h Change:</strong> +35% growth in signal activity, forecast down 8 points</li>
 </ul>
 
 ## Reading Patterns
@@ -126,9 +126,9 @@
 <ol>
 <li><strong>Smart Money</strong>
 <ul>
-<li>High XP Echoes (5000+)</li>
+<li>Master and legend titles</li>
 <li>Track record 70%+</li>
-<li>Large stakes</li>
+<li>Well calibrated</li>
 <li>Early movers</li>
 </ul>
 </li>
@@ -143,7 +143,7 @@
 <li><strong>Retail Flow</strong>
 <ul>
 <li>New Echoes</li>
-<li>Small stakes</li>
+<li>No record yet</li>
 <li>Trend followers</li>
 <li>Sentiment drivers</li>
 </ul>
@@ -167,15 +167,15 @@
 <p><strong>Identification Methods:</strong></p>
 <ul>
 <li><strong>Check Echo profiles</strong></li>
-<li>Note stake sizes</li>
+<li>Note calibration, not just accuracy</li>
 <li>Track timing</li>
 <li>Monitor patterns</li>
 </ul>
 
 <p><strong>Smart Money Indicators:</strong></p>
 <ul>
-<li><strong>Early large stakes</strong></li>
-<li>Conviction positions</li>
+<li><strong>Early, confident forecasts</strong></li>
+<li>Positions taken before consensus formed</li>
 <li>No hedging</li>
 <li>Public analysis</li>
 </ul>
@@ -363,7 +363,7 @@
 <p><strong>Manipulation Signs:</strong></p>
 <ul>
 <li><strong>Artificial pumping</strong></li>
-<li>Coordinated stakes</li>
+<li>Coordinated signalling</li>
 <li>Fake accounts</li>
 <li>Misleading info</li>
 <li>Timing attacks</li>
@@ -420,7 +420,7 @@
 <li>Real-time monitoring</li>
 <li>Historical charts</li>
 <li>Echo profiles</li>
-<li>Stake analysis</li>
+<li>Forecast history</li>
 </ul>
 </li>
 <li><strong>Sentiment Dashboard</strong>
@@ -434,7 +434,7 @@
 <li><strong>Smart Money Tracker</strong>
 <ul>
 <li>Top Echo moves</li>
-<li>Large stakes</li>
+<li>Confident early calls</li>
 <li>Timing patterns</li>
 <li>Success rates</li>
 </ul>
@@ -447,7 +447,7 @@
 <p>Create custom metrics to track signal patterns:</p>
 <ul>
 <li><strong>Signal Momentum Indicator (SMI):</strong> Calculate the percentage change in signals over the past hour to gauge acceleration or deceleration</li>
-<li><strong>Smart Money Ratio (SMR):</strong> Divide smart money stakes by total stakes to see what percentage comes from experienced Echoes</li>
+<li><strong>Experienced Share (ES):</strong> What proportion of forecasts on a question come from Echoes with a proven record</li>
 <li><strong>Sentiment Velocity (SV):</strong> Track how quickly the belief percentage is changing per hour to identify sentiment shifts</li>
 </ul>
 <p>These indicators help you spot trends before they become obvious to everyone.</p>
@@ -488,8 +488,8 @@
 <h3>📖 Gaming Venture Pump</h3>
 <p><strong>Initial State:</strong></p>
 <ul>
-<li><strong>95% belief signals</strong></li>
-<li>Coordinated stakes</li>
+<li><strong>95% support signals</strong></li>
+<li>Coordinated signalling</li>
 <li>Hype comments</li>
 <li>No smart money</li>
 </ul>

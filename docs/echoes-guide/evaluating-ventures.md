@@ -368,9 +368,9 @@
 
 <p><strong>Current Signals:</strong></p>
 <ul>
-<li><strong>Belief/Doubt ratio</strong></li>
+<li><strong>Support/Doubt ratio</strong></li>
 <li>Signal velocity</li>
-<li>Large stakes</li>
+<li>Community forecast level and direction</li>
 <li>Echo quality</li>
 <li>Trend direction</li>
 </ul>
@@ -412,7 +412,7 @@
 <p><strong>Ecosystem Fit:</strong></p>
 <ul>
 <li><strong>Value creation</strong></li>
-<li>Token utility</li>
+<li>Usefulness to the wider ecosystem</li>
 <li>Network effects</li>
 <li>Community benefits</li>
 <li>Platform alignment</li>
@@ -422,7 +422,7 @@
 <ul>
 <li><strong>Acquisition targets</strong></li>
 <li>IPO possibility</li>
-<li>Token appreciation</li>
+<li>Revenue growth</li>
 <li>Dividend potential</li>
 <li>Sovereignty path</li>
 </ul>
@@ -451,9 +451,9 @@
 <p><strong>Total Score out of 80</strong></p>
 <p>Based on your evaluation:</p>
 <ul>
-<li><strong>Decision:</strong> Belief, Doubt, or Pass</li>
-<li><strong>Confidence Level:</strong> Your certainty percentage</li>
-<li><strong>Stake Size:</strong> Amount of $SIGNAL to risk</li>
+<li><strong>Decision:</strong> Support, Doubt, or Pass</li>
+<li><strong>Forecast:</strong> Your probability that the milestone is met</li>
+<li><strong>Review Date:</strong> When you will revisit this view</li>
 </ul>
 
 </div>
@@ -563,8 +563,8 @@
 <ul>
 <li><strong>FORTRESS score 64+/80</strong></li>
 <li>High confidence (70%+)</li>
-<li>Risk/reward favorable</li>
-<li>Portfolio fit</li>
+<li>Evidence outweighs the concerns</li>
+<li>Inside your expertise</li>
 <li>Timing right</li>
 </ul>
 
@@ -581,7 +581,7 @@
 <ul>
 <li><strong>Uncertain analysis</strong></li>
 <li>Outside expertise</li>
-<li>Portfolio limits</li>
+<li>Too little information to commit</li>
 <li>Better opportunities</li>
 <li>Waiting for data</li>
 </ul>

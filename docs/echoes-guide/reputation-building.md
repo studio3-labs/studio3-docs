@@ -4,9 +4,9 @@
 
 <div class="arena-card">
 
-<h3>🌟 Beyond Token Returns</h3>
+<h3>🌟 The Only Thing You Accumulate</h3>
 
-<p>In Studio3, your reputation is everything. It determines your earning potential, community trust, and platform opportunities. This guide shows you how to build, maintain, and leverage your reputation for long-term success.</p>
+<p>Studio3 has no token, no points and nothing to hold. What you build as an Echo is a record: how often you were right, how honest your confidence was, and what you actually contributed. This guide shows you how to build it, protect it, and use it.</p>
 
 </div>
 
@@ -20,9 +20,9 @@
 
 <p><strong>Components:</strong></p>
 <ol>
-<li><strong>XP Score</strong>
+<li><strong>Progression Title</strong>
 <ul>
-<li>Quantified experience points</li>
+<li>Novice, adept, expert, master, legend</li>
 </ul>
 </li>
 <li><strong>Accuracy Rate</strong>
@@ -50,56 +50,59 @@
 <p><strong>Why It Matters:</strong></p>
 
 <ul>
-<li>Higher reward multipliers</li>
-<li>Increased stake limits</li>
+<li>Your reasoning gets taken seriously</li>
+<li>Ventures seek out your view</li>
 <li>Priority platform access</li>
 <li>Community influence</li>
 <li>Governance rights</li>
 </ul>
 </div>
 
-### XP System Breakdown
+### Progression Titles
 
-| XP Range | Level | Title | Perks |
-|----------|-------|-------|-------|
-| 0-100 | 1 | Novice Echo | Basic access |
-| 100-500 | 2 | Active Echo | +10% multipliers |
-| 500-2000 | 3 | Expert Echo | +20% multipliers, Beta features |
-| 2000-5000 | 4 | Master Echo | +30% multipliers, Governance |
-| 5000-10000 | 5 | Grand Echo | +40% multipliers, Influence |
-| 10000+ | 6 | Legendary Echo | +50% multipliers, Platform partner |
+| Title | What it says about you |
+|-------|------------------------|
+| Novice Echo | Getting started; a record is beginning to form |
+| Adept Echo | Regular, honest calls with a workable accuracy rate |
+| Expert Echo | Strong accuracy and calibration in a recognisable domain |
+| Master Echo | A record others rely on when forming their own view |
+| Legend Echo | Sustained excellence over a long period and many outcomes |
 
-## Building Your Score
+!!! important "Titles are earned, never accumulated"
+    Titles come from **verified outcomes, forecast accuracy, and delivered bounties**. They do not
+    come from points, staking, holdings, activity volume, or time served. There is nothing to farm
+    and nothing to buy.
 
-### XP Earning Activities
+## Building Your Record
+
+### What Actually Counts
 
 <div class="arena-card">
 
-<h3>💎 Maximize XP Gains</h3>
-<p><strong>Signal Success:</strong></p>
+<h3>💎 The Three Inputs</h3>
+<p><strong>Forecast accuracy:</strong></p>
 <ul>
-<li><strong>Correct belief: +10-50 XP</strong></li>
-<li>Correct doubt: +15-60 XP</li>
-<li>Contrarian win: +25-100 XP</li>
-<li>Perfect milestone: +100 XP</li>
+<li><strong>Calls made in public before the answer was known</strong></li>
+<li>Scored against the verified outcome</li>
+<li>Confident and right counts for more; confident and wrong counts against</li>
+<li>Skipping a question costs nothing</li>
 
 </ul>
-<p><strong>Participation:</strong></p>
+<p><strong>Verified contributions:</strong></p>
 <ul>
-<li><strong>Daily activity: +5 XP</strong></li>
-<li>Weekly streak: +25 XP</li>
-<li>Monthly streak: +150 XP</li>
-<li>First signal on venture: +10 XP</li>
+<li><strong>Work you did on a venture that was checked and counted</strong></li>
+<li>Recorded against the milestone it helped deliver</li>
 
 </ul>
-<p><strong>Community:</strong></p>
+<p><strong>Delivered bounties:</strong></p>
 <ul>
-<li><strong>Quality analysis post: +20 XP</strong></li>
-<li>Helping newcomers: +10 XP</li>
-<li>Bug reports: +50 XP</li>
-<li>Tool creation: +200 XP</li>
+<li><strong>Work claimed, completed, and verified</strong></li>
+<li>The clearest evidence of all: you said you would, and you did</li>
 
 </ul>
+
+<p>Community contributions - good analysis, helping newcomers, building tools - build your standing
+with other Echoes. They are real and they matter, but they are not what moves your title.</p>
 </div>
 
 ### Accuracy Optimization
@@ -164,7 +167,7 @@
 <li>Mentor peers</li>
 
 </ul>
-<p><strong>Reputation Multipliers:</strong></p>
+<p><strong>What Builds Standing:</strong></p>
 <ul>
 <li><strong>Consistent presence</strong></li>
 <li>Valuable contributions</li>
@@ -182,11 +185,11 @@
 <h3>❌ What Hurts Your Standing</h3>
 <p><strong>Damaging Behaviors:</strong></p>
 <ul>
-<li><strong>Spreading misinformation (-100 XP)</strong></li>
-<li>Toxic behavior (-200 XP)</li>
-<li>Spam posting (-50 XP)</li>
-<li>Pump schemes (-500 XP)</li>
-<li>Multi-accounting (Ban)</li>
+<li><strong>Spreading misinformation</strong></li>
+<li>Toxic behavior</li>
+<li>Spam signalling</li>
+<li>Coordinated hype campaigns</li>
+<li>Multi-accounting (permanent ban)</li>
 
 </ul>
 <p><strong>Recovery Time:</strong></p>
@@ -310,28 +313,28 @@
 <p><strong>Month 1-3: Foundation</strong></p>
 <ul>
 <li><strong>Daily participation</strong></li>
-<li>Small, safe signals</li>
+<li>Forecast the clear cases first</li>
 <li>Learn from others</li>
 <li>Build connections</li>
-<li>Target: 100 XP</li>
+<li>Target: a first handful of scored forecasts</li>
 
 </ul>
 <p><strong>Month 4-6: Acceleration</strong></p>
 <ul>
-<li><strong>Increase activity</strong></li>
+<li><strong>Increase coverage in your domain</strong></li>
 <li>Share analyses</li>
 <li>Find specialization</li>
 <li>Mentor newcomers</li>
-<li>Target: 500 XP</li>
+<li>Target: calibration you can defend</li>
 
 </ul>
 <p><strong>Month 7-12: Establishment</strong></p>
 <ul>
 <li><strong>Recognized expert</strong></li>
-<li>Larger positions</li>
+<li>Early calls others follow</li>
 <li>Community leader</li>
 <li>Create content</li>
-<li>Target: 2000 XP</li>
+<li>Target: expert title, earned</li>
 
 </ul>
 </div>
@@ -352,7 +355,7 @@
 </ul>
 <p><strong>Weekly Goals:</strong></p>
 <ul>
-<li><strong>5+ quality signals</strong></li>
+<li><strong>5+ well-reasoned forecasts</strong></li>
 <li>10+ helpful posts</li>
 <li>1 deep analysis</li>
 <li>Connect with 3 new Echoes</li>
@@ -361,7 +364,7 @@
 <p><strong>Monthly Reviews:</strong></p>
 <ul>
 <li><strong>Accuracy trends</strong></li>
-<li>XP growth rate</li>
+<li>Calibration against your stated confidence</li>
 <li>Community feedback</li>
 <li>Strategy adjustments</li>
 
@@ -377,8 +380,8 @@
 <h3>💰 Reputation Benefits</h3>
 <p><strong>Direct Benefits:</strong></p>
 <ul>
-<li><strong>Higher multipliers (up to +50%)</strong></li>
-<li>Larger stake limits</li>
+<li><strong>Your view carries weight</strong></li>
+<li>Invitations to advise ventures</li>
 <li>Beta feature access</li>
 <li>Priority support</li>
 <li>Governance voting</li>
@@ -499,8 +502,8 @@
 <p><strong>Weekly Tracking:</strong></p>
 <p>Monitor your reputation growth with these weekly metrics:</p>
 <ul>
-<li><strong>XP Gained:</strong> Track your experience point accumulation</li>
-<li><strong>Accuracy Rate:</strong> Calculate your signal success percentage</li>
+<li><strong>Forecasts Scored:</strong> How many of your calls were settled this week</li>
+<li><strong>Accuracy Rate:</strong> What proportion of them were right</li>
 <li><strong>Community Posts:</strong> Count valuable contributions made</li>
 <li><strong>Newcomers Helped:</strong> Track mentorship activities</li>
 <li><strong>Recognition Events:</strong> Note when others acknowledge your expertise</li>
@@ -508,7 +511,7 @@
 
 <p><strong>Monthly Analysis:</strong></p>
 <ul>
-<li><strong>XP growth rate</strong></li>
+<li><strong>Calibration</strong></li>
 <li>Accuracy trends</li>
 <li>Engagement levels</li>
 <li>Influence metrics</li>
@@ -553,7 +556,7 @@
 <h3>⚠️ What to Avoid</h3>
 <p><strong>Short-term Thinking:</strong></p>
 <ul>
-<li><strong>XP farming behaviors</strong></li>
+<li><strong>Forecasting only the obvious</strong></li>
 <li>Quantity over quality</li>
 <li>Gaming the system</li>
 <li>Burning bridges</li>
@@ -580,7 +583,7 @@
 <h3>✅ 90-Day Challenge</h3>
 <p><strong>Days 1-30:</strong></p>
 <ul>
-<li>[ ] Reach 100 XP</li>
+<li>[ ] 10 forecasts scored</li>
 <li>[ ] 60% accuracy rate</li>
 <li>[ ] Join 3 communities</li>
 <li>[ ] Help 10 newcomers</li>
@@ -589,7 +592,7 @@
 </ul>
 <p><strong>Days 31-60:</strong></p>
 <ul>
-<li>[ ] Reach 300 XP</li>
+<li>[ ] 30 forecasts scored</li>
 <li>[ ] 65% accuracy rate</li>
 <li>[ ] Find specialization</li>
 <li>[ ] Create 1 tool</li>
@@ -598,7 +601,7 @@
 </ul>
 <p><strong>Days 61-90:</strong></p>
 <ul>
-<li>[ ] Reach 500 XP</li>
+<li>[ ] 50 forecasts scored</li>
 <li>[ ] 70% accuracy rate</li>
 <li>[ ] Establish expertise</li>
 <li>[ ] Lead discussions</li>

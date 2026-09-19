@@ -352,11 +352,11 @@
 <p>**Financial Rewards:**</p>
 
 <ul>
-<li>Validation fees (2-5% of milestones)</li>
-<li>Performance bonuses</li>
-<li>Success participation</li>
-<li>Long-term upside</li>
-<li>Stable income</li>
+<li>Real rewards - USDC and non-cash items - released by the Arena</li>
+<li>A share of what the Arena releases on ventures you helped</li>
+<li>Mentorship and advisory work, arranged directly</li>
+<li>Bounties, like anyone else</li>
+<li>Rates and proportions are not yet set - see <a href="compensation.md">Compensation</a></li>
 
 </ul>
 <p>**Professional Growth:**</p>

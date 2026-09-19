@@ -99,7 +99,7 @@
 <h3>📊 Know What You're Getting</h3>
 <p><strong>Clear Mechanics:</strong></p>
 <ul>
-<li><strong>Exact multipliers for correct predictions (1.5x-3x)</strong></li>
+<li><strong>Forecasts scored against a verified outcome</strong></li>
 <li>Public track records of all participants</li>
 <li>Real-time progress visibility</li>
 <li>Defined success criteria</li>
@@ -114,12 +114,12 @@
 - <strong>Build reputation</strong> through accuracy
 - <strong>Learn by doing</strong> in real scenarios
 
-### 4. Diversification Options
+### 4. No Barrier to Entry
 
-- <strong>Small minimum stakes</strong> (10 $SIGNAL)
-- <strong>Portfolio approach</strong> across ventures
-- <strong>Balance risk</strong> with belief/doubt signals
-- <strong>Compound gains</strong> through experience
+- <strong>Free to signal and forecast</strong> - nothing to buy
+- <strong>Follow as many ventures</strong> as you can actually judge
+- <strong>Skip anything</strong> you don't understand, at no cost
+- <strong>Compound a record</strong> through experience
 
 ## ⚓ Benefits for Validators (Anchors)
 
@@ -130,7 +130,7 @@
 <h3>💎 Your Experience Has Value</h3>
 
 <ul>
-<li><strong>Earn fees</strong> for validations (3-10%)</li>
+<li><strong>Earn real rewards</strong> released by the Arena</li>
 <li><strong>Build reputation</strong> as trusted expert</li>
 <li><strong>Guide next generation</strong> of founders</li>
 <li><strong>Stay connected</strong> to innovation</li>
@@ -224,12 +224,12 @@ Everyone benefits from the same outcome:
 - <strong>Competitive elements</strong> push excellence
 - <strong>Fun and addictive</strong> participation
 
-### 4. Real Stakes, Real Rewards
+### 4. Real Consequences, Real Rewards
 
-- <strong>Skin in the game</strong> ensures seriousness
-- <strong>Token burns</strong> filter out non-performers
-- <strong>Reputation systems</strong> build trust
-- <strong>Financial rewards</strong> motivate excellence
+- <strong>A permanent public record</strong> ensures seriousness
+- <strong>Failure that cannot be hidden</strong> filters out non-performers
+- <strong>Titles earned from verified outcomes</strong> build trust
+- <strong>Real rewards in USDC and goods</strong> motivate excellence
 
 ## 🎯 Who Benefits Most?
 

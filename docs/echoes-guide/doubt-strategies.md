@@ -1,4 +1,4 @@
-# Doubt Strategies
+# Signalling Doubt
 
 ## Strategic Skepticism for Smart Echoes
 
@@ -6,36 +6,35 @@
 
 <h3>❌ The Power of Productive Doubt</h3>
 
-<p>Doubt signals aren't about negativity - they're about protecting the ecosystem and profiting from realistic assessments. This guide teaches you to identify overvalued ventures, spot red flags early, and deploy doubt signals strategically for consistent returns.</p>
+<p>Doubt isn't about negativity - it's about protecting the ecosystem and being honest when the optimistic reading doesn't hold up. Signalling doubt is free, and so is forecasting failure. This guide teaches you to spot red flags early, raise them usefully, and put your scepticism on the record where it can be checked.</p>
 
 </div>
 
 ## Understanding Doubt Signals
 
-### The Economics of Doubt
+### What Doubt Does
 
 <div class="arena-card">
 
-<h3>💰 Doubt Reward Structure</h3>
+<h3>💰 Two Separate Actions</h3>
 
-<p><strong>Doubt Returns:</strong></p>
+<p><strong>A Signal of doubt</strong> says: I don't think this venture should go ahead, or should take this
+option. It is free, it is never scored, and the founder is expected to answer it.</p>
+
+<p><strong>A Forecast of failure</strong> says: I don't think they will pull this off, and here is my
+probability. It is free, and it <em>is</em> scored against the verified outcome.</p>
+
+<p>A doubt signal with no reasoning attached is noise. A doubt signal with a specific, checkable
+concern is one of the most valuable things an Echo can give a venture.</p>
+
+<p><strong>A forecast of failure resolves correct when:</strong></p>
+
 <ul>
-<li><strong>Base multiplier: 1.2x</strong></li>
-<li>1.5x</li>
-<li>Contrarian bonus: Up to +0.5x</li>
-<li>Accuracy bonus: Up to +0.3x</li>
-<li>Protection bonus: Up to +0.2x</li>
-<li><strong>Maximum possible: 2.5x</strong></li>
-</ul>
-
-<p><strong>Success Conditions:</strong></p>
-
-<ul>
-<li><strong>Milestone failed</strong></li>
-<li>Major delays</li>
-<li>Quality issues</li>
-<li>Pivot required</li>
-<li>Abandonment</li>
+<li><strong>The milestone is not achieved</strong></li>
+<li>The deadline passes without delivery</li>
+<li>Verification does not pass</li>
+<li>The venture pivots away from it</li>
+<li>The venture abandons it</li>
 
 </ul>
 </div>
@@ -116,7 +115,7 @@
 <li>Impossible claims</li>
 <li>Team issues</li>
 <li>No evidence</li>
-<li><strong>Stake: 3% of bankroll</strong></li>
+<li><strong>Forecast failure at 90%+ and say why</strong></li>
 </ul>
 
 <p><strong>High Doubt (75-90%)</strong></p>
@@ -124,7 +123,7 @@
 <li><strong>Multiple concerns</strong></li>
 <li>Weak fundamentals</li>
 <li>Poor progress</li>
-<li><strong>Stake: 2% of bankroll</strong></li>
+<li><strong>Forecast failure at 75-90%</strong></li>
 </ul>
 
 <p><strong>Moderate Doubt (60-75%)</strong></p>
@@ -132,7 +131,7 @@
 <li><strong>Significant risks</strong></li>
 <li>Overvaluation</li>
 <li>Execution questions</li>
-<li><strong>Stake: 1.5% of bankroll</strong></li>
+<li><strong>Forecast failure at 60-75%</strong></li>
 </ul>
 
 <p><strong>Low Doubt (50-60%)</strong></p>
@@ -140,7 +139,7 @@
 <li><strong>Some concerns</strong></li>
 <li>Worth flagging</li>
 <li>Small position</li>
-<li><strong>Stake: 1% of bankroll</strong></li>
+<li><strong>Raise the concern; consider passing on the forecast</strong></li>
 </ul>
 </div>
 
@@ -446,30 +445,29 @@
 </ul>
 </div>
 
-## Doubt Portfolio Management
+## Keeping Doubt in Proportion
 
-### Diversification Strategy
+### Where Doubt Comes From
 
 <div class="arena-card">
 
-<h3>📊 Doubt Portfolio Structure</h3>
-<p><strong>Optimal Doubt Mix:</strong></p>
-<p>Structure your doubt portfolio across these categories:</p>
+<h3>📊 Kinds of Doubt</h3>
+<p><strong>Most well-founded doubt falls into one of these:</strong></p>
 <ul>
-<li><strong>Technical Doubts (30%):</strong> High conviction based on technical impossibilities</li>
-<li><strong>Overvaluation (25%):</strong> Market correction opportunities from hype</li>
-<li><strong>Competition (20%):</strong> Better alternatives already exist</li>
-<li><strong>Team Concerns (15%):</strong> Execution risk from team issues</li>
-<li><strong>Timing Issues (10%):</strong> Unrealistic milestone timelines</li>
+<li><strong>Technical:</strong> the thing they have promised is not achievable as described</li>
+<li><strong>Overvaluation:</strong> the claim has run well ahead of the evidence</li>
+<li><strong>Competition:</strong> a better alternative already exists</li>
+<li><strong>Team:</strong> execution risk from who is actually doing the work</li>
+<li><strong>Timing:</strong> the milestone timeline is not realistic</li>
 </ul>
 
-<p><strong>Risk Management:</strong></p>
+<p><strong>Keeping it honest:</strong></p>
 
 <ul>
-<li>**Max 20% portfolio in doubt**</li>
-<li>Never all-in on doubt</li>
-<li>Balance with belief</li>
-<li>Time diversification</li>
+<li>**Name which kind of doubt you have**</li>
+<li>Say what evidence would resolve it</li>
+<li>Do not doubt reflexively - it calibrates you as badly as believing reflexively</li>
+<li>A doubt you would not put a forecast behind is a question, not a doubt</li>
 
 </ul>
 </div>
@@ -605,8 +603,8 @@
 <li><strong>Successful:</strong> Milestones that failed as predicted</li>
 <li><strong>Failed:</strong> Milestones that succeeded despite doubt</li>
 <li><strong>Win Rate:</strong> Success percentage (target 40%+)</li>
-<li><strong>Average Return:</strong> Mean multiplier achieved</li>
-<li><strong>Best Doubt:</strong> Most profitable doubt signal</li>
+<li><strong>Calibration:</strong> How your stated confidence compared with outcomes</li>
+<li><strong>Best Doubt:</strong> The concern nobody else raised that turned out to matter</li>
 <li><strong>Key Lessons:</strong> What you learned this month</li>
 </ul>
 
@@ -734,14 +732,14 @@
 
 Continue with:
 
-1. [Portfolio Management](portfolio-management.md) - Balance strategies
-2. [Risk Management](risk-management.md) - Protect capital
-3. [Contrarian Plays](contrarian-plays.md) - Maximum alpha
+1. [Signalling Support](belief-strategies.md) - The other side
+2. [Phase Strategies](phase-strategies.md) - What to expect at each stage
+3. [Community Participation](community-engagement.md) - Raising concerns well
 
 ---
 
 !!! info "Doubt Wisdom"
-    The best doubt signals protect the ecosystem while generating returns. Be the quality control that makes Studio3 stronger.
+    The best doubt signals protect the ecosystem and give the founder something to answer. Be the quality control that makes Studio3 stronger.
 
 !!! warning "Remember"
     Doubt is a tool, not a personality. The goal is accurate assessment, not negativity. Build ventures up by filtering out the weak.

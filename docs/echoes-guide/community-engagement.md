@@ -259,7 +259,7 @@
 <li>**1-on-1 guidance**</li>
 <li>Group workshops</li>
 <li>Strategy reviews</li>
-<li>Portfolio analysis</li>
+<li>Reviewing their calls together</li>
 <li>Emotional support</li>
 
 </ul>
@@ -268,7 +268,7 @@
 <li>**Deeper learning**</li>
 <li>Network expansion</li>
 <li>Reputation building</li>
-<li>XP rewards</li>
+<li>Standing in the community</li>
 <li>Personal satisfaction</li>
 
 </ul>

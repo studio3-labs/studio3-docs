@@ -71,7 +71,7 @@
 <div class="arena-card">
 
 <h3>📡 Echoes Guide</h3>
-<p>Master the art of signaling belief, earning rewards, and supporting ventures to success.</p>
+<p>Master signalling, forecasting, and supporting ventures to success.</p>
 <p><strong>Perfect for:</strong> Supporters, investors, and community members</p>
 
 <div class="card-actions">
@@ -97,7 +97,7 @@
 
 ## 🌟 The Studio3 Difference
 
-Studio3 transforms venture building through **🏟️ Public Arenas** where all progress happens transparently, **📊 Belief Signals** where community conviction drives support, and **🎮 Seven Phases** that guide ventures from idea spark to full sovereignty. With **🏆 Real Stakes**, success brings rewards while failure has consequences, all within a **🤝 Community-Driven** ecosystem where collective intelligence guides development.
+Studio3 transforms venture building through **🏟️ Public Arenas** where all progress happens transparently, **📊 Free Signals and Forecasts** where community conviction guides ventures and gets scored against reality, and **🎮 Seven Phases** that guide ventures from idea spark to full sovereignty. With **🏆 Real Rewards** in USDC and goods, success pays out while failure stays permanently on the record, all within a **🤝 Community-Driven** ecosystem where collective intelligence guides development.
 
 ## 📖 About These Guides
 

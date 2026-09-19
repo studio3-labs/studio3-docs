@@ -360,7 +360,7 @@ Winning The Forge requires more than a good idea - it demands superior strategy,
 **Forbidden Tactics:**
 - Personal attacks
 - Spreading falsehoods
-- Stake manipulation
+- Coordinated or manipulated signalling
 - Bribery/collusion
 
 </div>

@@ -32,8 +32,8 @@ Building ventures becomes an engaging experience:
 
 - **Seven Phases**
 - Clear progression from idea to independence
-- **XP System**
-- Earn experience and unlock capabilities
+- **Progression Titles**
+- Novice to legend, earned from verified outcomes
 - **Achievements**
 - Recognize exceptional performance
 - **Leaderboards**
@@ -77,7 +77,7 @@ Everyone wins when ventures succeed:
 <div class="arena-card">
 
 <h3>4. Community Signals</h3>
-<p>Supporters express belief or doubt through $SIGNAL tokens</p>
+<p>Supporters express support or doubt for free, and forecast what will actually happen</p>
 
 </div>
 
@@ -104,7 +104,7 @@ Entrepreneurs who build ventures through transparent milestones and community en
 
 ### 📡 Echoes (Supporters)
 
-Community members who signal belief or doubt in ventures using $SIGNAL tokens. They earn rewards for accurate predictions and help guide venture development through their collective wisdom.
+Community members who signal support or doubt, and forecast outcomes. Both are free. They build a public accuracy record, can earn real rewards through Drops and Bounties, and help guide venture development through their collective wisdom.
 
 ### ⚓ Anchors (Validators)
 

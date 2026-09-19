@@ -18,7 +18,6 @@
 
 1. **Entry Requirements**
    - Own the Spark NFT
-   - Stake 1,000+ $SIGNAL
    - Complete founder profile
    - Pass basic verification
 
@@ -53,7 +52,7 @@
 <p>**Losers Face:**</p>
 
 <ul>
-<li>Stake penalties (50% burn)</li>
+<li>A public record of the loss</li>
 <li>Cannot re-enter same Spark</li>
 <li>Reputation impact</li>
 <li>Must find new opportunity</li>
@@ -90,7 +89,7 @@
 <ul>
 <li>Failed ventures only</li>
 <li>Proven founders get priority</li>
-<li>Higher stakes</li>
+<li>Higher stakes, and a harder audience</li>
 <li>Redemption opportunity</li>
 
 </ul>
@@ -245,7 +244,7 @@
 <ul>
 <li>Personal attacks</li>
 <li>False information</li>
-<li>Stake manipulation</li>
+<li>Coordinated or manipulated signalling</li>
 <li>Collusion</li>
 <li>Sabotage</li>
 
@@ -541,12 +540,12 @@
 <li>Mid-entry for flexibility</li>
 
 </ul>
-<p>**Staking Strategies:**</p>
+<p>**Commitment Strategies:**</p>
 
 <ul>
-<li>Minimum viable stake</li>
-<li>Overwhelming force</li>
-<li>Progressive increases</li>
+<li>Show the scale of what you are taking on</li>
+<li>Bring your team and your evidence</li>
+<li>Build support before the duel, not during it</li>
 
 </ul>
 <p>**Alliance Building:**</p>

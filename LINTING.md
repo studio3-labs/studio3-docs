@@ -106,7 +106,7 @@ Our custom linter (`lint_markdown.py`) catches Studio3-specific issues:
    - Potential rendering problems in divs
 
 4. **Studio3-Specific Rules**
-   - Use `$SIGNAL` not `$STUDIO`
+   - Studio3 has no native token: neither `$SIGNAL` nor `$STUDIO` may appear
    - Proper emoji and formatting conventions
 
 5. **General Quality**
@@ -134,7 +134,7 @@ Warnings: 42
 
 ❌ ERRORS (15):
   docs/page.md:42: ERROR: Incomplete bold formatting: **text*
-  docs/page.md:55: ERROR: Use $SIGNAL instead of $STUDIO
+  docs/page.md:55: ERROR: Studio3 has no native token: remove $SIGNAL/$STUDIO
 
 ⚠️  WARNINGS (42):
   docs/page.md:12: WARNING: Trailing whitespace
@@ -229,8 +229,8 @@ Add to `.vscode/tasks.json`:
 
 4. **Follow Studio3 conventions**
    ```markdown
-   ✅ $SIGNAL tokens
-   ❌ $STUDIO tokens
+   ✅ free Signals and Forecasts; rewards in USDC and non-cash items
+   ❌ $SIGNAL tokens, $STUDIO tokens, staking, burns
    ```
 
 ### Development Workflow

@@ -214,7 +214,7 @@
 <li><strong>Idea Phase</strong> (1 day): Initial concept discussion</li>
 <li><strong>Draft Phase</strong> (2 days): Formal proposal writing</li>
 <li><strong>Review Phase</strong> (1 day): Community feedback</li>
-<li><strong>Vote Phase</strong> (3 days): Token holder voting</li>
+<li><strong>Vote Phase</strong> (3 days): DAO member voting</li>
 <li><strong>Execute Phase</strong> (1 day): Implementation of decision</li>
 </ul>
 
@@ -312,9 +312,9 @@
 <ul>
 <li>Strategic deals</li>
 </ul>
-<p>5. **Token Appreciation**</p>
+<p>5. **Asset Appreciation**</p>
 <ul>
-<li>$SIGNAL value growth</li>
+<li>Growth in the value of what the Genesis Wallet holds</li>
 
 </ul>
 <p>**Revenue Allocation:**</p>
@@ -351,11 +351,11 @@
 
 <p>Rewards for active DAO participants:</p>
 <ul>
-<li><strong>Proposal Creation</strong>: 100 $SIGNAL for quality proposals</li>
-<li><strong>Voting Participation</strong>: 10 $SIGNAL per vote cast</li>
-<li><strong>Discussion Contribution</strong>: 5 $SIGNAL for meaningful input</li>
-<li><strong>Successful Referral</strong>: 50 $SIGNAL for bringing new members</li>
-<li><strong>Bug Reporting</strong>: 20 $SIGNAL for finding issues</li>
+<li><strong>Proposal Creation</strong>: recognition for quality proposals</li>
+<li><strong>Voting Participation</strong>: a record of consistent engagement</li>
+<li><strong>Discussion Contribution</strong>: standing in the community</li>
+<li><strong>Successful Referral</strong>: acknowledgement for growing the DAO</li>
+<li><strong>Bug Reporting</strong>: a bounty, where the venture has posted one</li>
 </ul>
 
 <p>**Community Roles:**</p>

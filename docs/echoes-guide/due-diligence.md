@@ -356,9 +356,9 @@
 
 <p><strong>1. Executive Summary</strong></p>
 <ul>
-<li>Clear recommendation: Belief, Doubt, or Pass</li>
-<li>Confidence level percentage</li>
-<li>Suggested stake size in $SIGNAL tokens</li>
+<li>Clear recommendation: Support, Doubt, or Pass</li>
+<li>Your forecast probability, and how confident you are in it</li>
+<li>What would change your mind</li>
 <li>Top 3-5 key risks identified</li>
 </ul>
 
@@ -650,7 +650,7 @@ Continue with:
 
 1. [Belief Strategies](belief-strategies.md) - When to go long
 2. [Doubt Strategies](doubt-strategies.md) - When to go short
-3. [Portfolio Management](portfolio-management.md) - Risk management
+3. [Reading Signals](reading-signals.md) - Interpreting the community
 
 ---
 
@@ -658,4 +658,4 @@ Continue with:
     Great due diligence is like great detective work - methodical, thorough, and objective. The time invested in proper DD pays dividends in better decisions and fewer losses.
 
 !!! tip "Pro Secret"
-    The best DD often finds reasons NOT to signal. It's better to miss opportunities than to lose capital on preventable mistakes. Quality over quantity always wins.
+    The best DD often finds reasons NOT to forecast at all. It costs nothing to skip a question, and a record built on questions you actually understood is worth far more. Quality over quantity always wins.

@@ -208,7 +208,7 @@ Venture Identity:
 Performance Statistics:
 • Milestones Completed: 8 successful milestones
 • Milestones Failed: 1 failed milestone
-• Total Signals Received: 45 million $SIGNAL tokens
+• Total Signals Received: 12,400 signals across all milestones
 • Belief Ratio: 73% of signals are positive (belief)
 • Supporter Count: 1,847 active community members
 • Days Active: 234 days since venture launch
@@ -427,7 +427,7 @@ All NFTs follow extended ERC-721 with:
 
 **Q: Can multiple Sparks be combined?**A: Not directly, but you can reference multiple Sparks in proposals.
 
-**Q: Are NFTs required to participate as an Echo?**A: No, only Founders need NFTs. Echoes only need $SIGNAL tokens.
+**Q: Are NFTs required to participate as an Echo?**A: No, only Founders need NFTs. Echoes need nothing but an account - signalling and forecasting are free.
 
 **Q: Can NFTs be used as collateral?**A: Some DeFi protocols accept Spark and Signal NFTs as collateral.
 

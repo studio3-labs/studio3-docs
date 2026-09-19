@@ -112,7 +112,7 @@ This guide is for experienced builders who want to become Anchors (Validators) i
 
 <li>✅ Time commitment availability</li>
 
-<li>✅ Stake requirement met</li>
+<li>✅ No conflicts of interest</li>
 
 </ul>
 </div>

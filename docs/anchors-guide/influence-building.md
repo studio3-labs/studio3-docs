@@ -147,10 +147,10 @@ Influence as an Anchor directly correlates with your ability to guide ventures s
 
 ### Direct Rewards
 
-- Validation fees (2-5% of milestones)
-- Success bonuses
-- Graduation incentives
-- Performance multipliers
+- Real rewards released by the Arena on verified success
+- Bounties you claim and deliver
+- Mentorship and advisory work, arranged directly
+- Rates and proportions are not yet set - see [Compensation](compensation.md)
 
 ### Indirect Benefits
 

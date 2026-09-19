@@ -43,7 +43,7 @@ graph TB
 
 #### Signaling Phase
 
-- Echoes place belief/doubt stakes
+- Echoes signal support or doubt, and forecast the outcome
 - Senders see support levels
 - Feedback flows both ways
 
@@ -360,7 +360,7 @@ graph LR
 - **Cross-role interactions multiply**:
   Senders × Echoes + Senders × Anchors + Echoes × Anchors
 - **Total network value**:
-  Role value × Interaction multiplier
+  Role value × interaction factor
 - **Result**:
   Exponential growth as ecosystem expands
 

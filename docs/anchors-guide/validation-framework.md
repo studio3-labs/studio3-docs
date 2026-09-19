@@ -49,7 +49,7 @@
 
 <ul>
 <li>Ensures quality deliverables</li>
-<li>Protects token holders</li>
+<li>Protects everyone who backed the venture</li>
 <li>Maintains ecosystem integrity</li>
 <li>Guides venture progress</li>
 <li>Builds market trust</li>
@@ -789,4 +789,4 @@ Continue learning with:
     Great validation combines rigorous standards with empathetic guidance. Be firm on quality, gentle with people, and always focused on ecosystem success.
 
 !!! warning "Remember"
-    Your validations directly impact founder success and token holder value. Take this responsibility seriously while maintaining efficiency and fairness.
+    Your validations directly impact founder success, the release of real rewards, and the accuracy records of everyone who forecast the outcome. Take this responsibility seriously while maintaining efficiency and fairness.
