@@ -250,10 +250,10 @@ Cannot Be Bought
 
 !!! info "Everyone Benefits from Growth"
 
-    - **More Senders** = More opportunities for Echoes More Echoes
-    - = Better funding for Senders** More Anchors** - = Higher quality standards Higher Quality
-- **- = Attracts more participants** Larger Network
-- = Greater value for all
+    - **More Senders** = More opportunities for Echoes to weigh in
+    - **More Echoes** = Better-informed forecasts and a clearer read on what the community wants
+    - **More Anchors** = Higher quality standards
+    - **Larger Network** = Greater value for all
 
 ### Short vs Long Term
 

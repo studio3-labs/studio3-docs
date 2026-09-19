@@ -137,7 +137,7 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 <li>Team expanded</li>
 </ul>
 </li>
-<li><strong>Market Signals</strong>
+<li><strong>Community Signals</strong>
 <ul>
 <li>Low belief ratio (<60%)</li>
 <li>Proven forecasters committing</li>

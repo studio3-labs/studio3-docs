@@ -195,7 +195,7 @@
 
 <div class="arena-card">
 
-<h3>🎭 Market Psychology</h3>
+<h3>🎭 Community Sentiment</h3>
 <p><strong>Sentiment Indicators:</strong></p>
 
 | Ratio | Sentiment | Implications |

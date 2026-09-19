@@ -568,8 +568,6 @@
 
 <li>Ahead of the attention shift</li>
 
-<li>A safer call</li>
-
 </ul>
 <p>2. **Commit after the transition**</p>
 

@@ -38,7 +38,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 <h3>3. Venture Analysis</h3>
 <ul>
 <li><a href="evaluating-ventures.md">Evaluating Ventures</a></li>
-<li><a href="reading-signals.md">Reading Market Signals</a></li>
+<li><a href="reading-signals.md">Reading Signals</a></li>
 <li><a href="due-diligence.md">Due Diligence Framework</a></li>
 
 </ul>

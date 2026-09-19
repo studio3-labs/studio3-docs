@@ -318,7 +318,7 @@ graph TD
 
 | Metric | Description | Why It Matters |
 |--------|-------------|----------------|
-| **Signal Velocity** | Speed of belief/doubt accumulation | Indicates market confidence |
+| **Signal Velocity** | Speed of belief/doubt accumulation | Indicates community confidence |
 | **Completion Rate** | % of milestones achieved | Shows execution quality |
 | **Accuracy Score** | Forecast accuracy against verified outcomes | Measures Echo expertise |
 | **Validation Time** | Hours to verify completion | Indicates verification efficiency |

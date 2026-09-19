@@ -88,7 +88,7 @@ validation:
 
 ## Custom Markdown Linter
 
-Our custom linter (`lint_markdown_ultra.py`) catches Studio3-specific issues:
+Our custom linter (`lint_markdown.py`) catches Studio3-specific issues:
 
 ### Issues Detected
 
@@ -117,15 +117,12 @@ Our custom linter (`lint_markdown_ultra.py`) catches Studio3-specific issues:
 ### Usage
 
 ```bash
-# Command line - run the guard by hand
+# Command line
 python3 lint_markdown_ultra.py
+
+# Via Makefile  
+make lint
 ```
-
-Pass no argument: the bare invocation is the branch that globs `docs/**/*.md`. Passing a
-directory makes the linter treat it as a single file and check nothing.
-
-The `make lint` target is not currently wired to this script; the bare invocation above is the
-only way to run the guard by hand.
 
 ### Sample Output
 
@@ -183,14 +180,12 @@ This will run:
 ```json
 {
   "scripts": {
-    "lint": "python3 lint_markdown_ultra.py",
+    "lint": "python3 lint_markdown.py docs",
     "build": "mkdocs build",
     "serve": "mkdocs serve"
   }
 }
 ```
-
-This script is not currently wired into `package.json`; run the linter by hand as shown above.
 
 ### VSCode Integration
 
@@ -263,7 +258,7 @@ make validate    # Full validation
 
 ### Adding New Rules
 
-Edit `lint_markdown_ultra.py` and add new check functions:
+Edit `lint_markdown.py` and add new check functions:
 
 ```python
 def check_new_rule(self, content, file_path):
@@ -301,7 +296,7 @@ class MarkdownLinter:
    - Use `make lint-fix` for automated fixes
 
 4. **False positives**
-   - Update linter rules in `lint_markdown_ultra.py`
+   - Update linter rules in `lint_markdown.py`
    - Add exceptions for specific patterns
 
 ### Performance

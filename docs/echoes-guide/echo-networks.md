@@ -570,7 +570,7 @@
 <p>**The Global Collective**</p>
 <ul>
 <li>**25 members, 15 time zones**</li>
-<li>24/7 market coverage</li>
+<li>24/7 venture coverage</li>
 <li>Information advantage</li>
 <li>Rapid response capability</li>
 
