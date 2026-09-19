@@ -63,7 +63,6 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 <li>Enjoy mentoring founders</li>
 <li>Want ecosystem impact</li>
 <li>Value quality standards</li>
-<li>Seek consistent income</li>
 
 </ul>
 <p><strong> Required:</strong></p>
@@ -117,10 +116,10 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 <li>Can earn real rewards through bounties</li>
 
 </ul>
-<p><strong>Lowest Risk, Steady Reward: Anchor</strong></p>
+<p><strong>Lowest Risk: Anchor</strong></p>
 <ul>
 <li><strong>Minimal financial risk</strong></li>
-<li>Steady fee income</li>
+<li>Rewards released by the Arena, with rates not yet set</li>
 <li>Reputation-based growth</li>
 <li>Network value accrual</li>
 

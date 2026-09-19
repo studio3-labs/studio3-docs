@@ -170,7 +170,7 @@ The source of all Spark NFTs through IP remixing:
 
 - **Discord Community**: Real-time discussions and support
 - **Arena Dashboard**: Track all active ventures
-- **Signal Analytics**: Market intelligence tools
+- **Signal Analytics**: Community sentiment and forecast tools
 - **Anchor Network**: Find mentors and validators
 
 ### First Steps

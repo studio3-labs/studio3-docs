@@ -271,7 +271,6 @@ Everyone benefits from the same outcome:
 
 <li>Want to give back</li>
 <li>Enjoy mentoring</li>
-<li>Seek flexible income</li>
 <li>Value ecosystem building</li>
 
 </ul>
