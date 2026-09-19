@@ -249,7 +249,8 @@ A: No. Both are free, always.
 A: No. Studio3 has no native token.
 
 **Q: Can I change my forecast?**
-A: While the window is open, yes. Your final position before it closes is what gets scored.
+A: While the window is open, yes. Each forecast is timestamped and scored on its own, and
+committing earlier carries more weight on your record.
 
 **Q: Can I signal on my own venture?**
 A: No. Founders cannot signal or forecast on their own milestones.

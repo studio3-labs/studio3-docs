@@ -39,8 +39,8 @@
 </ul>
 <p>**Mental Preparation:**</p>
 <ul>
-<li>**[ ] Accept risk of loss**</li>
-<li>[ ] Start small mindset</li>
+<li>**[ ] Ready to be wrong in public**</li>
+<li>[ ] Start with questions you understand</li>
 <li>[ ] Learning focus</li>
 <li>[ ] No FOMO pressure</li>
 <li>[ ] Long-term thinking</li>
@@ -412,7 +412,7 @@
 
 <div class="arena-card">
 
-<h3>❌ When You Lose</h3>
+<h3>❌ When You Get It Wrong</h3>
 <p>** What to Document:**</p>
 <ul>
 <li>**What went wrong?**</li>
@@ -424,7 +424,7 @@
 </ul>
 <p>** Actions to Take:**</p>
 <ul>
-<li>**Accept the loss**</li>
+<li>**Own the call publicly**</li>
 <li>Analyze objectively</li>
 <li>Seek feedback</li>
 <li>Adjust process</li>
@@ -433,10 +433,10 @@
 </ul>
 <p>** Mindset Check:**</p>
 <ul>
-<li>**Losses are tuition**</li>
-<li>Everyone fails sometimes</li>
+<li>**A wrong call is how calibration improves**</li>
+<li>Everyone is wrong sometimes</li>
 <li>Focus on learning</li>
-<li>Don't revenge trade</li>
+<li>Don't rush the next call to make up for it</li>
 <li>Stay positive</li>
 
 </ul>

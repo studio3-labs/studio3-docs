@@ -503,7 +503,7 @@ Success Rates by Role:
     
     <div class="card">
         <h4>🔄 Anchor + Active Echo</h4>
-        <p>Validate while investing in ventures you don't judge</p>
+        <p>Validate one set of ventures and forecast on another</p>
     </div>
 </div>
 

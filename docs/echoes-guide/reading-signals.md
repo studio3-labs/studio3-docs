@@ -211,7 +211,7 @@
 <li><strong>>85% one direction</strong></li>
 <li>Extreme sentiment</li>
 <li>Herd behavior</li>
-<li>Mean reversion likely</li>
+<li>Sentiment likely to correct</li>
 </ul>
 </div>
 
@@ -292,17 +292,17 @@
 <h3>⏰ Temporal Analysis</h3>
 <p><strong>Daily Patterns:</strong></p>
 <ul>
-<li><strong>Morning (9-12 EST):</strong> Institutional activity</li>
-<li><strong>Afternoon (12-5 EST):</strong> Retail participation</li>
+<li><strong>Morning (9-12 EST):</strong> Professionals and analysts weigh in</li>
+<li><strong>Afternoon (12-5 EST):</strong> Broad community participation</li>
 <li><strong>Evening (5-9 EST):</strong> Research time</li>
-<li><strong>Night (9-12 EST):</strong> Global players</li>
+<li><strong>Night (9-12 EST):</strong> Global participants</li>
 </ul>
 
 <p><strong>Weekly Patterns:</strong></p>
 <ul>
 <li><strong>Monday:</strong> Cautious start</li>
 <li><strong>Tuesday-Thursday:</strong> Peak activity</li>
-<li><strong>Friday:</strong> Position closing</li>
+<li><strong>Friday:</strong> Last calls before the weekend</li>
 <li><strong>Weekend:</strong> Research/planning</li>
 </ul>
 </div>
@@ -538,7 +538,7 @@
 <li>Last outcome focus</li>
 <li>Pattern assuming</li>
 <li>Streak following</li>
-<li>Mean reversion ignored</li>
+<li>Ignores that sentiment corrects</li>
 </ul>
 </li>
 </ol>

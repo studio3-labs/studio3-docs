@@ -194,16 +194,16 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
    - Share insights publicly
    - Get community feedback
 
-2. **Risk Management**
-   - Set loss limits
-   - Diversification rules
+2. **Discipline**
+   - Follow only as many questions as you can judge properly
+   - Spread your attention across ventures
    - Time allocation
    - Emotional discipline
 
 3. **Community Engagement**
    - Join Echo groups
    - Share strategies
-   - Learn from losses
+   - Learn from wrong calls
    - Celebrate wins
 
 #### Week 3-4: Scaling Up

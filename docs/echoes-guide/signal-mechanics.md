@@ -79,7 +79,7 @@ A Forecast is a probability on a question that will definitely be settled.
 <li><strong>Cost:</strong> nothing</li>
 <li><strong>Shape:</strong> a probability on a question written once, in resolvable form</li>
 <li><strong>Window:</strong> open until the milestone deadline or an earlier cut-off</li>
-<li><strong>Changeable:</strong> while the window is open; your last position is what counts</li>
+<li><strong>Changeable:</strong> while the window is open; each forecast is timestamped and scored on its own, and committing earlier carries more weight on your record</li>
 <li><strong>Scored:</strong> always, against the verified outcome</li>
 </ul>
 

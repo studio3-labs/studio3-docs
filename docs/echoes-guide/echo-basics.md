@@ -345,7 +345,7 @@ an Anchor arbitrates. The proportions themselves are not yet set.
 <li>Avoid FOMO</li>
 <li>Resist FUD</li>
 <li>Stay objective</li>
-<li>Learn from losses</li>
+<li>Learn from wrong calls</li>
 </ul>
 </li>
 <li><strong>Active Participation</strong>
@@ -377,9 +377,9 @@ an Anchor arbitrates. The proportions themselves are not yet set.
 <ul>
 <li>Signaling without research</li>
 <li>Emotional decision making</li>
-<li>Overexposure to one venture</li>
+<li>Following only one venture</li>
 <li>Ignoring red flags</li>
-<li>Chasing losses</li>
+<li>Rushing a new call to cancel out a wrong one</li>
 
 </ul>
 <p><strong>Warning Signs:</strong></p>

@@ -287,7 +287,7 @@ graph LR
 - **Skills**:
   What's your superpower?
 - **Risk**:
-  What can you afford to lose?
+  How comfortable are you being wrong in public?
 - **Goals**:
   What do you want to achieve?
 

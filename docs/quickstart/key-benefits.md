@@ -202,7 +202,7 @@
 <p><strong>As more people join:</strong></p>
 <ul>
 <li><strong>More ventures</strong> = More opportunities</li>
-<li><strong>More signals</strong> = Better price discovery</li>
+<li><strong>More signals</strong> = A clearer picture of what the community wants</li>
 <li><strong>More validators</strong> = Higher quality</li>
 <li><strong>More success</strong> = More attraction</li>
 </ul>

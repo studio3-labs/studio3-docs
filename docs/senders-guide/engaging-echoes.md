@@ -725,7 +725,7 @@
 <ul>
 <li><strong>Referral Rate</strong>: Measure network growth from Echoes</li>
 <li><strong>Contribution Value</strong>: Track help and support provided</li>
-<li><strong>Signal Growth</strong>: Monitor increases in signal amounts</li>
+<li><strong>Signal Growth</strong>: Monitor increases in the number of signals</li>
 <li><strong>Lifetime Value</strong>: Estimate long-term Echo value</li>
 </ul>
 

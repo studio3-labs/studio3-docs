@@ -57,16 +57,16 @@ concern is one of the most valuable things an Echo can give a venture.</p>
 <li>Improves ecosystem</li>
 
 </ul>
-<p>2. **Price Discovery**</p>
+<p>2. **Testing the Claim**</p>
 
 <ul>
 <li>Balances optimism</li>
 
 <li>Reality check</li>
 
-<li>Efficient markets</li>
+<li>Surfaces disagreement</li>
 
-<li>Fair valuations</li>
+<li>Assumptions examined</li>
 
 </ul>
 <p>3. **Valuable Feedback**</p>
