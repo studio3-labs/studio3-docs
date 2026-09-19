@@ -174,7 +174,6 @@ This comprehensive resource guide provides links, tools, templates, and support 
 - **Accuracy record**
 - Calibration chart
 - Outcome history
-- [Launch Tracker](https://app.studio3.xyz/forecasts)
 
 **Due Diligence Template**
 
@@ -188,7 +187,6 @@ This comprehensive resource guide provides links, tools, templates, and support 
 - **Follow the ventures you know**
 - Milestone calendar
 - Update notifications
-- [Access Watchlist](https://app.studio3.xyz/watchlist)
 
 #### ⚓ Anchor Tools
 **Validation Toolkit**

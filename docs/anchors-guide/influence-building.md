@@ -155,16 +155,9 @@ Influence as an Anchor directly correlates with your ability to guide ventures s
 ### Indirect Benefits
 
 - Advisory positions
-- Investment opportunities
+- Board positions
 - Speaking engagements
 - Consulting contracts
-
-### Long-term Value
-
-- Equity participation
-- Carry in funds
-- Board positions
-- Exit participation
 
 ## Tools & Resources
 

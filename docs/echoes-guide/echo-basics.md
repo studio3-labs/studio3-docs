@@ -272,13 +272,13 @@ Echoes are participants who:
 - Report suspicious activity
 - Help new Echoes
 
-## Economic Model
+## Rewards
 
-### How Echoes Earn
+### How Rewards Reach an Echo
 
 <div class="arena-card">
 
-<h3>💰 Revenue Streams</h3>
+<h3>🎁 Bounties and Drops</h3>
 
 <p>1. <strong>Bounties</strong></p>
 <ul>

@@ -374,11 +374,11 @@
 
 ## Learning from Outcomes
 
-### Success Analysis
+### When Your Forecast Proves Right
 
 <div class="arena-card">
 
-<h3>✅ When You Win</h3>
+<h3>✅ When You Get It Right</h3>
 <p>** What to Document:**</p>
 <ul>
 <li>**What went right?**</li>
@@ -400,7 +400,7 @@
 <p>** Mindset Check:**</p>
 <ul>
 <li>**Don't get overconfident**</li>
-<li>Success ≠ skill (yet)</li>
+<li>A right call ≠ skill (yet)</li>
 <li>Stay disciplined</li>
 <li>Keep learning</li>
 <li>Maintain process</li>
@@ -466,9 +466,9 @@
 <p>**Key Metrics:**</p>
 <ul>
 <li>**Total signals made**</li>
-<li>Success rate %</li>
+<li>Forecast accuracy</li>
 <li>Calibration: stated confidence vs outcomes</li>
-<li>Best/worst signal</li>
+<li>Best/worst call</li>
 
 </ul>
 </div>
@@ -480,7 +480,7 @@
 <div class="arena-card">
 
 <h3>🎯 Level Up Strategy</h3>
-<p>**If First Signal Succeeded:**</p>
+<p>**If your first forecast proved right:**</p>
 <ul>
 <li>**Similar venture type**</li>
 <li>Commit a little earlier next time</li>
@@ -489,7 +489,7 @@
 <li>Stay disciplined</li>
 
 </ul>
-<p>**If First Signal Failed:**</p>
+<p>**If your first forecast proved wrong:**</p>
 <ul>
 <li>**Different approach**</li>
 <li>Hedge less, research more</li>
