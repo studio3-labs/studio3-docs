@@ -155,7 +155,7 @@ sequenceDiagram
     <div class="card">
         <h4>⚓ What Anchors Gain</h4>
         <ul>
-            <li>Validation fees</li>
+            <li>Rewards from the Arena</li>
             <li>Ecosystem growth</li>
             <li>Satisfaction of helping</li>
             <li>Reputation building</li>

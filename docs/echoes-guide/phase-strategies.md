@@ -77,7 +77,7 @@
 <p>1. **Early Bird Strategy**</p>
 
 <ul>
-<li>First 24 hours entry</li>
+<li>Commit in the first 24 hours</li>
 
 <li>Most credit if you are right</li>
 
@@ -191,9 +191,9 @@
 </ul>
 <p><strong>Advanced Tactics:</strong></p>
 <ul>
-<li>**Hedge top 2 candidates**</li>
+<li>**Forecast both leading candidates**</li>
 <li>Fade obvious losers</li>
-<li>Watch smart money</li>
+<li>Watch proven forecasters</li>
 <li>Consider contrarian</li>
 
 </ul>
@@ -240,12 +240,12 @@
 <div class="arena-card">
 
 <h3>🔧 Building Phase Tactics</h3>
-<p><strong>Entry Points:</strong></p>
+<p><strong>When to Commit:</strong></p>
 <p>1. **Early Ignition (Days 1-15)**</p>
 
 <ul>
 <li>Higher risk/reward</li>
-<li>Pre-demo entry</li>
+<li>Before the demo lands</li>
 
 <li>Team trust required</li>
 
@@ -561,17 +561,17 @@
 
 </ul>
 <p><strong>Tactics:</strong></p>
-<p>1. **Pre-Transition Entry**</p>
+<p>1. **Commit before the transition**</p>
 
 <ul>
 <li>Signal before advancement</li>
 
 <li>Capture announcement pop</li>
 
-<li>Lower risk entry</li>
+<li>A safer call, worth less on your record</li>
 
 </ul>
-<p>2. **Post-Transition Entry**</p>
+<p>2. **Commit after the transition**</p>
 
 <ul>
 <li>Confirmation of advancement</li>

@@ -121,12 +121,12 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 
 ## Timing Belief Signals
 
-### Entry Point Optimization
+### Choosing When to Commit
 
 <div class="arena-card">
 
 <h3>⏰ When to Signal Belief</h3>
-<p><strong>Optimal Entry Indicators:</strong></p>
+<p><strong>Signs it is time to commit:</strong></p>
 
 <ol>
 <li><strong>Technical Readiness</strong>
@@ -140,7 +140,7 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 <li><strong>Market Signals</strong>
 <ul>
 <li>Low belief ratio (<60%)</li>
-<li>Smart money entering</li>
+<li>Proven forecasters committing</li>
 <li>Momentum building</li>
 <li>News catalyst</li>
 </ul>
@@ -160,7 +160,7 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 
 <div class="arena-card">
 
-<h3>📈 Phase Entry Strategies</h3>
+<h3>📈 Committing by Phase</h3>
 <p><strong>Spark/Forge Phases:</strong></p>
 <ul>
 <li><strong>Commit early, when a call still costs courage</strong></li>
@@ -172,7 +172,7 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 <p><strong>Ignition Phase:</strong></p>
 <ul>
 <li><strong>Wait for MVP evidence</strong></li>
-<li>Mid-phase entry optimal</li>
+<li>Mid-phase is often the best moment to commit</li>
 <li>Balanced risk/reward</li>
 <li>Moderate confidence</li>
 </ul>
@@ -321,7 +321,7 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 <li>Technical feasibility</li>
 </ul>
 
-<p><strong>Entry Strategy:</strong></p>
+<p><strong>When to Commit:</strong></p>
 <ul>
 <li><strong>Wait for pivot proof</strong></li>
 <li>Start small</li>
@@ -476,7 +476,7 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 <ul>
 <li><strong>Don't fall in love</strong></li>
 <li>Accept failures happen</li>
-<li>Learn from losses</li>
+<li>Learn from wrong calls</li>
 <li>Stay objective</li>
 <li>Review decisions</li>
 </ul>
@@ -534,14 +534,14 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 <ul>
 <li><strong>Venture: DeFi lending protocol</strong></li>
 <li>Phase: Ignition</li>
-<li>Entry: Day 3 of 45</li>
+<li>Committed: Day 3 of 45</li>
 <li>Team: Second-time founders</li>
 <li>Result: milestone delivered as forecast</li>
 </ul>
 
 <p><strong>Key Lessons:</strong></p>
 <ul>
-<li><strong>Early entry paid off</strong></li>
+<li><strong>Committing early was right</strong></li>
 <li>Team quality matters</li>
 <li>Clear market need</li>
 <li>Conservative milestone</li>
@@ -551,14 +551,14 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 <ul>
 <li><strong>Venture: B2B analytics tool</strong></li>
 <li>Phase: Drift</li>
-<li>Entry: After positive demo</li>
+<li>Committed: After positive demo</li>
 <li>Momentum: Building fast</li>
 <li>Result: milestone delivered as forecast</li>
 </ul>
 
 <p><strong>Key Lessons:</strong></p>
 <ul>
-<li><strong>Momentum entry works</strong></li>
+<li><strong>Committing on proven momentum works</strong></li>
 <li>Demo de-risked</li>
 <li>B2B higher success</li>
 <li>Confidence matched the evidence</li>

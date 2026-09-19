@@ -259,7 +259,7 @@
 
 </ul>
 <p>** Coordination Strategies:**</p>
-<p>1. **Sequential Entry**</p>
+<p>1. **Staggered Commitment**</p>
 
 <ul>
 <li>Staggered forecasts</li>
@@ -283,12 +283,12 @@
 <li>Accuracy improved</li>
 
 </ul>
-<p>3. **Hedged Strategies**</p>
+<p>3. **Balanced Coverage**</p>
 
 <ul>
-<li>Coordinated hedging</li>
+<li>Deliberately covering both sides of a question</li>
 
-<li>Risk offset</li>
+<li>Independent forecasts, shared research</li>
 
 <li>Balanced coverage</li>
 
@@ -390,12 +390,12 @@
 <li>Group benefits</li>
 
 </ul>
-<p>** Legal Considerations:**</p>
+<p>** Ground Rules:**</p>
 <ul>
 <li>**Clear agreements essential**</li>
-<li>Tax implications</li>
-<li>Regulatory compliance</li>
-<li>Exit procedures</li>
+<li>Who covers what</li>
+<li>Forecasts stay independent</li>
+<li>How members join and leave</li>
 
 </ul>
 </div>

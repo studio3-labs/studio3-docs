@@ -1,6 +1,6 @@
 # Signals & Forecasts
 
-## Two Free Ways to Take a Position
+## Two Free Ways to Weigh In
 
 Studio3 gives the community two distinct ways to weigh in on a venture. Both are free. Neither
 requires you to buy, hold, or risk anything.

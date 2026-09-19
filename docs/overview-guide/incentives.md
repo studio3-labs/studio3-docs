@@ -30,7 +30,7 @@ Studio3's revolutionary design aligns the interests of all participants, creatin
 graph TD
     VS[Venture Success] --> FR[Founder Rewards]
     VS --> ER[Echo Recognition]
-    VS --> AF[Anchor Fees]
+    VS --> AR[Anchor Rewards]
     VS --> EG[Ecosystem Growth]
     
     EG --> MV[More Ventures]
@@ -211,7 +211,7 @@ rewards committed up front and released against verified results.
 ```mermaid
 flowchart TD
     V[Ventures] -->|Milestone Fees| P[Platform]
-    P -->|Validation Fees| A[Anchors]
+    P -->|Arena Rewards| A[Anchors]
     P -->|Development| I[Infrastructure]
     P -->|Rewards Pool| E[Echoes]
     
@@ -271,7 +271,7 @@ Cannot Be Bought
 <li>Milestone funding</li>
 
 
-<li>Validation fees</li>
+<li>Rewards from the Arena</li>
 
 
 <li>Bounties delivered and paid</li>

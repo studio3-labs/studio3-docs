@@ -42,7 +42,7 @@
 <li>Community sentiment</li>
 <li>Stress testing</li>
 <li>Confidence level</li>
-<li>Entry timing</li>
+<li>When to commit</li>
 
 </ul>
 </div>

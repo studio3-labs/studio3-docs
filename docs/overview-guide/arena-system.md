@@ -267,8 +267,8 @@ graph TD
 - **Monitor actively**
 - Adjust strategies based on progress
 
-- **Learn from losses**
-- Failed signals teach valuable lessons
+- **Learn from wrong calls**
+- A forecast that missed tells you where your judgement needs work
 
 ### For Anchors
 

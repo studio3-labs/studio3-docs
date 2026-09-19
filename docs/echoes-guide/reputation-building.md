@@ -568,7 +568,7 @@ with other Echoes. They are real and they matter, but they are not what moves yo
 <li><strong>One toxic incident</strong></li>
 <li>Spreading FUD</li>
 <li>Betraying trust</li>
-<li>Pump participation</li>
+<li>Joining coordinated hype campaigns</li>
 <li>Unethical behavior</li>
 
 </ul>

@@ -345,7 +345,7 @@
 
 <li>Ignore community wisdom</li>
 <li>Hide failures</li>
-<li>Focus only on profits</li>
+<li>Chase rewards instead of getting the call right</li>
 <li>Neglect reputation</li>
 <li>Create multiple accounts</li>
 <li>Spread negativity</li>

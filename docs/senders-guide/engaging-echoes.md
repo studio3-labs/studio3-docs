@@ -511,7 +511,6 @@
 <p>** Segment Types:**</p>
 <p>**| Segment | Characteristics | Engagement Strategy |**</p>
 <p>|---------|----------------|---------------------|</p>
-<p>| **Whales** | Large signals | Personal attention |</p>
 <p>| **Experts** | Domain knowledge | Technical discussions |</p>
 <p>| **Influencers** | Large following | Content partnerships |</p>
 <p>| **Builders** | Technical skills | Development involvement |</p>
@@ -602,7 +601,7 @@
 
 <li>Exclusive benefits</li>
 
-<li>Growing returns</li>
+<li>Growing influence over direction</li>
 
 <li>Community growth</li>
 
@@ -675,7 +674,7 @@
 
 <h3>Week 4: Follow-up</h3>
 <ul>
-<li>Thank active returns</li>
+<li>Thank returning supporters</li>
 <li>Gather feedback</li>
 <li>Implement suggestions</li>
 <li>Maintain engagement</li>

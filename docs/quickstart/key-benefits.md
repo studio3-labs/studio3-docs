@@ -55,7 +55,7 @@
 
 <p><strong>From day one, you have:</strong></p>
 <ul>
-<li><strong>Hundreds of supporters</strong> invested in your success</li>
+<li><strong>Hundreds of supporters</strong> committed to your success</li>
 <li><strong>Expert mentors</strong> guiding your journey</li>
 <li><strong>Real-time feedback</strong> on every decision</li>
 <li><strong>Network effects</strong> from the ecosystem</li>
@@ -88,7 +88,7 @@
 <li><strong>Discover ventures</strong> before mainstream</li>
 <li><strong>Support ideas</strong> you believe in</li>
 <li><strong>Direct participation</strong> in success</li>
-<li><strong>No accredited investor</strong> requirements</li>
+<li><strong>No financial requirements</strong> - signalling and forecasting are free</li>
 </ul>
 </div>
 
@@ -254,7 +254,7 @@ Everyone benefits from the same outcome:
 <h4>🌟 Perfect for Supporters Who:</h4>
 
 <ul>
-<li>Want early-stage exposure</li>
+<li>Want a close view of early-stage ventures</li>
 <li>Enjoy evaluating ideas</li>
 <li>Believe in democratization</li>
 <li>Like active participation</li>

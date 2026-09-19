@@ -72,7 +72,7 @@
 
 <h3>📡 Echoes Guide</h3>
 <p>Master signalling, forecasting, and supporting ventures to success.</p>
-<p><strong>Perfect for:</strong> Supporters, investors, and community members</p>
+<p><strong>Perfect for:</strong> Supporters, analysts, and community members</p>
 
 <div class="card-actions">
 <a href="echoes-guide/" class="md-button md-button--primary">Browse Guide</a>

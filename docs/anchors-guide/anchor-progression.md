@@ -641,7 +641,7 @@
 
 ## Compensation Evolution
 
-### Earnings Growth
+### How Compensation Changes with Seniority
 
 <div class="arena-card">
 
@@ -774,7 +774,7 @@ leadership of standards. Anchors are compensated in real rewards released by the
 
 Continue growing with:
 
-1. [Compensation](compensation.md) - Maximize earnings
+1. [Compensation](compensation.md) - What is settled, and what is not
 2. [Reputation Management](reputation-management.md) - Build your brand
 3. [Anchor Council](anchor-council.md) - Ultimate achievement
 

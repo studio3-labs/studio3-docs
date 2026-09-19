@@ -83,7 +83,7 @@
 <li><strong>Doubt Heavy Start</strong>
 <ul>
 <li>Red flags present</li>
-<li>Overvalued entry</li>
+<li>Support running ahead of the evidence</li>
 <li>Weak fundamentals</li>
 <li>Contrarian opportunity?</li>
 </ul>
@@ -124,7 +124,7 @@
 <p><strong>Echo Categories:</strong></p>
 
 <ol>
-<li><strong>Smart Money</strong>
+<li><strong>Proven Forecasters</strong>
 <ul>
 <li>Master and legend titles</li>
 <li>Track record 70%+</li>
@@ -159,7 +159,7 @@
 </ol>
 </div>
 
-### Following Smart Money
+### Following Proven Forecasters
 
 <div class="arena-card">
 
@@ -172,11 +172,11 @@
 <li>Monitor patterns</li>
 </ul>
 
-<p><strong>Smart Money Indicators:</strong></p>
+<p><strong>How to spot them:</strong></p>
 <ul>
 <li><strong>Early, confident forecasts</strong></li>
-<li>Positions taken before consensus formed</li>
-<li>No hedging</li>
+<li>Views committed before consensus formed</li>
+<li>Willing to state a confident probability</li>
 <li>Public analysis</li>
 </ul>
 
@@ -200,10 +200,10 @@
 
 | Ratio | Sentiment | Implications |
 |-------|-----------|--------------|
-| 90%+ Belief | Euphoric | Overvalued risk |
-| 70-90% Belief | Bullish | Strong confidence |
-| 50-70% Belief | Balanced | Healthy debate |
-| 30-50% Belief | Bearish | Doubt prevails |
+| 90%+ Support | Euphoric | Consensus running ahead of evidence |
+| 70-90% Support | Confident | Strong confidence |
+| 50-70% Support | Balanced | Healthy debate |
+| 30-50% Support | Sceptical | Doubt prevails |
 | <30% Belief | Pessimistic | Major concerns |
 
 <p><strong>Contrarian Zones:</strong></p>
@@ -354,15 +354,15 @@
 <p><strong>High Risk Patterns:</strong></p>
 <ul>
 <li><strong>Sudden doubt surge</strong></li>
-<li>Smart money exit</li>
+<li>Proven forecasters revising downward</li>
 <li>Velocity decline</li>
 <li>Comment negativity</li>
-<li>Whale dumping</li>
+<li>Long-standing supporters withdrawing</li>
 </ul>
 
 <p><strong>Manipulation Signs:</strong></p>
 <ul>
-<li><strong>Artificial pumping</strong></li>
+<li><strong>Manufactured enthusiasm</strong></li>
 <li>Coordinated signalling</li>
 <li>Fake accounts</li>
 <li>Misleading info</li>
@@ -379,7 +379,7 @@
 <h3>🎯 Signal-Based Decisions</h3>
 <p><strong>When to Follow Signals:</strong></p>
 <ul>
-<li><strong>Smart money convergence</strong></li>
+<li><strong>Proven forecasters converging</strong></li>
 <li>Specialist agreement</li>
 <li>Organic growth</li>
 <li>Positive momentum</li>
@@ -431,7 +431,7 @@
 <li>Trend analysis</li>
 </ul>
 </li>
-<li><strong>Smart Money Tracker</strong>
+<li><strong>Proven Forecaster Tracker</strong>
 <ul>
 <li>Top Echo moves</li>
 <li>Confident early calls</li>
@@ -466,7 +466,7 @@
 <li><strong>90% doubt signals</strong></li>
 <li>Negative comments</li>
 <li>Technical concerns</li>
-<li>Smart money absent</li>
+<li>No proven forecasters engaged</li>
 </ul>
 
 <p><strong>What Happened:</strong></p>
@@ -474,7 +474,7 @@
 <li><strong>Founder addressed issues</strong></li>
 <li>Live demo released</li>
 <li>Sentiment shifted</li>
-<li>Smart money entered</li>
+<li>Proven forecasters committed</li>
 </ul>
 
 <p><strong>Lesson:</strong> Extreme doubt can reverse quickly with new information.</p>
@@ -485,25 +485,25 @@
 
 <div class="arena-card">
 
-<h3>📖 Gaming Venture Pump</h3>
+<h3>📖 Gaming Venture Hype Campaign</h3>
 <p><strong>Initial State:</strong></p>
 <ul>
 <li><strong>95% support signals</strong></li>
 <li>Coordinated signalling</li>
 <li>Hype comments</li>
-<li>No smart money</li>
+<li>No proven forecasters</li>
 </ul>
 
 <p><strong>What Happened:</strong></p>
 <ul>
 <li><strong>Milestone failed</strong></li>
 <li>Manipulation revealed</li>
-<li>Mass losses</li>
+<li>Widespread wrong calls</li>
 <li>Investigation launched</li>
 </ul>
 
 <p><strong>Lesson:</strong></p>
-<p>Artificial pumping leaves traces in signal patterns.</p>
+<p>Manufactured enthusiasm leaves traces in signal patterns.</p>
 
 </div>
 
@@ -522,7 +522,7 @@
 <li>Safety in numbers</li>
 <li>FOMO driven</li>
 <li>Analysis lacking</li>
-<li>Late entry</li>
+<li>Committed late, once it was obvious</li>
 </ul>
 </li>
 <li><strong>Confirmation Bias</strong>

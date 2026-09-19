@@ -378,7 +378,7 @@
 <p><strong>Signal Patterns:</strong></p>
 <ul>
 <li><strong>Early adopter profile</strong></li>
-<li>Smart money flow</li>
+<li>Proven forecaster activity</li>
 <li>Sentiment shifts</li>
 <li>Volatility levels</li>
 <li>Concentration risk</li>
@@ -444,7 +444,7 @@
 <li><strong>TECHNICAL (1-10):</strong> Product quality and innovation</li>
 <li><strong>ROADMAP (1-10):</strong> Milestone clarity and achievability</li>
 <li><strong>EXECUTION (1-10):</strong> Track record and capability</li>
-<li><strong>SIGNALS (1-10):</strong> Community sentiment and smart money</li>
+<li><strong>SIGNALS (1-10):</strong> Community sentiment and proven-forecaster activity</li>
 <li><strong>SUSTAINABILITY (1-10):</strong> Long-term viability</li>
 </ul>
 
@@ -572,7 +572,7 @@
 <ul>
 <li><strong>FORTRESS score <48/80</strong></li>
 <li>Major red flags</li>
-<li>Overvalued signals</li>
+<li>Support running ahead of evidence</li>
 <li>Better alternatives</li>
 <li>Timing concerns</li>
 </ul>

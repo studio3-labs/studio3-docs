@@ -174,7 +174,7 @@ Every venture progresses through seven phases:
 <ul>
 <li><strong>Founders</strong> build valuable ventures</li>
 <li><strong>Supporters</strong> earn real rewards and a record worth having</li>
-<li><strong>Validators</strong> receive fees for quality assurance</li>
+<li><strong>Validators</strong> are rewarded by the Arena for quality assurance</li>
 <li><strong>Community</strong> benefits from innovation</li>
 </ul>
 

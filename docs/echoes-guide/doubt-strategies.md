@@ -187,7 +187,7 @@ concern is one of the most valuable things an Echo can give a venture.</p>
 <ul>
 <li>**90%+ belief ratio**</li>
 <li>Paid promotion heavy</li>
-<li>Influencer pumping</li>
+<li>Influencer hype</li>
 <li>FOMO marketing</li>
 <li>No substantive updates</li>
 
@@ -205,7 +205,7 @@ concern is one of the most valuable things an Echo can give a venture.</p>
 
 ## Timing Doubt Signals
 
-### Optimal Entry Points
+### When to Raise Doubt
 
 <div class="arena-card">
 
@@ -296,7 +296,7 @@ concern is one of the most valuable things an Echo can give a venture.</p>
 <li>**Massive marketing spend**</li>
 <li>No substance</li>
 <li>Paid influencers</li>
-<li>Coordinated pumping</li>
+<li>Coordinated hype</li>
 <li>Retail FOMO</li>
 
 </ul>
@@ -471,13 +471,13 @@ concern is one of the most valuable things an Echo can give a venture.</p>
 </ul>
 </div>
 
-### Hedging Strategies
+### Balanced Coverage
 
 <div class="arena-card">
 
 <h3>🔄 Balanced Approaches</h3>
-<p><strong>Hedge Patterns:</strong></p>
-<p>1. **Market Hedge**</p>
+<p><strong>Coverage Patterns:</strong></p>
+<p>1. **Across the board**</p>
 
 <ul>
 <li>Doubt the overrated</li>
@@ -487,7 +487,7 @@ concern is one of the most valuable things an Echo can give a venture.</p>
 <li>Balanced coverage</li>
 
 </ul>
-<p>2. **Sector Hedge**</p>
+<p>2. **Within a sector**</p>
 
 <ul>
 <li>Doubt weak players</li>
@@ -497,14 +497,14 @@ concern is one of the most valuable things an Echo can give a venture.</p>
 <li>Sector coverage</li>
 
 </ul>
-<p>3. **Phase Hedge**</p>
+<p>3. **Across phases**</p>
 
 <ul>
 <li>Doubt late phase</li>
 
 <li>Believe early phase</li>
 
-<li>Risk balance</li>
+<li>Balanced coverage</li>
 
 </ul>
 </div>
@@ -521,14 +521,14 @@ concern is one of the most valuable things an Echo can give a venture.</p>
 <li>**Venture: AI rendering platform**</li>
 <li>Claim: 2 weeks to production</li>
 <li>Reality: 6 months minimum</li>
-<li>Doubt entry: Day 2</li>
+<li>Doubt raised: Day 2</li>
 <li>Result: milestone failed as forecast</li>
 
 </ul>
 <p><strong>Lessons:</strong></p>
 <ul>
 <li>**Technical knowledge paid**</li>
-<li>Early entry rewarded</li>
+<li>Raising it early was right</li>
 <li>Clear impossibility</li>
 <li>High conviction win</li>
 
@@ -538,7 +538,7 @@ concern is one of the most valuable things an Echo can give a venture.</p>
 <li>**Venture: DeFi aggregator**</li>
 <li>Issue: 5 better alternatives</li>
 <li>Research: Detailed comparison</li>
-<li>Doubt entry: 70% belief</li>
+<li>Doubt raised at 70% support</li>
 <li>Result: milestone failed as forecast</li>
 
 </ul>
