@@ -34,7 +34,7 @@
 <li>Deep analysis focus</li>
 </ul>
 </li>
-<li><strong>Signal Syndicates</strong>
+<li><strong>Coverage Collectives</strong>
 <ul>
 <li>Coordinated coverage</li>
 </ul>
@@ -554,7 +554,7 @@
 <p>**The DeFi Specialists**</p>
 <ul>
 <li>**12 members, all DeFi experts**</li>
-<li>92% signal success rate</li>
+<li>92% forecast accuracy</li>
 <li>Consistently well-calibrated forecasts</li>
 <li>Created sector-leading tools</li>
 

@@ -556,7 +556,6 @@
 <ul>
 <li>**Career opportunities**</li>
 <li>Business ventures</li>
-<li>Investment access</li>
 <li>Network value</li>
 <li>Personal brand</li>
 

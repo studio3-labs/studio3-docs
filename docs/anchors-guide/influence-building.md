@@ -219,14 +219,12 @@ Influence as an Anchor directly correlates with your ability to guide ventures s
 - **Specialization**: AI/ML ventures
 - **Influence Score**: 89
 - **Success Rate**: 78%
-- **Annual Earnings**: $500K+
 
 ### Business Anchor
 
 - **Specialization**: B2B SaaS
 - **Influence Score**: 92
 - **Success Rate**: 82%
-- **Annual Earnings**: $750K+
 
 ## Growth Tactics
 

@@ -560,8 +560,8 @@
 <li>[ ] Risks identified</li>
 <li>[ ] Peer reviewed</li>
 <li>[ ] Gut check passed</li>
-<li>[ ] Position sized</li>
-<li>[ ] Entry timed</li>
+<li>[ ] Confidence level decided</li>
+<li>[ ] Timing considered</li>
 
 </ul>
 </div>
@@ -645,14 +645,14 @@
 
 Continue with:
 
-1. [Belief Strategies](belief-strategies.md) - When to go long
-2. [Doubt Strategies](doubt-strategies.md) - When to go short
+1. [Belief Strategies](belief-strategies.md) - When to back a venture
+2. [Doubt Strategies](doubt-strategies.md) - When to raise doubt
 3. [Reading Signals](reading-signals.md) - Interpreting the community
 
 ---
 
 !!! success "DD Excellence"
-    Great due diligence is like great detective work - methodical, thorough, and objective. The time invested in proper DD pays dividends in better decisions and fewer losses.
+    Great due diligence is like great detective work - methodical, thorough, and objective. The time invested in proper DD shows up as better decisions and a better-calibrated record.
 
 !!! tip "Pro Secret"
     The best DD often finds reasons NOT to forecast at all. It costs nothing to skip a question, and a record built on questions you actually understood is worth far more. Quality over quantity always wins.

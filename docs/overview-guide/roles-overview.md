@@ -103,8 +103,8 @@ graph TD
 
 !!! info "Everyone Needs Everyone"
 
-    - **Senders need Echoes** for funding and validation Senders need Anchors
-    - for guidance and verification** Echoes need Senders** - for investment opportunities Echoes need Anchors
+    - **Senders need Echoes** for judgement and validation Senders need Anchors
+    - for guidance and verification** Echoes need Senders** - for ventures worth judging Echoes need Anchors
 - **- for quality assurance** Anchors need Senders
 - for ecosystem growth Anchors need Echoes
 - **- for decentralized wisdom**## Senders (Founders) Deep Dive

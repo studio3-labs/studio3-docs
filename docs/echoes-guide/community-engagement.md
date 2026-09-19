@@ -374,16 +374,16 @@
 <li>Accountability</li>
 
 </ul>
-<p>4. **Investment Clubs**</p>
+<p>4. **Research Clubs**</p>
 
 <ul>
-<li>Pool resources</li>
+<li>Pool findings</li>
 
 <li>Share research</li>
 
-<li>Group decisions</li>
+<li>Debate the hard calls</li>
 
-<li>Risk sharing</li>
+<li>Shared coverage</li>
 
 </ul>
 </div>
@@ -805,7 +805,7 @@ Final steps:
 ---
 
 !!! success "Community Truth"
-    Your network is your net worth in Studio3. Invest in relationships like you invest in signals - consistently, thoughtfully, and for the long term.
+    Your network is your net worth in Studio3. Tend your relationships the way you tend your record - consistently, thoughtfully, and for the long term.
 
 !!! tip "Engagement Wisdom"
     The most successful Echoes aren't just good at signals - they're invaluable community members who everyone wants to help succeed. Be that person.

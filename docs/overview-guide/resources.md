@@ -116,7 +116,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 <ul>
 <li>Venture performance</li>
 
-<li>Signal accuracy</li>
+<li>Forecast accuracy</li>
 <li>Reward releases</li>
 <li>Network growth</li>
 

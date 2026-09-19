@@ -6,7 +6,7 @@
 
 <h3>🌟 Your Professional Identity</h3>
 
-<p>As an Anchor, your reputation is your most valuable asset. It determines which ventures seek your validation, influences your earning potential, and shapes your career trajectory. This guide shows you how to build, maintain, and leverage your professional reputation.</p>
+<p>As an Anchor, your reputation is your most valuable asset. It determines which ventures seek your validation, how much weight your judgement carries, and shapes your career trajectory. This guide shows you how to build, maintain, and leverage your professional reputation.</p>
 
 </div>
 

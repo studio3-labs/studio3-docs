@@ -395,27 +395,27 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 
 <div class="arena-card">
 
-<h3>🪜 Progressive Position Building</h3>
+<h3>🪜 Building Confidence in Stages</h3>
 <p><strong>Laddering Strategy:</strong></p>
 
 <ol>
-<li><strong>Initial Position</strong> (25%)
+<li><strong>Opening forecast</strong>
 <ul>
-<li>Test the waters</li>
+<li>State a hedged probability</li>
 <li>Verify thesis</li>
 <li>Build confidence</li>
 </ul>
 </li>
-<li><strong>Progress Position</strong> (35%)
+<li><strong>As evidence lands</strong>
 <ul>
-<li>Add on evidence</li>
+<li>Update on evidence</li>
 <li>Momentum confirmation</li>
-<li>Increase exposure</li>
+<li>Move the probability</li>
 </ul>
 </li>
-<li><strong>Confidence Position</strong> (40%)
+<li><strong>Close to resolution</strong>
 <ul>
-<li>Final addition</li>
+<li>Final revision</li>
 <li>High conviction</li>
 <li>State your strongest confidence</li>
 </ul>
@@ -425,19 +425,19 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 <p><strong>Benefits:</strong></p>
 <ul>
 <li><strong>Reduced timing risk</strong></li>
-<li>Better average entry</li>
-<li>Flexibility to exit</li>
+<li>Better calibration over time</li>
+<li>Freedom to change your mind</li>
 <li>Emotional control</li>
 </ul>
 </div>
 
-## Managing Belief Positions
+## Managing Belief Over Time
 
 ### Active Management
 
 <div class="arena-card">
 
-<h3>🎮 Position Monitoring</h3>
+<h3>🎮 Keeping Your Forecast Current</h3>
 <p><strong>Daily Checks:</strong></p>
 <ul>
 <li><strong>Progress updates</strong></li>
@@ -447,7 +447,7 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 <li>News/events</li>
 </ul>
 
-<p><strong>Red Flags to Exit Early:</strong></p>
+<p><strong>Red Flags to Revise Down:</strong></p>
 <ul>
 <li><strong>Team changes</strong></li>
 <li>Milestone delays</li>

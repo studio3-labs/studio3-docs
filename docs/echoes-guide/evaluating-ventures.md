@@ -6,7 +6,7 @@
 
 <h3>🔍 Due Diligence Excellence</h3>
 
-<p>Success as an Echo depends on your ability to evaluate ventures accurately. This comprehensive guide provides frameworks, tools, and strategies to analyze opportunities like a professional investor while leveraging Studio3's unique transparency.</p>
+<p>Success as an Echo depends on your ability to evaluate ventures accurately. This comprehensive guide provides frameworks, tools, and strategies to analyze ventures with professional rigour while leveraging Studio3's unique transparency.</p>
 
 </div>
 

@@ -313,9 +313,9 @@ concern is one of the most valuable things an Echo can give a venture.</p>
 
 <ul>
 <li>**Never fight momentum**</li>
-<li>Size appropriately</li>
+<li>Hedge the probability you state</li>
 <li>Time horizon 30-60 days</li>
-<li>Accept some losses</li>
+<li>Accept that some calls will be wrong</li>
 
 </ul>
 </div>
@@ -494,7 +494,7 @@ concern is one of the most valuable things an Echo can give a venture.</p>
 
 <li>Believe winners</li>
 
-<li>Sector exposure</li>
+<li>Sector coverage</li>
 
 </ul>
 <p>3. **Phase Hedge**</p>

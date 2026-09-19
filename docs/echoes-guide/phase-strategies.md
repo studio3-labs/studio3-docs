@@ -384,7 +384,7 @@
 <li>Few surprises</li>
 
 </ul>
-<p><strong>Investment Thesis:</strong></p>
+<p><strong>Assessment:</strong></p>
 <ul>
 <li>**Proven model**</li>
 <li>Execution focus</li>
@@ -408,7 +408,7 @@
 
 <div class="arena-card">
 
-<h3>⚖️ Stability Investing</h3>
+<h3>⚖️ Judging Stable Ventures</h3>
 <p><strong>Role in Your Record:</strong></p>
 <ul>
 <li>**The steady base**</li>
@@ -478,7 +478,7 @@
 
 <div class="arena-card">
 
-<h3>📈 Scale Investment Tactics</h3>
+<h3>📈 Scale-Phase Tactics</h3>
 <p><strong>Approach:</strong></p>
 <ul>
 <li>**Confident, low-drama calls**</li>
@@ -524,7 +524,7 @@
 <li>Victory lap</li>
 
 </ul>
-<p><strong>Investment Rationale:</strong></p>
+<p><strong>Why Take Part:</strong></p>
 <ul>
 <li>**Celebration participation**</li>
 <li>Community support</li>
@@ -641,7 +641,7 @@
 <p><strong>Balanced:</strong></p>
 <p>For a record that is both credible and calibrated:</p>
 <ul>
-<li><strong>A few Sparks</strong> - limited exposure to the hardest questions</li>
+<li><strong>A few Sparks</strong> - limited attention on the hardest questions</li>
 <li><strong>Ignition and Drift</strong> - the core of your coverage</li>
 <li><strong>Later phases</strong> - a steady base of confident calls</li>
 </ul>

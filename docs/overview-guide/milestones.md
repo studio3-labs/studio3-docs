@@ -438,7 +438,7 @@ Milestone Success Metrics Overview:
 
 • Completion Rate: 75% of milestones are successfully completed
 • Average Duration: Milestones typically take 21 days to complete
-• Signal Accuracy: 68% of community predictions are correct
+• Forecast Accuracy: 68% of community forecasts prove correct
 • Extension Rate: 15% of milestones request timeline extensions
 • Dispute Rate: Only 5% of milestone results are contested
 ```

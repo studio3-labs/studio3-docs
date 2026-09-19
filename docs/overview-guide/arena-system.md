@@ -217,7 +217,7 @@ graph TD
 ** Public Information:**
 
 - **All milestone declarations**
-- All signal amounts and timing
+- All signals and forecasts, with timing
 - All founder updates and evidence
 - All validator comments and scores
 - All reward distributions
@@ -225,7 +225,7 @@ graph TD
 ** Performance Metrics:**
 
 - **Success/failure rates by founder**
-- Signal accuracy by Echo
+- Forecast accuracy by Echo
 - Validation quality by Anchor
 - Phase progression timelines
 - Reward release history

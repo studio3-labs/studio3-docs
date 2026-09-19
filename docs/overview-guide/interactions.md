@@ -31,7 +31,7 @@ graph TB
 
 ### Sender ↔ Echo Dynamics
 
-### 🤝 The Investment Relationship
+### 🤝 The Support Relationship
 
 **How They Connect:**
 
@@ -176,7 +176,7 @@ sequenceDiagram
 
 - Anchors provide quality assurance
 - Echoes trust validation process
-- Reduces investment risk
+- Reduces the risk of a bad call
 
 #### Information Flow
 
@@ -374,7 +374,7 @@ graph LR
     - **Knowledge Sharing**: Collective intelligence emerges
     - **Innovation Clusters**: Similar ventures collaborate
     - **Mentorship Chains**: Successful founders become Anchors
-    - **Investment Syndicates**: Echoes coordinate strategies
+    - **Coverage Groups**: Echoes coordinate research
 
 ## Interaction Metrics
 

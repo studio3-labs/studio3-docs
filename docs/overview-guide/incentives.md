@@ -131,7 +131,7 @@ graph TD
 graph LR
     A[Quality Ventures] --> B[Successful Outcomes]
     B --> C[Happy Echoes]
-    C --> D[More Capital]
+    C --> D[Sharper Community Judgement]
     D --> E[Better Ventures]
     E --> A
     
