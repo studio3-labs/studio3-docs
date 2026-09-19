@@ -200,10 +200,10 @@
 
 | Ratio | Sentiment | Implications |
 |-------|-----------|--------------|
-| 90%+ Support | Euphoric | Consensus running ahead of evidence |
-| 70-90% Support | Confident | Strong confidence |
-| 50-70% Support | Balanced | Healthy debate |
-| 30-50% Support | Sceptical | Doubt prevails |
+| 90%+ Belief | Euphoric | Consensus running ahead of evidence |
+| 70-90% Belief | Confident | Strong confidence |
+| 50-70% Belief | Balanced | Healthy debate |
+| 30-50% Belief | Sceptical | Doubt prevails |
 | <30% Belief | Pessimistic | Major concerns |
 
 <p><strong>Contrarian Zones:</strong></p>

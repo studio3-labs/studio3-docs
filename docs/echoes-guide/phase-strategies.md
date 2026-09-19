@@ -566,9 +566,9 @@
 <ul>
 <li>Signal before advancement</li>
 
-<li>Capture announcement pop</li>
+<li>Ahead of the attention shift</li>
 
-<li>A safer call, worth less on your record</li>
+<li>A safer call</li>
 
 </ul>
 <p>2. **Commit after the transition**</p>

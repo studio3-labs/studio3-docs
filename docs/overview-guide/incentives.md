@@ -211,9 +211,11 @@ rewards committed up front and released against verified results.
 ```mermaid
 flowchart TD
     V[Ventures] -->|Milestone Fees| P[Platform]
-    P -->|Arena Rewards| A[Anchors]
     P -->|Development| I[Infrastructure]
-    P -->|Rewards Pool| E[Echoes]
+
+    V -->|Reward Committed| AR[Arena]
+    AR -->|Released on Verified Success| A[Anchors]
+    AR -->|Drops and Bounties| E[Echoes]
     
     E -->|Signals| V
     V -->|Success| R[Revenue]
@@ -235,9 +237,7 @@ Cannot Be Bought
 - **Only earned through performance**
 2. **Cannot Be Transferred**
 - Prevents gaming
-3. **Decays Without Activity**
-- Encourages participation
-4. **Multiplies Opportunities**
+3. **Multiplies Opportunities**
 - Success breeds success
 - **Reputation Benefits: **
 
