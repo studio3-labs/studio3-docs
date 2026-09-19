@@ -448,7 +448,7 @@ When incentives seem misaligned:
 #### 🌟 The DataMesh Success
 **Situation:** Complex technical venture needing patient supporters- Alignment: Long-term Echoes matched with technical AnchorsResult:
 
-18-month journey to profitability> "The aligned incentives meant our Echoes supported us through the hard times, knowing the long-term payoff. Traditional VCs would have pushed for premature scaling." - DataMesh CTO
+18-month journey to profitability> "The aligned incentives meant our Echoes supported us through the hard times, because they had said in public they thought we would make it. Traditional VCs would have pushed for premature scaling." - DataMesh CTO
 
 #### 💪 The QuickPivot Comeback
 
