@@ -374,7 +374,7 @@
 
 <div class="arena-card">
 
-<h3>📡 Leveraging Signal Holders</h3>
+<h3>📡 Working with Your Echoes</h3>
 <p>**Echo Benefits in DAO:**</p>
 
 <ul>

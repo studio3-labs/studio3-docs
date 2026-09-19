@@ -258,8 +258,7 @@
 </ul>
 <p>** Expected Outcomes:**</p>
 <ul>
-<li>**Lower returns (1.2-1.5x)**</li>
-<li>Higher success rate</li>
+<li>**Higher forecast accuracy**</li>
 <li>Confidence building</li>
 <li>Steady learning</li>
 <li>Minimal stress</li>
@@ -290,8 +289,7 @@
 </ul>
 <p>** Expected Outcomes:**</p>
 <ul>
-<li>**Moderate returns (1.5-2x)**</li>
-<li>Some failures expected</li>
+<li>**Some failures expected**</li>
 <li>Faster learning curve</li>
 <li>Building intuition</li>
 <li>Sustainable growth</li>
@@ -322,8 +320,7 @@
 </ul>
 <p>** Expected Outcomes:**</p>
 <ul>
-<li>**High returns possible (2-3x)**</li>
-<li>Higher failure rate</li>
+<li>**Higher failure rate**</li>
 <li>Rapid learning</li>
 <li>Emotional swings</li>
 <li>Boom or bust</li>
@@ -470,9 +467,8 @@
 <ul>
 <li>**Total signals made**</li>
 <li>Success rate %</li>
-<li>Average return</li>
+<li>Calibration: stated confidence vs outcomes</li>
 <li>Best/worst signal</li>
-<li>Total profit/loss</li>
 
 </ul>
 </div>

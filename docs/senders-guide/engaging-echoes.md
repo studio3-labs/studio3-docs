@@ -795,7 +795,7 @@ Ready to handle challenges? Continue to:
 ---
 
 !!! success "Echo Power"
-    Your Echoes are more than signal holders - they're your early adopters, advisors, and advocates. Treat them with respect, engage them authentically, and watch them amplify your success.
+    Your Echoes are more than a source of signals - they're your early adopters, advisors, and advocates. Treat them with respect, engage them authentically, and watch them amplify your success.
 
 !!! tip "Engagement Secret"
     The best Echo engagement strategy is genuine care. When you truly value your community and consistently deliver value, engagement becomes natural and retention becomes automatic.

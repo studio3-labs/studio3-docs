@@ -139,7 +139,7 @@ We're building a world where:
 Studio3 might be perfect if you:
 
 - Have a venture idea but lack traditional funding access
-- Want to support innovative projects and earn returns
+- Want to support innovative projects and build a public record of your judgement
 - Have expertise to guide and validate ventures
 - Believe in transparency and community-driven development
 - Think the current system is broken

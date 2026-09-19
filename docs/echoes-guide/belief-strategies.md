@@ -115,7 +115,6 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 <ul>
 <li><strong>Marginal belief</strong></li>
 <li>High uncertainty</li>
-<li>Small position</li>
 <li><strong>Forecast: 50-60%, and consider passing</strong></li>
 </ul>
 </div>
@@ -175,7 +174,7 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 <li><strong>Wait for MVP evidence</strong></li>
 <li>Mid-phase entry optimal</li>
 <li>Balanced risk/reward</li>
-<li>Standard positions</li>
+<li>Moderate confidence</li>
 </ul>
 
 <p><strong>Drift/Orbit Phases:</strong></p>
@@ -240,7 +239,7 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 </li>
 <li><strong>B2B SaaS</strong> (70% success)
 <ul>
-<li>Clear ROI</li>
+<li>Clear customer payback</li>
 <li>Recurring revenue</li>
 <li>Sticky products</li>
 <li>Enterprise focus</li>
@@ -284,7 +283,7 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 <p><strong>Execution:</strong></p>
 <ol>
 <li>Identify momentum early</li>
-<li>Enter with standard position</li>
+<li>Forecast with moderate confidence</li>
 <li>Add on confirmation</li>
 <li>Ride to completion</li>
 <li>Record the outcome</li>
@@ -577,7 +576,7 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 <ul>
 <li><strong>Believing hype alone</strong></li>
 <li>Ignoring red flags</li>
-<li>Oversized positions</li>
+<li>Overstating your confidence</li>
 <li>No diversification</li>
 <li>Emotional attachment</li>
 </ul>
@@ -594,31 +593,31 @@ honestly expecting it to struggle, and saying both is more useful to the founder
 
 ## Advanced Techniques
 
-### Belief Arbitrage
+### Where the Crowd Is Wrong
 
 <div class="arena-card">
 
-<h3>🎯 Market Inefficiencies</h3>
-<p><strong>Arbitrage Opportunities:</strong></p>
+<h3>🎯 Consensus Blind Spots</h3>
+<p><strong>Where to Look:</strong></p>
 
 <ol>
 <li><strong>Cross-Venture</strong>
 <ul>
 <li>Similar ventures</li>
-<li>Different valuations</li>
+<li>Different levels of support</li>
 <li>Belief disparities</li>
 </ul>
 </li>
 <li><strong>Information</strong>
 <ul>
 <li>You know something</li>
-<li>Market hasn't priced</li>
+<li>Nobody else has said it</li>
 <li>Early advantage</li>
 </ul>
 </li>
 <li><strong>Sentiment</strong>
 <ul>
-<li>Oversold quality</li>
+<li>Good teams written off</li>
 <li>Panic = opportunity</li>
 <li>Contrarian belief</li>
 </ul>

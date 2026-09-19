@@ -109,7 +109,7 @@ with other Echoes. They are real and they matter, but they are not what moves yo
 
 <div class="arena-card">
 
-<h3>🎯 Improving Win Rate</h3>
+<h3>🎯 Improving Accuracy</h3>
 <p><strong>Current Accuracy Tiers:</strong></p>
 <ul>
 <li><strong>0-40%: Learning phase</strong></li>
@@ -424,7 +424,7 @@ with other Echoes. They are real and they matter, but they are not what moves yo
 
 <li>Track contributions</li>
 
-<li>Build portfolio</li>
+<li>Build a body of published analysis</li>
 
 </ul>
 <p>2. **Stay Consistent**</p>
@@ -626,4 +626,4 @@ Enhance your reputation with:
  Your reputation is built in drops and lost in buckets. Every interaction matters. Every signal counts. Every day is an opportunity to build or rebuild.
 
 !!! tip "Long Game"
- Focus on being helpful, not just successful. The Echoes who last aren't always the most profitable - they're the most valuable to the community.
+ Focus on being helpful, not just successful. The Echoes who last aren't always the most accurate - they're the most valuable to the community.

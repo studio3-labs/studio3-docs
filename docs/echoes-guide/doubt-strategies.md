@@ -138,7 +138,6 @@ concern is one of the most valuable things an Echo can give a venture.</p>
 <ul>
 <li><strong>Some concerns</strong></li>
 <li>Worth flagging</li>
-<li>Small position</li>
 <li><strong>Raise the concern; consider passing on the forecast</strong></li>
 </ul>
 </div>
@@ -216,7 +215,7 @@ concern is one of the most valuable things an Echo can give a venture.</p>
 <li>**Most informative if you are right**</li>
 <li>Highest risk</li>
 <li>Based on analysis</li>
-<li>Small positions</li>
+<li>Low confidence</li>
 
 </ul>
 <p>**Mid-Stage Doubt (Days 8-21)**</p>
@@ -224,7 +223,7 @@ concern is one of the most valuable things an Echo can give a venture.</p>
 <li>**Evidence emerging**</li>
 <li>Patterns visible</li>
 <li>Balanced risk/reward</li>
-<li>Standard positions</li>
+<li>Moderate confidence</li>
 
 </ul>
 <p>**Late Doubt (Days 22+)**</p>
@@ -232,7 +231,7 @@ concern is one of the most valuable things an Echo can give a venture.</p>
 <li>**Clear problems**</li>
 <li>Less informative by then</li>
 <li>Higher certainty</li>
-<li>Larger positions safe</li>
+<li>Higher confidence warranted</li>
 
 </ul>
 </div>
@@ -304,7 +303,7 @@ concern is one of the most valuable things an Echo can give a venture.</p>
 <p><strong>Execution Strategy:</strong></p>
 <ol>
 <li>Wait for peak hype</li>
-<li>Enter doubt position</li>
+<li>Publish your doubt</li>
 <li>Document concerns</li>
 <li>Share analysis</li>
 <li>Wait for reality</li>
@@ -481,11 +480,11 @@ concern is one of the most valuable things an Echo can give a venture.</p>
 <p>1. **Market Hedge**</p>
 
 <ul>
-<li>Doubt overvalued</li>
+<li>Doubt the overrated</li>
 
-<li>Believe undervalued</li>
+<li>Back the underrated</li>
 
-<li>Market neutral</li>
+<li>Balanced coverage</li>
 
 </ul>
 <p>2. **Sector Hedge**</p>

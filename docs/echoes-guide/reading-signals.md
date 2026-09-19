@@ -307,17 +307,17 @@
 </ul>
 </div>
 
-## Signal Arbitrage
+## Where the Crowd Is Wrong
 
-### Finding Inefficiencies
+### Finding Blind Spots
 
 <div class="arena-card">
 
 <h3>💎 Hidden Opportunities</h3>
-<p><strong>Arbitrage Types:</strong></p>
+<p><strong>Where to Look:</strong></p>
 
 <ol>
-<li><strong>Information Arbitrage</strong>
+<li><strong>Information Edge</strong>
 <ul>
 <li>You know something others don't</li>
 <li>Deep research advantage</li>
@@ -325,20 +325,20 @@
 <li>Technical understanding</li>
 </ul>
 </li>
-<li><strong>Timing Arbitrage</strong>
+<li><strong>Timing Edge</strong>
 <ul>
-<li>Market overreaction</li>
+<li>Crowd overreaction</li>
 <li>Sentiment extremes</li>
 <li>Panic/euphoria</li>
-<li>Mean reversion</li>
+<li>Sentiment settles back</li>
 </ul>
 </li>
-<li><strong>Cross-Venture Arbitrage</strong>
+<li><strong>Cross-Venture Comparison</strong>
 <ul>
 <li>Similar ventures</li>
-<li>Different valuations</li>
-<li>Market inefficiency</li>
-<li>Relative value</li>
+<li>Different levels of support</li>
+<li>Consensus blind spot</li>
+<li>Relative merit</li>
 </ul>
 </li>
 </ol>

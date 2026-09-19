@@ -256,7 +256,6 @@ Everyone benefits from the same outcome:
 <ul>
 <li>Want early-stage exposure</li>
 <li>Enjoy evaluating ideas</li>
-<li>Have risk capital to deploy</li>
 <li>Believe in democratization</li>
 <li>Like active participation</li>
 

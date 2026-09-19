@@ -19,7 +19,7 @@ Studio3's revolutionary design aligns the interests of all participants, creatin
 
 ** Studio3 Alignment:**
 
-- **Everyone profits from venture success**
+- **Everyone gains when a venture succeeds**
 - Transparent milestones align timelines
 - Active participation rewarded fairly
 - Community captures value they create
@@ -29,7 +29,7 @@ Studio3's revolutionary design aligns the interests of all participants, creatin
 ```mermaid
 graph TD
     VS[Venture Success] --> FR[Founder Rewards]
-    VS --> ER[Echo Returns]
+    VS --> ER[Echo Recognition]
     VS --> AF[Anchor Fees]
     VS --> EG[Ecosystem Growth]
     
@@ -308,10 +308,10 @@ Cannot Be Bought
 | **Spark** | Gather support | Find opportunities | Scout talent |
 | **Forge** | Win leadership | Pick winners | Judge fairly |
 | **Ignition** | Build fast | Support early | Guide setup |
-| **Drift** | Find PMF | Patient capital | Navigate pivots |
-| **Orbit** | Stable growth | Compound returns | Ensure quality |
-| **Flare** | Scale rapidly | Maximize upside | Maintain standards |
-| **Ascension** | Achieve sovereignty | Exit profits | Celebrate success |
+| **Drift** | Find PMF | Stay through the pivot | Navigate pivots |
+| **Orbit** | Stable growth | Build accuracy record | Ensure quality |
+| **Flare** | Scale rapidly | Track the scale-up | Maintain standards |
+| **Ascension** | Achieve sovereignty | Mark the outcome | Celebrate success |
 
 ## Misalignment Safeguards
 
@@ -411,7 +411,6 @@ When incentives seem misaligned:
 | Metric | Target | Current | Health |
 |--------|--------|---------|--------|
 | **Venture Success Rate** | >40% | 38% | 🟡 Good |
-| **Echo Profit Rate** | >65% | 71% | 🟢 Excellent |
 | **Anchor Accuracy** | >85% | 89% | 🟢 Excellent |
 | **Retention (1 year)** | >70% | 68% | 🟡 Good |
 | **NPS Score** | >50 | 62 | 🟢 Excellent |
@@ -447,9 +446,9 @@ When incentives seem misaligned:
 ### Alignment in Action
 
 #### 🌟 The DataMesh Success
-**Situation:** Complex technical venture needing patient capital- Alignment: Long-term Echoes matched with technical AnchorsResult:
+**Situation:** Complex technical venture needing patient supporters- Alignment: Long-term Echoes matched with technical AnchorsResult:
 
-18-month journey to profitability, 5x returns> "The aligned incentives meant our Echoes supported us through the hard times, knowing the long-term payoff. Traditional VCs would have pushed for premature scaling." - DataMesh CTO
+18-month journey to profitability> "The aligned incentives meant our Echoes supported us through the hard times, knowing the long-term payoff. Traditional VCs would have pushed for premature scaling." - DataMesh CTO
 
 #### 💪 The QuickPivot Comeback
 
@@ -468,7 +467,7 @@ Fast pivot, community retained, eventual success> "Having the failure sit there 
 3. **Create Value**
 - Focus on positive-sum outcomes
 4. **Build Relationships**
-- Network effects multiply returns
+- Network effects multiply reach
 5. **Stay Engaged**
 - Active participation captures more value
 

@@ -20,7 +20,7 @@ Winning The Forge requires more than a good idea - it demands superior strategy,
 
 **Echoes Vote Based On:**
 
-1. **Return Potential** (40%)
+1. **Achievability** (40%)
    - Milestone achievability
    - Market opportunity
    - Execution capability

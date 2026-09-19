@@ -41,7 +41,7 @@
 <li><strong>Reference checks</strong></li>
 <li>Community sentiment</li>
 <li>Stress testing</li>
-<li>Position sizing</li>
+<li>Confidence level</li>
 <li>Entry timing</li>
 
 </ul>
@@ -315,21 +315,18 @@
 <ul>
 <li>**Everything goes right**</li>
 <li>2x planned growth</li>
-<li>Returns: ___x</li>
 
 </ul>
 <p>** Base Case Scenario:**</p>
 <ul>
 <li>**Normal execution**</li>
 <li>Meet milestones</li>
-<li>Returns: ___x</li>
 
 </ul>
 <p>** Worst Case Scenario:**</p>
 <ul>
 <li>**Major challenges**</li>
 <li>50% achievement</li>
-<li>Returns: ___x</li>
 
 </ul>
 <p>** Black Swan Events:**</p>
@@ -376,7 +373,7 @@
 <ul>
 <li>Summary of findings</li>
 <li>Final recommendation with rationale</li>
-<li>Suggested position sizing and timing</li>
+<li>Suggested confidence level and timing</li>
 </ul>
 
 <p><strong>4. Supporting Documentation</strong></p>

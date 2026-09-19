@@ -21,7 +21,7 @@
 <p><strong>Definition: Echo Networks are organized groups of Echoes who collaborate to:</strong></p>
 <ul>
 <li>Share research and insights</li>
-<li>Pool resources and capital</li>
+<li>Pool research effort</li>
 <li>Coordinate signal strategies</li>
 <li>Amplify collective impact</li>
 <li>Achieve superior accuracy together</li>
@@ -36,7 +36,7 @@
 </li>
 <li><strong>Signal Syndicates</strong>
 <ul>
-<li>Coordinated investments</li>
+<li>Coordinated coverage</li>
 </ul>
 </li>
 <li><strong>Sector Specialists</strong>
@@ -252,19 +252,19 @@
 <h3>📡 Strategic Coordination</h3>
 <p>** Coordination Benefits:**</p>
 <ul>
-<li>**Larger collective positions**</li>
+<li>**Broader collective coverage**</li>
 <li>Better timing optimization</li>
 <li>Risk distribution</li>
-<li>Information arbitrage</li>
+<li>Faster shared research</li>
 
 </ul>
 <p>** Coordination Strategies:**</p>
 <p>1. **Sequential Entry**</p>
 
 <ul>
-<li>Staggered positions</li>
+<li>Staggered forecasts</li>
 
-<li>Market impact minimized</li>
+<li>Independent judgement preserved</li>
 
 <li>Learning incorporated</li>
 
@@ -290,7 +290,7 @@
 
 <li>Risk offset</li>
 
-<li>Market neutral</li>
+<li>Balanced coverage</li>
 
 <li>Steady calibration</li>
 
@@ -383,7 +383,7 @@
 <ul>
 <li>Individual + collective</li>
 
-<li>Flexible allocation</li>
+<li>Flexible participation</li>
 
 <li>Personal freedom</li>
 
@@ -401,50 +401,6 @@
 </div>
 
 ## Advanced Network Tactics
-
-### Network Arbitrage
-
-<div class="arena-card">
-
-<h3>💎 Network-Exclusive Strategies</h3>
-<p>** Arbitrage Types:**</p>
-<p>1. **Information Arbitrage**</p>
-
-<ul>
-<li>Network discovers first</li>
-
-<li>Rapid coordination</li>
-
-<li>Market inefficiency capture</li>
-
-<li>Superior accuracy</li>
-
-</ul>
-<p>2. **Scale Arbitrage**</p>
-
-<ul>
-<li>Opportunities requiring size</li>
-
-<li>Individual impossible</li>
-
-<li>Network achievable</li>
-
-<li>Outsized impact</li>
-
-</ul>
-<p>3. **Expertise Arbitrage**</p>
-
-<ul>
-<li>Complex analysis needed</li>
-
-<li>Specialists collaborate</li>
-
-<li>Unique insights</li>
-
-<li>Competitive edge</li>
-
-</ul>
-</div>
 
 ### Network Innovation
 
@@ -581,7 +537,7 @@
 
 <li>Formal processes</li>
 
-<li>External capital</li>
+<li>External partnerships</li>
 
 <li>Ecosystem pillar</li>
 
@@ -650,7 +606,7 @@
 <li>**Regulatory scrutiny**</li>
 <li>Competitive targeting</li>
 <li>Information leaks</li>
-<li>Market impact</li>
+<li>Distorting the signal</li>
 <li>Reputation risks</li>
 
 </ul>
@@ -816,7 +772,7 @@
 <ul>
 <li>Institutional grade</li>
 
-<li>External capital</li>
+<li>External partnerships</li>
 
 <li>Market influence</li>
 

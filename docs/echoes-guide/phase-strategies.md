@@ -583,23 +583,23 @@
 </ul>
 </div>
 
-### Phase Arbitrage
+### Reading Across Phases
 
 <div class="arena-card">
 
 <h3>💎 Multi-Phase Strategies</h3>
-<p><strong>Arbitrage Patterns:</strong></p>
+<p><strong>Patterns to Watch:</strong></p>
 <p>1. **Similar Ventures, Different Phases**</p>
 
 <ul>
-<li>Compare valuations</li>
+<li>Compare levels of support</li>
 
 <li>Identify disparities</li>
 
-<li>Exploit inefficiencies</li>
+<li>Say where the crowd is wrong</li>
 
 </ul>
-<p>2. **Phase Momentum Trading**</p>
+<p>2. **Following Phase Momentum**</p>
 
 <ul>
 <li>Follow a venture through its phases</li>

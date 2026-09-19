@@ -38,10 +38,9 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 <p><strong> You should be an Echo if you:</strong></p>
 <ul>
 <li><strong>Enjoy evaluating opportunities</strong></li>
-<li>Have capital to deploy</li>
-<li>Want diversified exposure</li>
+<li>Want to follow many ventures at once</li>
 <li>Like community participation</li>
-<li>Seek merit-based returns</li>
+<li>Want your judgement on the record</li>
 
 </ul>
 <p><strong> Required:</strong></p>
@@ -297,7 +296,7 @@ graph LR
 | If You Have... | Best Role | Why |
 |----------------|-----------|-----|
 | Venture idea + time | Sender | Build your vision |
-| Capital + analysis skills | Echo | Earn through signals |
+| Analysis skills + curiosity | Echo | Put your judgement on the record |
 | Experience + mentorship | Anchor | Guide and validate |
 | Just curiosity | Echo | Lowest barrier entry |
 

@@ -81,9 +81,9 @@ graph TB
 
 | What Senders Give | What Echoes Give |
 |-------------------|------------------|
-| Transparency | Risk capital |
+| Transparency | Honest judgement |
 | Execution | Market validation |
-| Returns potential | Community wisdom |
+| A public delivery record | Community wisdom |
 | Learning opportunity | Network effects |
 | Innovation | Distribution |
 
@@ -460,9 +460,9 @@ graph LR
   Major pivot needed after market shift
 - **Interaction**:
   Transparent communication, collaborative replanning
-- **Outcome:** 85% Echo retention, successful pivot, 3x returns
+- **Outcome:** 85% Echo retention, successful pivot
 
-> "The open dialogue during our pivot saved the venture. Our Echoes became true partners, not just investors."
+> "The open dialogue during our pivot saved the venture. Our Echoes became true partners, not just spectators."
 > 
 > — TechVenture Founder
 

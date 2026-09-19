@@ -32,7 +32,6 @@ Ascension is the final phase where ventures achieve full sovereignty by buying b
 
 - Echo support verified
 - Anchor endorsement
-- Signal holder consensus
 - Transition plan approved
 
 ## Buyback Mechanics
@@ -112,7 +111,6 @@ Buyback Price = Base Value × Performance Multiple × Market Factor
 
 ### Community Impact
 
-- Signal holder returns
 - Echo reputation gains
 - Anchor success fees
 - Ecosystem growth

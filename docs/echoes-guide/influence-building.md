@@ -32,7 +32,7 @@
 </ul>
 <p><strong>Influence Benefits:</strong></p>
 <ul>
-<li><strong>Better signal returns</strong></li>
+<li><strong>Your reasoning reaches further</strong></li>
 <li>Early information access</li>
 <li>Partnership opportunities</li>
 <li>Speaking invitations</li>
@@ -319,7 +319,7 @@
 <li>**Long-form analysis**</li>
 <li>Deep insights</li>
 <li>SEO benefit</li>
-<li>Portfolio building</li>
+<li>Body of work</li>
 
 </ul>
 <p>**YouTube (Monthly)**</p>
@@ -538,11 +538,11 @@
 </ul>
 </div>
 
-### ROI of Influence
+### What Influence Gets You
 
 <div class="arena-card">
 
-<h3>💰 Influence Returns</h3>
+<h3>🌟 Influence in Practice</h3>
 <p>** Direct Benefits:**</p>
 <ul>
 <li>**Your reasoning gets read**</li>

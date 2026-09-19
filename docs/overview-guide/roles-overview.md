@@ -271,7 +271,7 @@ graph TD
 - **Continuous Learning**
 - Adapt strategies
 
-### Echo Earnings
+### What an Echo Gets Back
 
 ```text
 What an Echo Gets Back:
@@ -475,7 +475,6 @@ Role Breakdown:
 
 Success Rates by Role:
 • Sender Graduation Rate: 34% of ventures reach Ascension phase
-• Echo Profit Rate: 67% of Echoes are profitable overall
 • Anchor Accuracy Rate: 89% validation accuracy score
 ```
 
@@ -485,10 +484,7 @@ Success Rates by Role:
 |--------|---------|--------|----------|
 | **Avg Weekly Hours** | 50-60 | 5-10 | 10-15 |
 | **Success Rate** | 34% | 67% | 89% |
-| **Avg Earnings** | $500K | $45K | $120K |
 | **Reputation Growth** | High | Medium | Very High |
-
-*If successful to Ascension
 
 ## Multi-Role Strategies
 
@@ -497,7 +493,7 @@ Success Rates by Role:
 <div class="grid cards">
     <div class="card">
         <h4>🎭 Echo + Future Sender</h4>
-        <p>Build reputation and capital as Echo before launching</p>
+        <p>Build reputation as Echo before launching</p>
     </div>
     
     <div class="card">

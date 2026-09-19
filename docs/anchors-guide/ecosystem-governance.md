@@ -397,7 +397,7 @@ live question the Anchor Council will have a voice in. See <a href="compensation
 <p>| Stakeholder | Primary Incentive | Governance Weight |</p>
 <p>|------------|------------------|-------------------|</p>
 <p>| Founders | Success/Growth | 25% |</p>
-<p>| Echoes | Returns/Accuracy | 35% |</p>
+<p>| Echoes | Accuracy | 35% |</p>
 <p>| Anchors | Quality/Rewards | 25% |</p>
 <p>| Platform | Sustainability | 15% |</p>
 

@@ -46,7 +46,6 @@
 <h3>📡 Become an Echo</h3>
 <p><strong>If you have:</strong></p>
 <ul>
-<li>Investment capital</li>
 <li>Analysis skills</li>
 <li>Risk appetite</li>
 <li>Market intuition</li>
