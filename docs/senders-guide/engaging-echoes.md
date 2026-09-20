@@ -191,10 +191,10 @@
 <li>Focus: Vision sharing and community questions</li>
 </ul>
 
-<p><strong>Evening Incentive (6 PM):</strong></p>
+<p><strong>Evening Recognition (6 PM):</strong></p>
 <ul>
-<li>Action: Early bird reward announcement</li>
-<li>Incentive: Special bonus for first 100 signals</li>
+<li>Action: Early supporter shout-outs</li>
+<li>Recognition: The first supporters named publicly</li>
 <li>Bonus: Exclusive access and founder perks</li>
 </ul>
 

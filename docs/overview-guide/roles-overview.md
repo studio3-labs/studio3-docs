@@ -47,7 +47,7 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
 <li>Signal belief or doubt</li>
 
 
-<li>Earn from accuracy</li>
+<li>Build a public accuracy record</li>
 
 
 <li>Guide through wisdom</li>

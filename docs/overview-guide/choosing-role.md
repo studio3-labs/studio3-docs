@@ -230,7 +230,7 @@ graph LR
 
 <h4>🌱 Complete Beginner</h4>
 
-<p>Start as an<strong>Echo</strong> with small signals to:</p>
+<p>Start as an<strong>Echo</strong> on a few ventures you can actually judge to:</p>
 
 <ul>
 <li><strong>Learn the ecosystem</strong></li>

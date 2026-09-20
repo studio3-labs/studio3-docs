@@ -91,7 +91,7 @@ graph TD
 - **Research rewarded over speculation**
 - Calibration rewarded over volume
 - Active engagement improves outcomes
-- Consistency over time is what builds a title
+- A record of calls that proved right is what builds a title
 
 ### For Anchors (Validators)
 

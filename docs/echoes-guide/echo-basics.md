@@ -516,7 +516,7 @@ an Anchor arbitrates. The proportions themselves are not yet set.
 
 <p><strong>Day 5-7: Action</strong></p>
 
-- [ ] Make first small signal
+- [ ] Make first signal
 - [ ] Document reasoning
 - [ ] Engage with venture
 - [ ] Track performance
