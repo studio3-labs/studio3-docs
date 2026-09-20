@@ -1,0 +1,129 @@
+name: PR Checks
+
+# Every check here is a hard failure. A check that cannot fail is worse than no
+# check, because it looks like evidence.
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pr-checks-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  # 1. The site must still build. Same path as the deploy workflow, so a branch
+  #    that breaks the build fails before merge rather than after.
+  build:
+    name: Build site
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: |
+          # Install system dependencies for weasyprint
+          sudo apt-get update
+          sudo apt-get install -y python3-cffi python3-brotli libpango-1.0-0 libpangoft2-1.0-0
+          # Install all dependencies using make
+          make install
+
+      - name: Build documentation with PDFs
+        run: make build
+
+      - name: Confirm site was produced
+        run: test -f site/index.html
+
+  # 2. The dead-token guard, across ALL of docs/. Studio3 has no native token;
+  #    $SIGNAL was removed in September 2026. This passes today and its whole
+  #    job is to stay that way, so it is never scoped to changed files.
+  dead-token-guard:
+    name: Dead-token guard (all of docs/)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Check every file in docs/ for $SIGNAL and $STUDIO
+        run: python3 lint_markdown_ultra.py --token-guard docs
+
+  # 3. Markdown lint and Prettier, on the files this pull request changes only.
+  #    Deliberate: gating all of docs/ would fail every pull request on 60 lint
+  #    errors and 77 Prettier failures nobody here introduced, while running
+  #    them in a mode that cannot fail would mean nothing. Changed files only
+  #    gates new work honestly and leaves the existing debt visible.
+  changed-files:
+    name: Lint and format changed docs
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: List changed markdown files under docs/
+        id: changed
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: |
+          set -euo pipefail
+          if [ -z "${BASE_SHA:-}" ]; then
+            # workflow_dispatch: compare against the default branch
+            git fetch --no-tags origin "${{ github.event.repository.default_branch }}"
+            BASE_SHA="$(git rev-parse FETCH_HEAD)"
+          fi
+          # Three-dot: compare against the merge base, so unrelated changes
+          # landing on main meanwhile are not attributed to this branch.
+          git diff --name-only --diff-filter=ACMR "$BASE_SHA...HEAD" -- docs \
+            | grep -E '\.md$' > changed.txt || true
+          echo "Changed markdown files under docs/:"
+          cat changed.txt
+          echo "count=$(wc -l < changed.txt | tr -d " ")" >> "$GITHUB_OUTPUT"
+
+      - name: Install Prettier
+        if: steps.changed.outputs.count != '0'
+        run: npm ci || npm install
+
+      - name: Prettier check (changed files)
+        if: steps.changed.outputs.count != '0'
+        run: xargs -a changed.txt -d '\n' -r npx prettier --check --
+
+      - name: Markdown lint (changed files)
+        if: steps.changed.outputs.count != '0'
+        run: xargs -a changed.txt -d '\n' -r python3 lint_markdown_ultra.py
+
+      - name: No markdown changed
+        if: steps.changed.outputs.count == '0'
+        run: echo "This pull request changes no markdown under docs/ - nothing to lint."

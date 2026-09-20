@@ -1,12 +1,13 @@
-.PHONY: lint lint-strict lint-fix build build-strict serve clean install validate help format format-check pdfs
+.PHONY: lint lint-tokens lint-strict lint-fix build build-strict serve clean install validate help format format-check pdfs
 
 # Default target
 help:
 	@echo "Studio3 Documentation Commands:"
 	@echo "  lint        - Run custom markdown linter"
+	@echo "  lint-tokens - Run the dead-token guard (\$$SIGNAL / \$$STUDIO) only"
 	@echo "  lint-strict - Run MkDocs strict build validation"
-	@echo "  validate    - Run both linting methods"
-	@echo "  lint-fix    - Fix common markdown issues"
+	@echo "  validate    - Run every validation check"
+	@echo "  lint-fix    - Auto-fix formatting with Prettier"
 	@echo "  format      - Format markdown files with Prettier"
 	@echo "  format-check- Check markdown formatting without changes"
 	@echo "  build       - Build the documentation with PDFs"
@@ -16,24 +17,28 @@ help:
 	@echo "  clean       - Clean build artifacts"
 	@echo "  install     - Install dependencies"
 
-# Custom markdown linter
+# Custom markdown linter (stdlib only - no virtualenv needed)
 lint:
 	@echo "🔍 Running custom markdown linter..."
-	@bash -c "source venv/bin/activate && python3 lint_markdown_strict.py docs"
+	@python3 lint_markdown_ultra.py docs
+
+# Dead-token guard only: Studio3 has no native token
+lint-tokens:
+	@echo "🚫 Running dead-token guard..."
+	@python3 lint_markdown_ultra.py --token-guard docs
 
 # MkDocs strict validation
 lint-strict:
 	@echo "🔍 Running MkDocs strict validation..."
 	@bash -c "source venv/bin/activate && mkdocs build --strict --quiet"
 
-# Run both validation methods
-validate: lint-strict lint
+# Run all validation methods
+validate: lint-strict lint-tokens lint
 	@echo "✅ All validation checks completed"
 
-# Fix common markdown issues
-lint-fix:
-	@echo "🔧 Fixing markdown issues..."
-	@echo "Note: Automated fixing not available. Please fix issues manually."
+# Fix what can be fixed automatically
+lint-fix: format
+	@echo "🔧 Prettier has fixed formatting. Remaining linter errors are manual fixes."
 
 # Generate PDF guides
 pdfs:

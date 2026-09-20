@@ -242,9 +242,24 @@ class UltraMarkdownLinter:
             
         return errors
     
+    def check_dead_tokens(self, lines):
+        """Check for dead token names - the single definition of this rule.
+
+        Studio3 has no native token. $SIGNAL was removed in September 2026 and
+        must never come back. This rule is also run on its own, across all of
+        docs/, by the --token-guard mode.
+        """
+        errors = []
+
+        for i, line in enumerate(lines):
+            if '$STUDIO' in line or '$SIGNAL' in line:
+                errors.append((i + 1, "Studio3 has no native token: remove $SIGNAL/$STUDIO", line))
+
+        return errors
+
     def check_special_patterns(self, lines):
         """Check for special Studio3 documentation patterns"""
-        errors = []
+        errors = list(self.check_dead_tokens(lines))
         
         for i, line in enumerate(lines):
             # Lists after bold colons on same line
@@ -264,10 +279,6 @@ class UltraMarkdownLinter:
                         if next_line_idx != i + 2:  # Should be exactly one blank line
                             errors.append((i + 1, "Bold header with colon needs blank line before list", line))
             
-            # Studio3 has no native token - neither ticker should appear
-            if '$STUDIO' in line or '$SIGNAL' in line:
-                errors.append((i + 1, "Studio3 has no native token: remove $SIGNAL/$STUDIO", line))
-            
             # Broken arena-card patterns
             if 'arena-card' in line and '<div' not in line and 'class=' not in line:
                 errors.append((i + 1, "arena-card mentioned outside proper div", line))
@@ -280,7 +291,7 @@ class UltraMarkdownLinter:
             if re.match(r'^\d+\.\s+\*\*[^*]+\*\*\s+\(\d+\)', line):
                 errors.append((i + 1, "Numbered list with parenthetical - needs reformatting", line))
                 
-        return errors
+        return sorted(errors, key=lambda e: e[0])
     
     def check_table_formatting(self, lines):
         """Check table formatting issues"""
@@ -461,43 +472,116 @@ class UltraMarkdownLinter:
         except Exception as e:
             return [(filepath, 0, f"Error reading file: {str(e)}", "")], []
 
+
+USAGE = """usage: lint_markdown_ultra.py [--token-guard] [PATH ...]
+
+  PATH           a markdown file, or a directory to search recursively for
+                 *.md files. Defaults to docs/ when no PATH is given.
+  --token-guard  run ONLY the dead-token rule ($SIGNAL / $STUDIO), and run it
+                 over every file selected. Used as a hard gate in CI across all
+                 of docs/, independently of the rest of the linter.
+"""
+
+
+def collect_md_files(paths):
+    """Expand the given paths into a sorted list of markdown files.
+
+    A path may be a file or a directory; directories are searched recursively.
+    """
+    import glob
+
+    md_files = []
+    for path in paths:
+        if os.path.isdir(path):
+            md_files.extend(glob.glob(os.path.join(path, '**/*.md'), recursive=True))
+        else:
+            md_files.append(path)
+
+    # De-duplicate while keeping a stable order
+    return sorted(set(md_files))
+
+
+def run_token_guard(md_files):
+    """Run only the dead-token rule over every file. Returns a process exit code."""
+    print("🚫 Running dead-token guard ($SIGNAL / $STUDIO)...")
+
+    linter = UltraMarkdownLinter()
+    hits = []
+
+    for filepath in md_files:
+        try:
+            with open(filepath, 'r', encoding='utf-8') as f:
+                lines = f.read().split('\n')
+        except Exception as e:
+            print(f"\n❌ Could not read {filepath}: {e}")
+            return 1
+        hits.extend((filepath, *hit) for hit in linter.check_dead_tokens(lines))
+
+    print(f"\nFiles checked: {len(md_files)}")
+
+    if not hits:
+        print("\n✅ No dead token names found.")
+        return 0
+
+    print(f"\n❌ DEAD TOKEN NAMES FOUND ({len(hits)}):")
+    for filepath, line, msg, content in hits:
+        print(f"  {filepath}:{line}: {msg} -> {content.strip()[:80]}")
+    print(
+        "\nStudio3 has no native token. $SIGNAL was removed in September 2026 "
+        "and must never be reintroduced."
+    )
+    return 1
+
+
 def main():
     """Main entry point"""
-    import glob
-    
-    # Get all markdown files
-    md_files = []
-    docs_dir = 'docs'
-    
-    if len(sys.argv) > 1:
-        # Specific file provided
-        md_files = [sys.argv[1]]
-    else:
-        # All files in docs
-        md_files = glob.glob(os.path.join(docs_dir, '**/*.md'), recursive=True)
-    
+    args = sys.argv[1:]
+
+    if '-h' in args or '--help' in args:
+        print(USAGE)
+        return 0
+
+    token_guard = '--token-guard' in args
+    paths = [a for a in args if not a.startswith('-')]
+    unknown = [a for a in args if a.startswith('-') and a != '--token-guard']
+    if unknown:
+        print(f"unknown option: {unknown[0]}\n")
+        print(USAGE)
+        return 2
+
+    md_files = collect_md_files(paths or ['docs'])
+
+    if not md_files:
+        # Nothing to check is not a failure: a pull request that touches no
+        # markdown must not be blocked by the markdown linter.
+        print("No markdown files to check.")
+        return 0
+
+    if token_guard:
+        return run_token_guard(md_files)
+
     total_errors = 0
     total_warnings = 0
     file_errors = {}
-    
+
     print("🔍 Running Ultra Markdown Linter...")
-    
+
     linter = UltraMarkdownLinter()
-    
-    for filepath in sorted(md_files):
+
+    for filepath in md_files:
         errors, warnings = linter.lint_file(filepath)
         if errors or warnings:
             file_errors[filepath] = (errors, warnings)
             total_errors += len(errors)
             total_warnings += len(warnings)
-    
+
     # Report results
     print(f"\n📊 Linting Complete!")
     print(f"Files checked: {len(md_files)}")
     print(f"Files with issues: {len(file_errors)}")
     print(f"Total errors: {total_errors}")
     print(f"Total warnings: {total_warnings}")
-    
+
     if file_errors:
         print("\n❌ ERRORS BY FILE:")
         for filepath, (errors, warnings) in sorted(file_errors.items()):
@@ -508,13 +592,14 @@ def main():
                     print(f"  Line {line}: {msg}{preview}")
                 if len(errors) > 10:
                     print(f"  ... and {len(errors) - 10} more errors")
-    
+
     if total_errors == 0:
         print("\n✅ No errors found!")
         return 0
     else:
         print(f"\n❌ Found {total_errors} errors that need fixing")
         return 1
+
 
 if __name__ == "__main__":
     sys.exit(main())
