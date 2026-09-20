@@ -390,7 +390,6 @@
 </ul>
 <p>** Actions to Take:**</p>
 <ul>
-<li>**Claim rewards promptly**</li>
 <li>Thank the team</li>
 <li>Share insights</li>
 <li>Help newcomers</li>

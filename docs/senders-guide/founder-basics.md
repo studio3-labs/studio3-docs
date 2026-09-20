@@ -317,7 +317,6 @@ public, permanently.</p>
 <p>**Equity Alternative:**</p>
 
 <ul>
-<li>Equity allocations</li>
 <li>Revenue sharing</li>
 <li>Milestone bonuses</li>
 <li>Reputation rewards</li>

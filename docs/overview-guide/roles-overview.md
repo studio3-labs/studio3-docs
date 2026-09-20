@@ -483,7 +483,7 @@ Success Rates by Role:
 | Metric | Senders | Echoes | Anchors |
 |--------|---------|--------|----------|
 | **Avg Weekly Hours** | 50-60 | 5-10 | 10-15 |
-| **Success Rate** | 34% | 67% | 89% |
+| **Success Rate** | 34% | — | 89% |
 | **Reputation Growth** | High | Medium | Very High |
 
 ## Multi-Role Strategies

@@ -147,8 +147,8 @@ flowchart TD
     G --> H[Verification]
     H -->|Delivered| I[Recorded as achieved]
     H -->|Not delivered| J[Recorded as failed]
-    I --> K[Forecasts scored, rewards released]
-    J --> K
+    I --> K[Forecasts scored, reward released]
+    J --> L[Forecasts scored, reward not released]
 ```
 
 ### The Milestone Cycle
