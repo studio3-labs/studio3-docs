@@ -44,8 +44,8 @@
 <p>Imagine a visual representation showing:</p>
 
 <ul>
-<li><strong>Support Bar:</strong> 75% of signals say go ahead</li>
-<li><strong>Doubt Bar:</strong> 25% say don't</li>
+<li><strong>Support Bar:</strong> 80% of signals say go ahead</li>
+<li><strong>Doubt Bar:</strong> 20% say don't</li>
 <li><strong>Echo Count:</strong> 89 total (71 support, 18 doubt)</li>
 <li><strong>Community Forecast:</strong> 62% chance the milestone is met</li>
 <li><strong>Forecasters:</strong> 54, of whom 11 have an expert title or above</li>
