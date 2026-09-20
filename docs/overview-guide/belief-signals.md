@@ -158,8 +158,7 @@ flowchart TD
 3. **Execution** - the founder works. Progress updates are posted publicly.
 4. **Evidence** - the founder submits evidence that the milestone was met.
 5. **Verification** - Studio3 staff verify at launch; Anchors take this over as the platform matures.
-6. **Settlement** - the outcome is recorded permanently and forecasts are scored, either way. Any
-   reward held for the milestone is released only when it is verified as achieved.
+6. **Settlement** - the outcome is recorded permanently and forecasts are scored, either way. Any reward held for the milestone is released only when it is verified as achieved.
 
 !!! danger "Failure is public and permanent"
     If a milestone is not delivered, the record says so, and it stays saying so. Nothing is

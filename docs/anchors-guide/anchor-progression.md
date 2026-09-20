@@ -651,7 +651,7 @@
 leadership of standards. Anchors are compensated in real rewards released by the Arena.</p>
 
 <p>**What the rates actually are has not been decided**, so no scale is published here. See
-<a href="compensation.md">Compensation</a> for what is settled and what is not.</p>
+<a href="../compensation/">Compensation</a> for what is settled and what is not.</p>
 
 <p>**Additional Income:**</p>
 

@@ -363,7 +363,7 @@
 <p>**Validation Rewards:**</p>
 <p>Anchors are compensated in real rewards - USDC and non-cash items - released by the Arena on
 verified success. The rates and the proportions between roles have not been decided, and are a
-live question the Anchor Council will have a voice in. See <a href="compensation.md">Compensation</a>.</p>
+live question the Anchor Council will have a voice in. See <a href="../compensation/">Compensation</a>.</p>
 
 <p>**Signal and Forecast Mechanics:**</p>
 

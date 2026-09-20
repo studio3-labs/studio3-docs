@@ -538,7 +538,7 @@
 
 <p>**A strong record gets you asked to do the work that matters most**, and gives you the standing to
 turn down the rest. Platform compensation rates are not yet set, so no premium scale is published
-here - see <a href="compensation.md">Compensation</a>.</p>
+here - see <a href="../compensation/">Compensation</a>.</p>
 
 <p>**Where reputation clearly pays:** advisory roles, board seats, speaking and consulting, all
 arranged directly rather than through the platform.</p>
