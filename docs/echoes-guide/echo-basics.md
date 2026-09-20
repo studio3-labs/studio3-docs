@@ -6,7 +6,7 @@
 
 <h3>📡 The Power of Belief</h3>
 
-<p>As an Echo in Studio3, you're not just an investor - you're a signal broadcaster whose conviction shapes venture success. Your belief or doubt, backed by $SIGNAL tokens, influences funding, momentum, and validation.</p>
+<p>As an Echo in Studio3, you're not an investor - you're a signal broadcaster whose judgement shapes venture success. Your support or doubt is free to express, your forecasts are scored against what actually happens, and both influence momentum and direction.</p>
 
 </div>
 
@@ -16,8 +16,8 @@
 
 Echoes are participants who:
 
-- **Express conviction** through token signals
-- **Earn rewards** for accurate predictions
+- **Express conviction** through free Signals
+- **Forecast outcomes** and build a public accuracy record
 - **Shape venture trajectories** with collective wisdom
 - **Build reputation** through consistent performance
 - **Create momentum** for deserving projects
@@ -30,7 +30,7 @@ Echoes are participants who:
 | Binary buy/sell | Belief/doubt spectrum |
 | Passive holding | Active participation |
 | Individual decisions | Collective wisdom |
-| Hidden positions | Transparent stakes |
+| Hidden positions | Everything on the public record |
 
 ## The Echo Mindset
 
@@ -57,7 +57,7 @@ Echoes are participants who:
 <ul>
 <li>Back your analysis</li>
 
-<li>Size stakes appropriately</li>
+<li>State how confident you actually are</li>
 
 <li>Stand by decisions</li>
 
@@ -101,25 +101,25 @@ Echoes are participants who:
 <p>2. <strong>Decision Making</strong></p>
 
 <ul>
-<li>Choose belief or doubt</li>
+<li>Choose support or doubt</li>
 
-<li>Determine stake size</li>
+<li>Decide your forecast probability</li>
 
 <li>Consider timing</li>
 
-<li>Assess risk/reward</li>
+<li>Write down your reasoning</li>
 
 </ul>
-<p>3. <strong>Staking Process</strong></p>
+<p>3. <strong>Submitting</strong></p>
 
 <ul>
-<li>Connect wallet</li>
+<li>Cast your Signal - free</li>
 
-<li>Select signal type</li>
+<li>Add your Forecast - also free</li>
 
-<li>Input token amount</li>
+<li>Nothing to buy, nothing to lock</li>
 
-<li>Confirm transaction</li>
+<li>Change either while the window is open</li>
 
 </ul>
 <p>4. <strong>Monitoring Period</strong></p>
@@ -137,8 +137,6 @@ Echoes are participants who:
 <p>5. <strong>Settlement</strong></p>
 <ul>
 <li>Milestone validated</li>
-
-<li>Rewards distributed</li>
 
 <li>Reputation updated</li>
 
@@ -159,11 +157,11 @@ Echoes are participants who:
 - Market validation
 - Community support
 
-<p><strong>Belief Rewards:</strong></p>
+<p><strong>What supporting gets you:</strong></p>
 
-- 1.5x-3x multipliers on success
-- Higher multiples for early signals
-- Reputation boost
+- A say in what the venture does next
+- A forecast on the record, if the milestone is checkable
+- Reputation when your calls prove sound
 - Community recognition
 
 ### Doubt Signals
@@ -176,12 +174,12 @@ Echoes are participants who:
 - Market misalignment
 - Red flags present
 
-<p><strong>Doubt Rewards:</strong></p>
+<p><strong>What doubting gets you:</strong></p>
 
-- 1.2x-2x multipliers on failure
-- Protect the ecosystem
-- Valuable feedback loop
-- Contrarian opportunities
+- A concern the founder has to answer
+- Protection for the ecosystem
+- A valuable feedback loop
+- Credit when the crowd was wrong and you were not
 
 ## The Echo Journey
 
@@ -191,15 +189,15 @@ Echoes are participants who:
 
 <h3>📈 Your Growth Trajectory</h3>
 
-<p>1. <strong>Novice Echo</strong> (0-100 XP)</p>
+<p>1. <strong>Novice Echo</strong></p>
 <ul>
 <li>Learning basics</li>
-<li>Small test signals</li>
+<li>First signals and forecasts</li>
 <li>Observing patterns</li>
 <li>Building knowledge</li>
 
 </ul>
-<p>2. <strong>Active Echo</strong> (100-500 XP)</p>
+<p>2. <strong>Adept Echo</strong></p>
 <ul>
 <li>Regular participation</li>
 <li>Growing accuracy</li>
@@ -207,18 +205,18 @@ Echoes are participants who:
 <li>Finding specialties</li>
 
 </ul>
-<p>3. <strong>Expert Echo</strong> (500-2000 XP)</p>
+<p>3. <strong>Expert Echo</strong></p>
 <ul>
 <li>High accuracy rate</li>
-<li>Larger positions</li>
+<li>Reasoning others follow</li>
 <li>Community influence</li>
 <li>Mentoring others</li>
 
 </ul>
-<p>4. <strong>Master Echo</strong> (2000+ XP)</p>
+<p>4. <strong>Master Echo</strong>, and beyond that <strong>Legend</strong></p>
 <ul>
 <li>Top performer</li>
-<li>Market mover</li>
+<li>Judgement others rely on</li>
 <li>Strategy leader</li>
 <li>Platform governance</li>
 
@@ -252,15 +250,15 @@ Echoes are participants who:
 </ul>
 </div>
 
-### 2. Risk Management
+### 2. Judgement
 
-<p><strong>Portfolio Principles:</strong></p>
+<p><strong>Principles:</strong></p>
 
-- Never all-in on one signal
-- Diversify across phases
-- Balance belief and doubt
-- Size stakes appropriately
-- Keep reserve funds
+- Forecast only what you can actually judge
+- Follow ventures across different phases
+- Keep Signals and Forecasts separate
+- State the confidence you really hold
+- Skip freely - it costs nothing
 
 ### 3. Community Participation
 
@@ -272,34 +270,32 @@ Echoes are participants who:
 - Report suspicious activity
 - Help new Echoes
 
-## Economic Model
+## Rewards
 
-### How Echoes Earn
+### How Rewards Reach an Echo
 
 <div class="arena-card">
 
-<h3>💰 Revenue Streams</h3>
+<h3>🎁 Bounties and Drops</h3>
 
-<p>1. <strong>Signal Rewards</strong></p>
+<p>1. <strong>Bounties</strong></p>
 <ul>
-<li>Direct multipliers on correct predictions</li>
+<li>Specific work, posted with a reward attached</li>
 
-<li>Early signal bonuses</li>
+<li>Claim it, deliver it, get it verified</li>
 
-<li>Contrarian premiums</li>
+<li>Paid in USDC or non-cash items</li>
 
-<li>Streak bonuses</li>
+<li>Counts towards your title</li>
 
 </ul>
-<p>2. <strong>Reputation Benefits</strong></p>
+<p>2. <strong>Drops</strong></p>
 <ul>
-<li>Higher stake limits</li>
+<li>Rewards granted around a venture</li>
 
-<li>Better multipliers</li>
+<li>For contribution or being there</li>
 
 <li>Priority access</li>
-
-<li>Governance rights</li>
 
 </ul>
 <p>3. <strong>Community Rewards</strong></p>
@@ -315,16 +311,17 @@ Echoes are participants who:
 </ul>
 </div>
 
-### Token Flow
+### How a Reward Reaches You
 
-The lifecycle of your $SIGNAL tokens follows this path:
+Studio3 has no token, so nothing of yours is ever at risk. Rewards move like this:
 
-1. <strong>Your Stake:</strong> You commit tokens to signal belief or doubt
-2. <strong>Venture Pool:</strong> Your tokens join others in the milestone pool
-3. <strong>Milestone Outcome:</strong> The venture either succeeds or fails
-4. <strong>Rewards/Burns:</strong> Success multiplies your stake, failure burns it
+1. <strong>Committed:</strong> a venture, studio or sponsor puts USDC or goods into the Arena
+2. <strong>Held:</strong> the Arena holds it while the work happens
+3. <strong>Verified:</strong> Studio3 staff - later Anchors - check the evidence
+4. <strong>Released:</strong> on success the Arena releases it to the people who contributed
 
-At each stage, your tokens are at risk but working toward potential rewards based on the venture's execution.
+Where several people contributed, the Sender proposes the split, contributors can dispute it, and
+an Anchor arbitrates. The proportions themselves are not yet set.
 
 ## Success Factors
 
@@ -344,7 +341,7 @@ At each stage, your tokens are at risk but working toward potential rewards base
 <li>Avoid FOMO</li>
 <li>Resist FUD</li>
 <li>Stay objective</li>
-<li>Learn from losses</li>
+<li>Learn from wrong calls</li>
 </ul>
 </li>
 <li><strong>Active Participation</strong>
@@ -376,15 +373,15 @@ At each stage, your tokens are at risk but working toward potential rewards base
 <ul>
 <li>Signaling without research</li>
 <li>Emotional decision making</li>
-<li>Overexposure to one venture</li>
+<li>Following only one venture</li>
 <li>Ignoring red flags</li>
-<li>Chasing losses</li>
+<li>Rushing a new call to cancel out a wrong one</li>
 
 </ul>
 <p><strong>Warning Signs:</strong></p>
 <ul>
 <li>Declining accuracy</li>
-<li>Shrinking bankroll</li>
+<li>Falling calibration</li>
 <li>Stress reactions</li>
 <li>Isolation from community</li>
 <li>Blame mentality</li>
@@ -427,8 +424,8 @@ At each stage, your tokens are at risk but working toward potential rewards base
 <p><strong>Analysis Tools:</strong></p>
 <ul>
 <li>Signal calculator</li>
-<li>Risk assessment matrix</li>
-<li>Portfolio tracker</li>
+<li>Milestone calendar</li>
+<li>Forecast tracker</li>
 <li>Performance analytics</li>
 
 </ul>
@@ -445,7 +442,7 @@ At each stage, your tokens are at risk but working toward potential rewards base
 <li>Due diligence checklist</li>
 <li>Red flag detector</li>
 <li>Timing optimizer</li>
-<li>Stake sizing guide</li>
+<li>Calibration tracker</li>
 
 </ul>
 </div>
@@ -476,7 +473,7 @@ At each stage, your tokens are at risk but working toward potential rewards base
 
 <div class="arena-card">
 
-<h3>🌟 XP & Reputation</h3>
+<h3>🌟 Titles &amp; Reputation</h3>
 <p><strong>How to Build:</strong></p>
 <ul>
 <li>Consistent accuracy</li>
@@ -517,7 +514,7 @@ At each stage, your tokens are at risk but working toward potential rewards base
 
 <p><strong>Day 5-7: Action</strong></p>
 
-- [ ] Make first small signal
+- [ ] Make first signal
 - [ ] Document reasoning
 - [ ] Engage with venture
 - [ ] Track performance
@@ -526,28 +523,28 @@ At each stage, your tokens are at risk but working toward potential rewards base
 
 ### Signal Timing
 
-<p><strong>Early Signals:</strong></p>
+<p><strong>Early Forecasts:</strong></p>
 
-- Higher risk
-- Better multipliers
-- Less information
-- Pioneer advantage
+- Harder to get right
+- Worth far more on your record
+- Less information available
+- Pioneer credit
 
-<p><strong>Late Signals:</strong></p>
+<p><strong>Late Forecasts:</strong></p>
 
-- Lower risk
-- Smaller multipliers
-- More information
-- Follower safety
+- Easier to get right
+- Worth much less - by then everyone can see it
+- More information available
+- Useful for updating a view you already put on the record
 
-### Portfolio Strategy
+### Where to Spend Your Attention
 
-<p><strong>Diversification Model:</strong></p>
+<p><strong>A workable mix:</strong></p>
 
-- 40% early-phase ventures
-- 30% mid-phase stability
-- 20% contrarian plays
-- 10% experimental
+- A few early-phase ventures where you have real domain knowledge
+- A few mid-phase ventures you can track over time
+- The occasional call where you disagree with the crowd and can say why
+- Anything outside those, left alone
 
 ## Next Steps
 
@@ -562,7 +559,7 @@ Ready to dive deeper? Continue with:
 ---
 
 !!! tip "Pro Tip"
-    The best Echoes treat signaling like a craft. Master the fundamentals, develop your style, and remember: consistent small wins beat sporadic large risks.
+    The best Echoes treat signalling like a craft. Master the fundamentals, develop your style, and remember: a well-calibrated record beats a loud one.
 
 !!! info "Remember"
-    Your signals don't just affect your wallet - they shape which ventures succeed and which fail. Signal responsibly.
+    Your signals shape which ventures succeed and which fail. Signal responsibly.

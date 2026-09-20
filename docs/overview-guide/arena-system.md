@@ -58,7 +58,7 @@ An Arena is a transparent, public space where:
 <p><strong>Variable (per milestone)</p></strong></p>
         <p><strong>Stakes:</strong>
 
-<p><strong>Token rewards/burns</p></strong></p>
+<p><strong>The venture's public record, and the Arena's reward</p></strong></p>
         <p>Where ventures prove their execution ability</p>
 </div>
     
@@ -86,57 +86,54 @@ sequenceDiagram
     participant A as Arena
     participant E as Echoes
     participant V as Validators
-    
-    F->>A: Declare milestone + set reward split
+    participant C as Contributors
+
+    F->>A: Declare milestone + propose reward split
     A->>E: Open for signals
-    E->>A: Place belief/doubt
+    E->>A: Signal and forecast, both free
     F->>A: Work publicly
     F->>A: Submit evidence
     A->>V: Request validation
-    V->>A: Verify completion
-    A->>E: Distribute rewards per split
+    alt Verified as achieved
+        V->>A: Confirm completion
+        A->>E: Outcome recorded publicly, forecasts scored
+        A->>C: Release reward to contributors
+    else Not delivered
+        V->>A: Record as failed
+        A->>E: Outcome recorded publicly, forecasts scored, reward not released
+    end
 ```
 
 ### Core Components
 
 | Component | Function | Participants |
 |-----------|----------|-------------|
-| **Declaration** | Public commitment to goals + reward split | Founders |
-| **Signaling** | Token-backed belief or doubt | Echoes |
+| **Declaration** | Public commitment to goals + proposed reward split | Founders |
+| **Signalling** | Free support or doubt, plus free forecasts | Echoes |
 | **Execution** | Transparent work toward goals | Founders |
-| **Validation** | Independent verification of results | Anchors |
-| **Settlement** | Automated reward distribution per split | System |
+| **Validation** | Independent verification of results | Studio3 staff, later Anchors |
+| **Settlement** | Reward released by the Arena on success | The Arena |
 
 ### Arena Reward Configuration
 
 <div class="arena-card">
 
-<h3>💎 Sender-Controlled Reward Splits</h3>
+<h3>💎 What the Arena Holds</h3>
 
-<p><strong>Founders set the reward allocation for each milestone:</strong></p>
+<p>The reward for a milestone is committed to the Arena before the work starts, and released when the
+milestone is verified as achieved. It can be USDC, non-cash items such as merch, access, tickets,
+credits or digital collectibles, or both.</p>
 
-<ul>
-<li><strong>Company Pool:</strong> Resources for venture operations and growth</li>
-<li><strong>Participant Pool:</strong> Rewards for community members who signal and validate</li>
-</ul>
+<p><strong>How it is shared out:</strong> the Sender proposes how a reward is divided between the people who
+contributed, contributors can dispute that proposal, and an Anchor arbitrates.</p>
 
-<p>This split incentivizes participation while ensuring ventures have resources to execute. Senders strategically adjust splits based on:</p>
-<ul>
-<li>Phase of development</li>
-<li>Milestone difficulty</li>
-<li>Community engagement needs</li>
-<li>Resource requirements</li>
-</ul>
-
-<p><strong>The split directly impacts:</strong></p>
-<ul>
-<li>Signal volume and quality</li>
-<li>Community engagement levels</li>
-<li>Available execution resources</li>
-<li>Overall milestone success rates</li>
-</ul>
+<p>The proportions themselves are not fixed by the platform and are not yet specified here.</p>
 
 </div>
+
+!!! note "Not yet live"
+    Arena-held rewards, Drops, Bounties, and evidence submission are settled decisions that are
+    still being built. This describes the model, not a feature you can use today.
 
 ## Arena Rules
 
@@ -145,13 +142,13 @@ sequenceDiagram
 !!! warning "Non-Negotiable Rules"
     1. **All work must be public** - No private development
     2. **All milestones are binding** - Once declared, must be attempted
-    3. **All signals are final** - No takebacks after placing
+    3. **All signals are public and permanently recorded** - Change one while the window is open; the history is kept
     4. **All validations are independent** - No founder influence
-    5. **All settlements are automatic** - No manual overrides
+    5. **All settlements follow the verified outcome** - The reward is released only on verified success, and a disputed split is arbitrated by an Anchor
 
 #### Spark Arena Rules
 
-- Minimum 100 $SIGNAL initial support to proceed
+- A threshold of initial community support is required to proceed
 - At least 10 unique supporters required
 - Ideas can iterate based on feedback
 - Failed Sparks can be re-submitted after 30 days
@@ -160,7 +157,7 @@ sequenceDiagram
 
 - Winner takes all 
 - only one founder proceeds
-- Minimum stake of 1,000 $SIGNAL to enter
+- Entry is by application, not by putting anything up
 - 72-hour preparation period before duel
 - Judgment based on vision, capability, and commitment
 
@@ -179,28 +176,26 @@ sequenceDiagram
 
 <h3>📡 Signal Mechanics</h3>
 
-<p><strong>Belief Signals</strong> 👍</p>
+<p><strong>Support Signals</strong> 👍</p>
 <ul>
-<li><strong>Express conviction in venture success by staking tokens</strong></li>
-<li>Support founders with resources and validation</li>
-<li>Earn 1.5x-3x multiplier rewards if correct</li>
-<li>Lose entire stake if milestone fails</li>
+<li><strong>Tell the venture you think it should go ahead</strong></li>
+<li>Free to cast, visible immediately</li>
+<li>A preference, not a prediction - it is never scored</li>
 
 </ul>
 <p><strong>Doubt Signals</strong> 👎</p>
 <ul>
-<li><strong>Express concern about execution by staking tokens</strong></li>
-<li>Provide constructive pressure for improvement</li>
-<li>Earn 1.2x-2x multiplier rewards if correct</li>
-<li>Lose entire stake if milestone succeeds</li>
+<li><strong>Tell the venture you think it should not</strong></li>
+<li>Equally free, equally visible</li>
+<li>Constructive pressure the founder is expected to answer</li>
 
 </ul>
-<p><strong> Multiplier Factors:</strong></p>
+<p><strong>Forecasts</strong> 🎯</p>
 <ul>
-<li><strong>Early signals earn higher multipliers</strong></li>
-<li>Contrarian correct signals bonus</li>
-<li>Reputation level affects multipliers</li>
-<li>Phase difficulty impacts rewards</li>
+<li><strong>Separate from signals, and also free</strong></li>
+<li>A probability on whether the milestone will actually be met</li>
+<li>Scored against the verified outcome and added to your accuracy record</li>
+<li>Where a prediction market exists on Polymarket and you are eligible, a forecast can carry money - this is optional, external, and rare</li>
 
 </ul>
 </div>
@@ -214,11 +209,11 @@ graph TD
     B -->|High Failure| D[Signal Doubt]
     B -->|Uncertain| E[Wait for More Info]
     
-    C --> F[Choose Stake Size]
+    C --> F[Add a forecast probability]
     D --> F
     E --> G[Monitor Progress]
     
-    F --> H[Place Signal]
+    F --> H[Submit - free]
     G --> B
 ```
 
@@ -229,7 +224,7 @@ graph TD
 ** Public Information:**
 
 - **All milestone declarations**
-- All signal amounts and timing
+- All signals and forecasts, with timing
 - All founder updates and evidence
 - All validator comments and scores
 - All reward distributions
@@ -237,10 +232,10 @@ graph TD
 ** Performance Metrics:**
 
 - **Success/failure rates by founder**
-- Signal accuracy by Echo
+- Forecast accuracy by Echo
 - Validation quality by Anchor
 - Phase progression timelines
-- Token flow analysis
+- Reward release history
 
 ## Arena Participation
 
@@ -270,17 +265,17 @@ graph TD
 - **Research thoroughly**
 - Past performance predicts future
 
-- **Diversify signals**
-- Don't put all tokens on one milestone
+- **Forecast widely**
+- A record built on one milestone says very little
 
-- **Time entries well**
-- Early signals earn more
+- **Say why**
+- Written reasoning is how you learn from outcomes
 
 - **Monitor actively**
 - Adjust strategies based on progress
 
-- **Learn from losses**
-- Failed signals teach valuable lessons
+- **Learn from wrong calls**
+- A forecast that missed tells you where your judgement needs work
 
 ### For Anchors
 
@@ -308,7 +303,7 @@ graph TD
 <div class="grid cards">
     <div class="card">
         <h4>🔗 Smart Contracts</h4>
-        <p>Automated settlement and token distribution</p>
+        <p>Arenas that hold a reward and release it on verified success</p>
     </div>
     <div class="card">
         <h4>📊 Real-time Updates</h4>
@@ -330,11 +325,11 @@ graph TD
 
 | Metric | Description | Why It Matters |
 |--------|-------------|----------------|
-| **Signal Velocity** | Speed of belief/doubt accumulation | Indicates market confidence |
+| **Signal Velocity** | Speed of belief/doubt accumulation | Indicates community confidence |
 | **Completion Rate** | % of milestones achieved | Shows execution quality |
-| **Accuracy Score** | % of correct signals | Measures Echo expertise |
-| **Validation Time** | Hours to verify completion | Indicates Anchor efficiency |
-| **Token Multiplier** | Average reward multiple | Shows risk/reward balance |
+| **Accuracy Score** | Forecast accuracy against verified outcomes | Measures Echo expertise |
+| **Validation Time** | Hours to verify completion | Indicates verification efficiency |
+| **Reward Release Rate** | % of held rewards actually released | Shows delivery quality |
 
 ## Arena Evolution
 
@@ -354,7 +349,7 @@ The Arena system evolves through:
 !!! info "Coming Soon"
 
     - **Conditional Signals** "I believe IF X happens"
-    - **Signal Combinations** Portfolio strategies
+    - **Signal Combinations** Multi-milestone questions
     - **Arena Leagues** Competitive seasons
     - **Achievement Badges** Visual reputation markers
     - **Arena Streaming** Live video updates
@@ -368,7 +363,7 @@ The Arena system evolves through:
 <h4>🏆 DataMesh Protocol</h4>
 <p><strong>Arena Performance:</strong> 12/12 milestones completed</p>
 <ul>
-<li><strong>Total Signals:</strong> 2.3M $SIGNAL beliefOutcome:</li>
+<li><strong>Community support:</strong> overwhelming, on every milestone</li>
 
 </ul>
 <p>Graduated in record time> "The Arena's transparency forced us to be better. Every day we knew thousands were watching, believing, and holding us accountable."</p>
@@ -419,11 +414,11 @@ The Arena system evolves through:
 3. **Prepare**
 - Plan your approach carefully
 4. **Enter**
-- Start with appropriate stakes
+- Start with the milestones you actually understand
 5. **Learn**
 - Every Arena teaches something valuable
 
-- Master [Belief & Doubt Signals](belief-signals.md) mechanics
+- Master [Signals & Forecasts](belief-signals.md) mechanics
 - Understand the [Seven Phase Lifecycle](seven-phases.md)
 - Learn about [Milestone System](milestones.md) best practices
 - Explore [Roles Overview](roles-overview.md) for your path

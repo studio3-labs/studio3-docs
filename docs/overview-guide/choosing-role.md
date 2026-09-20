@@ -38,17 +38,16 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 <p><strong> You should be an Echo if you:</strong></p>
 <ul>
 <li><strong>Enjoy evaluating opportunities</strong></li>
-<li>Have capital to deploy</li>
-<li>Want diversified exposure</li>
+<li>Want to follow many ventures at once</li>
 <li>Like community participation</li>
-<li>Seek merit-based returns</li>
+<li>Want your judgement on the record</li>
 
 </ul>
 <p><strong> Required:</strong></p>
 <ul>
-<li><strong>$SIGNAL tokens</strong></li>
+<li><strong>An account - nothing to buy</strong></li>
 <li>Analytical mindset</li>
-<li>Risk management</li>
+<li>Honest self-assessment</li>
 <li>Active engagement</li>
 <li>Learning appetite</li>
 
@@ -64,7 +63,6 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 <li>Enjoy mentoring founders</li>
 <li>Want ecosystem impact</li>
 <li>Value quality standards</li>
-<li>Seek consistent income</li>
 
 </ul>
 <p><strong> Required:</strong></p>
@@ -91,11 +89,11 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 
 ### Financial Requirements
 
-| Role | Initial Capital | Ongoing Costs | Potential Returns |
-|------|----------------|---------------|-------------------|
-| **Sender** | 1,000+ $SIGNAL | Operating expenses | Unlimited upside |
-| **Echo** | 100+ $SIGNAL | Signal stakes | 1.2x - 3x per signal |
-| **Anchor** | Minimal | Time investment | 3-10% per validation |
+| Role | What it takes to start | Ongoing Costs | What you can gain |
+|------|------------------------|---------------|-------------------|
+| **Sender** | An idea and a plan | Operating expenses | Ownership and sovereignty |
+| **Echo** | An account | Your time | Rewards from Drops and Bounties, and an accuracy record |
+| **Anchor** | Track record and application | Time investment | Rewards released by the Arena |
 
 ### Risk Profile
 
@@ -112,16 +110,16 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 </ul>
 <p><strong>Moderate Risk, Moderate Reward: Echo</strong></p>
 <ul>
-<li><strong>Can lose signal stakes</strong></li>
-<li>Can earn consistent multipliers</li>
-<li>Diversification possible</li>
-<li>Compound growth potential</li>
+<li><strong>Risks being publicly wrong</strong></li>
+<li>Builds a record that compounds</li>
+<li>Costs nothing to participate</li>
+<li>Can earn real rewards through bounties</li>
 
 </ul>
-<p><strong>Lowest Risk, Steady Reward: Anchor</strong></p>
+<p><strong>Lowest Risk: Anchor</strong></p>
 <ul>
 <li><strong>Minimal financial risk</strong></li>
-<li>Steady fee income</li>
+<li>Rewards released by the Arena, with rates not yet set</li>
 <li>Reputation-based growth</li>
 <li>Network value accrual</li>
 
@@ -232,7 +230,7 @@ graph LR
 
 <h4>🌱 Complete Beginner</h4>
 
-<p>Start as an<strong>Echo</strong> with small signals to:</p>
+<p>Start as an<strong>Echo</strong> on a few ventures you can actually judge to:</p>
 
 <ul>
 <li><strong>Learn the ecosystem</strong></li>
@@ -283,12 +281,12 @@ graph LR
 
 - **Time**:
   How many hours per day?
-- **Capital**:
-  How much $SIGNAL available?
+- **Judgement**:
+  Where is yours actually good?
 - **Skills**:
   What's your superpower?
 - **Risk**:
-  What can you afford to lose?
+  How comfortable are you being wrong in public?
 - **Goals**:
   What do you want to achieve?
 
@@ -297,7 +295,7 @@ graph LR
 | If You Have... | Best Role | Why |
 |----------------|-----------|-----|
 | Venture idea + time | Sender | Build your vision |
-| Capital + analysis skills | Echo | Earn through signals |
+| Analysis skills + curiosity | Echo | Put your judgement on the record |
 | Experience + mentorship | Anchor | Guide and validate |
 | Just curiosity | Echo | Lowest barrier entry |
 
@@ -308,7 +306,7 @@ Whatever role you choose:
 1. **Observe first**
 - Watch active participants
 2. **Start minimal**
-- Small stakes/commitments
+- One venture, followed closely
 3. **Learn actively**
 - Engage with community
 4. **Build reputation**
@@ -327,7 +325,7 @@ Whatever role you choose:
 -Undercommitted**: Not giving enough effort**### Role Misalignment Signs
 
 - **Senders**: Constant stress, missing deadlines, poor communication
-- **Echoes**: All signals failing, emotional decisions, portfolio concentration
+- **Echoes**: Accuracy falling, emotional decisions, forecasting outside your expertise
 - **Anchors**: Validation disputes, mentor conflicts, time management issues
 
 ## Making Your Choice
@@ -378,7 +376,7 @@ Once you've chosen your role:
 - Signal strategy guide
 - Analysis tools and dashboards
 - Echo strategy groups
-- Portfolio trackers
+- Forecast trackers
 
 ### Anchor Resources
 

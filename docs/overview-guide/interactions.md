@@ -13,12 +13,12 @@ graph TB
     subgraph "Venture Lifecycle"
         S[Sender] -->|Creates| V[Venture]
         V -->|Attracts| E[Echoes]
-        E -->|Signal| B[Belief/Doubt]
+        E -->|Free Signal| B[Belief/Doubt]
         B -->|Guides| S
         S -->|Executes| M[Milestones]
         M -->|Reviewed by| A[Anchors]
         A -->|Validates| R[Results]
-        R -->|Rewards| E
+        R -->|Accuracy recorded| E
         R -->|Empowers| S
     end
     
@@ -31,7 +31,7 @@ graph TB
 
 ### Sender ↔ Echo Dynamics
 
-### 🤝 The Investment Relationship
+### 🤝 The Support Relationship
 
 **How They Connect:**
 
@@ -43,7 +43,7 @@ graph TB
 
 #### Signaling Phase
 
-- Echoes place belief/doubt stakes
+- Echoes signal support or doubt, and forecast the outcome
 - Senders see support levels
 - Feedback flows both ways
 
@@ -81,9 +81,9 @@ graph TB
 
 | What Senders Give | What Echoes Give |
 |-------------------|------------------|
-| Transparency | Risk capital |
+| Transparency | Honest judgement |
 | Execution | Market validation |
-| Returns potential | Community wisdom |
+| A public delivery record | Community wisdom |
 | Learning opportunity | Network effects |
 | Innovation | Distribution |
 
@@ -155,7 +155,7 @@ sequenceDiagram
     <div class="card">
         <h4>⚓ What Anchors Gain</h4>
         <ul>
-            <li>Validation fees</li>
+            <li>Rewards from the Arena</li>
             <li>Ecosystem growth</li>
             <li>Satisfaction of helping</li>
             <li>Reputation building</li>
@@ -176,7 +176,7 @@ sequenceDiagram
 
 - Anchors provide quality assurance
 - Echoes trust validation process
-- Reduces investment risk
+- Reduces the risk of a bad call
 
 #### Information Flow
 
@@ -360,7 +360,7 @@ graph LR
 - **Cross-role interactions multiply**:
   Senders × Echoes + Senders × Anchors + Echoes × Anchors
 - **Total network value**:
-  Role value × Interaction multiplier
+  Role value × interaction factor
 - **Result**:
   Exponential growth as ecosystem expands
 
@@ -374,7 +374,7 @@ graph LR
     - **Knowledge Sharing**: Collective intelligence emerges
     - **Innovation Clusters**: Similar ventures collaborate
     - **Mentorship Chains**: Successful founders become Anchors
-    - **Investment Syndicates**: Echoes coordinate strategies
+    - **Coverage Groups**: Echoes coordinate research
 
 ## Interaction Metrics
 
@@ -460,9 +460,9 @@ graph LR
   Major pivot needed after market shift
 - **Interaction**:
   Transparent communication, collaborative replanning
-- **Outcome:** 85% Echo retention, successful pivot, 3x returns
+- **Outcome:** 85% Echo retention, successful pivot
 
-> "The open dialogue during our pivot saved the venture. Our Echoes became true partners, not just investors."
+> "The open dialogue during our pivot saved the venture. Our Echoes became true partners, not just spectators."
 > 
 > — TechVenture Founder
 

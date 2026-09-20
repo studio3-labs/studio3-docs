@@ -10,14 +10,39 @@ This project creates a comprehensive 50+ page MkDocs + Material documentation si
 - **Studio3** is a venture engine where "belief becomes momentum"
 - Startups are built through public **Arenas** with transparent milestones
 - **NOT** an incubator, accelerator, or traditional DAO
-- Gamified entrepreneurship with real stakes and rewards
+- Gamified entrepreneurship with real rewards and real, permanent consequences
 
 ### Core Mechanics
 
-#### 1. The $SIGNAL Token
-- **Utility token** for expressing belief or doubt (NOT a security or bet)
-- Earned through accurate predictions, burned through failures
-- Represents conviction about execution ability, not financial speculation
+#### 1. Signals, Forecasts and Rewards (there is NO token)
+Studio3 has **no native token**. `$SIGNAL` was removed in September 2026 and must never be
+reintroduced. `lint_markdown_ultra.py` carries a guard that reports an error for `$SIGNAL` or
+`$STUDIO` in `docs/`, but nothing runs it: the Makefile, pre-commit hook and package.json lint
+scripts all still point at `lint_markdown_strict.py`, which does not exist, and CI runs no lint
+step. Run `python3 lint_markdown_ultra.py` by hand, with NO argument - passing `docs` makes it treat
+the directory as a single file, check zero documentation files and never evaluate the guard.
+
+- **Signal**: a FREE protocol action answering "what do you think we should do?" - yes/no, A or B,
+  a preference. Costs nothing, never scored, equal weight for every participant.
+- **Forecast**: also FREE and separate, answering "what do you think WILL happen?" - a probability.
+  Scored against the verified outcome and built into a personal accuracy record.
+- **Prediction market**: OPTIONAL, EXTERNAL (Polymarket) and RARE. Per-venture switchable,
+  unavailable in many jurisdictions, and money only ever attaches to a Forecast, never a Signal.
+  Never describe a market as required, native, or as how Studio3 works.
+- **Rewards**: real **USDC** plus non-cash items (merch, access, tickets, credits, digital
+  collectibles), granted through **Drops** and **Bounties**, held by the Arena and released on
+  success.
+- **Verification**: Studio3 staff at launch; Anchors take over later.
+- **Progression titles**: novice, adept, expert, master, legend - earned from verified outcomes,
+  forecast accuracy and delivered bounties, NEVER from points, staking or holdings. There is no XP.
+- **Failure is public and permanent.** Objectives can fail and the record says so.
+
+**Not yet decided, so never describe:** how escrow custody works, what a Grand Arena prize legally
+is, and the exact proportions by which a reward is split between contributors. Say only that the
+Sender proposes the split, contributors can dispute, and an Anchor arbitrates.
+
+**Not yet built:** Drops, Bounties, evidence submission and Arena-held escrow. Write about the
+model, not about features a reader could use today.
 
 #### 2. Three NFT System
 - **Spark NFT** 🎨: Original idea, created from remixed IP-NFTs via Flambette marketplace
@@ -41,7 +66,7 @@ This project creates a comprehensive 50+ page MkDocs + Material documentation si
 
 ### Three Roles
 - **Founders (Senders)**: Build ventures through public milestones
-- **Supporters (Echoes)**: Signal belief/doubt, earn through accuracy
+- **Supporters (Echoes)**: Signal belief/doubt and forecast outcomes, both free; accuracy builds a public record, rewards come from Drops and Bounties
 - **Validators (Anchors)**: Guide ventures and validate progress
 
 ## Technical Architecture
@@ -65,9 +90,12 @@ MkDocs + Material Theme
 ## Important Implementation Notes
 
 ### Language & Framing
-- **ALWAYS** refer to "$SIGNAL tokens" (never $STUDIO)
-- **NEVER** describe signals as "bets" or "securities"
-- **EMPHASIZE** belief/doubt as conviction about execution
+- **NEVER** write `$SIGNAL` or `$STUDIO` - Studio3 has no native token
+- **NEVER** use odds, stakes, payouts, bets, wagering, burns, multipliers, XP, staking, bankroll
+  or "belief and doubt markets"
+- **KEEP** the arena drama and energy: Arenas, Senders, Anchors, Echoes, Grand Arenas and the
+  seven venture phases all keep their character
+- **EMPHASIZE** belief/doubt as conviction about execution, expressed for free
 - **AVOID** mentioning the underlying Echion protocol
 - **FOCUS** on Studio3 as the user-facing platform
 
@@ -75,14 +103,15 @@ MkDocs + Material Theme
 1. **Practical guides** over technical theory
 2. **Visual examples** with Arena cards and phase indicators
 3. **Clear progression paths** for each role
-4. **Real stakes and consequences** in the gamified system
+4. **Real rewards and consequences** in the gamified system
 5. **Community-driven validation** as core principle
 
 ### Style Guidelines
 - Use **arena-card** class for important callouts
-- **ALWAYS** add `markdown="1"` attribute to arena-card divs for proper markdown rendering
+- Put **pure HTML** inside `arena-card` divs and omit `markdown="1"` - `lint_markdown_ultra.py`
+  flags an arena-card that has both. Use `markdown="1"` only on the outer `grid`/`grid cards`
+  wrapper.
 - Apply **phase-indicator** classes with appropriate colors
-- Format tokens with **token-display** class
 - Include **emoji indicators** for visual navigation
 - Maintain **conversational but authoritative** tone
 
@@ -98,7 +127,6 @@ studio3-docs/
 │   ├── founders/          # Founder-specific guides
 │   ├── echoes/            # Supporter guides
 │   ├── anchors/           # Validator guides
-│   ├── tokens/            # $SIGNAL economics
 │   ├── tools/             # Platform features
 │   ├── cases/             # Success stories
 │   └── resources/         # Templates and FAQ
@@ -148,15 +176,16 @@ graph LR
 ## Edge Cases & Considerations
 
 ### Milestone Failures
-- Tokens are burned, not redistributed to system
-- Reputation (XP) impacts are permanent
+- The reward the Arena holds is not released
+- The failure is recorded publicly and permanently
 - Failed ventures can pivot in Drift phase
 - Resurrection Duels allow second chances
 
 ### Signal Dynamics
-- Early signals earn higher multipliers
-- Contrarian correct predictions reward more
-- Herd behavior is naturally discouraged
+- Signalling and forecasting cost nothing, so participation has no financial barrier
+- Early forecasts count for more on a personal accuracy record
+- Contrarian correct forecasts are worth more than consensus ones
+- Herd behavior shows up as poor calibration
 - Anchor opinions carry significant weight
 
 ### Exit Mechanics
@@ -168,8 +197,7 @@ graph LR
 ## Future Enhancements
 
 ### Planned Features
-- Conditional signals ("I believe IF...")
-- Cross-venture signal strategies
+- Conditional signals ("I think we should, if...")
 - Advanced Arena types
 - Recursive studio creation
 - Enhanced analytics dashboard

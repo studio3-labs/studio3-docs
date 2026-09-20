@@ -359,8 +359,8 @@
 
 <p>**Rewards System:**</p>
 <ul>
-<li>Referrals: 10% signal bonus</li>
-<li>Content creation: 100 $SIGNAL per piece</li>
+<li>Referrals: recognition and access</li>
+<li>Content creation: a bounty, where you have one to post</li>
 <li>Events: VIP access</li>
 <li>Influence: Advisory input</li>
 </ul>

@@ -148,40 +148,36 @@
 
 ## Financial Requirements
 
-### Stake Requirements
+### What You Put Up
 
 <div class="arena-card">
 
-<h3>💰 Economic Commitment</h3>
+<h3>💰 Nothing Financial</h3>
 
-<p>**Minimum Stake:**</p>
+<p>**There is no stake, bond or token holding required to become an Anchor.**</p>
 
 <ul>
-<li>50,000 $SIGNAL tokens</li>
-<li>Locked for 12 months minimum</li>
-<li>Slashing risk acceptance</li>
-<li>Alignment demonstration</li>
-<li>Skin in the game</li>
+<li>Studio3 has no native token</li>
+<li>Nothing is locked</li>
+<li>Nothing can be slashed</li>
 
 </ul>
-<p>**Stake Purpose:**</p>
+<p>**What you do put on the line:**</p>
 
 <ul>
-<li>Alignment incentive</li>
-<li>Quality insurance</li>
-<li>Commitment proof</li>
-<li>Bad behavior deterrent</li>
-<li>Ecosystem investment</li>
+<li>Your name, attached publicly to every judgement you make</li>
+<li>Your standing, which falls if your verifications do not hold up</li>
+<li>Your role, which you can lose</li>
 
 </ul>
-<p>**Slashing Conditions:**</p>
+<p>**Consequences for poor conduct:**</p>
 
 <ul>
-<li>Malicious validation: -50%</li>
-<li>Gross negligence: -25%</li>
-<li>Repeated failures: -10%</li>
-<li>Ethics violations: -100%</li>
-<li>Recovery possible through excellence</li>
+<li>Verification later overturned: review and reduced assignments</li>
+<li>Bias or negligence: Council review</li>
+<li>Undeclared conflicts of interest: removal from the decision, and possibly the role</li>
+<li>Ethics violations: permanent removal</li>
+<li>Recovery possible through sustained good work, where the breach allows it</li>
 
 </ul>
 </div>
@@ -301,7 +297,7 @@
 <li>Exit documentation</li>
 <li>Reference contacts</li>
 <li>Portfolio examples</li>
-<li>Stake proof</li>
+<li>Conflict-of-interest declaration</li>
 
 </ul>
 <p>3. Essay questions:</p>
@@ -534,7 +530,7 @@
 <li>Performance review pass</li>
 <li>Continued education (20 hours)</li>
 <li>Community contribution</li>
-<li>Stake maintenance</li>
+<li>Conflict declarations kept current</li>
 <li>Ethics compliance</li>
 
 </ul>

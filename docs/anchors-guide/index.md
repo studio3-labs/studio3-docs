@@ -112,7 +112,7 @@ This guide is for experienced builders who want to become Anchors (Validators) i
 
 <li>✅ Time commitment availability</li>
 
-<li>✅ Stake requirement met</li>
+<li>✅ No conflicts of interest</li>
 
 </ul>
 </div>
@@ -180,11 +180,14 @@ This guide is for experienced builders who want to become Anchors (Validators) i
 
 !!! info "Anchor Rewards"
 
-    - **Base Fee**: 2-5% of milestone value
-    - **Performance Bonus**: Up to 3x for quality
-    - **Long-term Upside**: Success participation
+    - **Real Rewards**: USDC and non-cash items, held by the Arena and released on verified success
+    - **Rates Not Set**: What an Anchor is paid, and the proportions of a split, are still undecided
     - **Reputation Rewards**: Increased influence
-    - **Governance Rights**: Shape platform future## 🌟 Notable Anchors
+    - **Governance Rights**: Shape platform future
+
+    See [Compensation](compensation.md) for what is settled and what is not.
+
+## 🌟 Notable Anchors
 
 <div class="grid">
 <div class="arena-card">

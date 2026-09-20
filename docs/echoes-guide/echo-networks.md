@@ -21,10 +21,10 @@
 <p><strong>Definition: Echo Networks are organized groups of Echoes who collaborate to:</strong></p>
 <ul>
 <li>Share research and insights</li>
-<li>Pool resources and capital</li>
+<li>Pool research effort</li>
 <li>Coordinate signal strategies</li>
 <li>Amplify collective impact</li>
-<li>Achieve superior returns</li>
+<li>Achieve superior accuracy together</li>
 </ul>
 
 <p><strong>Network Types:</strong></p>
@@ -34,9 +34,9 @@
 <li>Deep analysis focus</li>
 </ul>
 </li>
-<li><strong>Signal Syndicates</strong>
+<li><strong>Coverage Collectives</strong>
 <ul>
-<li>Coordinated investments</li>
+<li>Coordinated coverage</li>
 </ul>
 </li>
 <li><strong>Sector Specialists</strong>
@@ -190,7 +190,7 @@
 <li>**Network charter**</li>
 <li>Operating agreement</li>
 <li>Code of conduct</li>
-<li>Profit sharing model</li>
+<li>Bounty contribution split</li>
 
 </ul>
 </div>
@@ -252,47 +252,47 @@
 <h3>📡 Strategic Coordination</h3>
 <p>** Coordination Benefits:**</p>
 <ul>
-<li>**Larger collective positions**</li>
+<li>**Broader collective coverage**</li>
 <li>Better timing optimization</li>
 <li>Risk distribution</li>
-<li>Information arbitrage</li>
+<li>Faster shared research</li>
 
 </ul>
 <p>** Coordination Strategies:**</p>
-<p>1. **Sequential Entry**</p>
+<p>1. **Staggered Commitment**</p>
 
 <ul>
-<li>Staggered positions</li>
+<li>Staggered forecasts</li>
 
-<li>Market impact minimized</li>
+<li>Independent judgement preserved</li>
 
 <li>Learning incorporated</li>
 
 <li>Risk managed</li>
 
 </ul>
-<p>2. **Portfolio Approach**</p>
+<p>2. **Coverage Approach**</p>
 
 <ul>
 <li>Assigned sectors/phases</li>
-<li>Diversification built</li>
-<li>in</li>
+<li>Broad coverage between you</li>
+<li>Independent calls</li>
 
 <li>Expertise leveraged</li>
 
-<li>Returns optimized</li>
+<li>Accuracy improved</li>
 
 </ul>
-<p>3. **Hedged Strategies**</p>
+<p>3. **Balanced Coverage**</p>
 
 <ul>
-<li>Coordinated hedging</li>
+<li>Questions spread across ventures and phases</li>
 
-<li>Risk offset</li>
+<li>Independent forecasts, shared research</li>
 
-<li>Market neutral</li>
+<li>Each member states their own honest probability</li>
 
-<li>Steady returns</li>
+<li>Steady calibration</li>
 
 </ul>
 </div>
@@ -366,16 +366,16 @@
 <li>Expert consultations</li>
 
 </ul>
-<p>2. **Signal Pool**</p>
+<p>2. **Shared Research Pool**</p>
 
 <ul>
-<li>Collective bankroll</li>
+<li>Pooled analysis</li>
 
-<li>Proportional ownership</li>
+<li>Shared sources</li>
 
-<li>Professional management</li>
+<li>Coordinated coverage</li>
 
-<li>Risk distribution</li>
+<li>Independent forecasts</li>
 
 </ul>
 <p>3. **Hybrid Pool**</p>
@@ -383,68 +383,24 @@
 <ul>
 <li>Individual + collective</li>
 
-<li>Flexible allocation</li>
+<li>Flexible participation</li>
 
 <li>Personal freedom</li>
 
 <li>Group benefits</li>
 
 </ul>
-<p>** Legal Considerations:**</p>
+<p>** Ground Rules:**</p>
 <ul>
 <li>**Clear agreements essential**</li>
-<li>Tax implications</li>
-<li>Regulatory compliance</li>
-<li>Exit procedures</li>
+<li>Who covers what</li>
+<li>Forecasts stay independent</li>
+<li>How members join and leave</li>
 
 </ul>
 </div>
 
 ## Advanced Network Tactics
-
-### Network Arbitrage
-
-<div class="arena-card">
-
-<h3>💎 Network-Exclusive Strategies</h3>
-<p>** Arbitrage Types:**</p>
-<p>1. **Information Arbitrage**</p>
-
-<ul>
-<li>Network discovers first</li>
-
-<li>Rapid coordination</li>
-
-<li>Market inefficiency capture</li>
-
-<li>Superior returns</li>
-
-</ul>
-<p>2. **Scale Arbitrage**</p>
-
-<ul>
-<li>Opportunities requiring size</li>
-
-<li>Individual impossible</li>
-
-<li>Network achievable</li>
-
-<li>Outsized impact</li>
-
-</ul>
-<p>3. **Expertise Arbitrage**</p>
-
-<ul>
-<li>Complex analysis needed</li>
-
-<li>Specialists collaborate</li>
-
-<li>Unique insights</li>
-
-<li>Competitive edge</li>
-
-</ul>
-</div>
 
 ### Network Innovation
 
@@ -515,7 +471,7 @@
 <ul>
 <li>Proven model</li>
 
-<li>Consistent returns</li>
+<li>Consistent accuracy</li>
 
 <li>Member satisfaction</li>
 
@@ -581,7 +537,7 @@
 
 <li>Formal processes</li>
 
-<li>External capital</li>
+<li>External partnerships</li>
 
 <li>Ecosystem pillar</li>
 
@@ -598,8 +554,8 @@
 <p>**The DeFi Specialists**</p>
 <ul>
 <li>**12 members, all DeFi experts**</li>
-<li>92% signal success rate</li>
-<li>3.2x average returns</li>
+<li>92% forecast accuracy</li>
+<li>Consistently well-calibrated forecasts</li>
 <li>Created sector-leading tools</li>
 
 </ul>
@@ -614,7 +570,7 @@
 <p>**The Global Collective**</p>
 <ul>
 <li>**25 members, 15 time zones**</li>
-<li>24/7 market coverage</li>
+<li>24/7 venture coverage</li>
 <li>Information advantage</li>
 <li>Rapid response capability</li>
 
@@ -650,7 +606,7 @@
 <li>**Regulatory scrutiny**</li>
 <li>Competitive targeting</li>
 <li>Information leaks</li>
-<li>Market impact</li>
+<li>Distorting the signal</li>
 <li>Reputation risks</li>
 
 </ul>
@@ -816,7 +772,7 @@
 <ul>
 <li>Institutional grade</li>
 
-<li>External capital</li>
+<li>External partnerships</li>
 
 <li>Market influence</li>
 
@@ -842,7 +798,7 @@ You've completed the Echoes Guide! Your journey continues with:
 ---
 
 !!! success "Network Mastery"
-    Echo Networks represent the pinnacle of collaborative intelligence in Studio3. Master this approach and you'll achieve returns and impact impossible alone. The future belongs to connected Echoes.
+    Echo Networks represent the pinnacle of collaborative intelligence in Studio3. Master this approach and you'll achieve accuracy and impact impossible alone. The future belongs to connected Echoes.
 
 !!! tip "Final Thought"
     You started as an individual Echo learning to signal. You're finishing as a potential network leader ready to shape the future. Your transformation is complete - now go transform the ecosystem.

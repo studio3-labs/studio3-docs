@@ -671,7 +671,7 @@
 </ul>
 <p>**Day 2-7: Echo Community**</p>
 <ul>
-<li>Signal holders first</li>
+<li>Your most engaged Echoes first</li>
 <li>Exclusive access</li>
 <li>Community feedback</li>
 <li>Iterate quickly</li>

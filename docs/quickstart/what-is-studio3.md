@@ -6,7 +6,7 @@
 
 <h3>🌟 The One-Liner</h3>
 
-<p>Studio3 is a gamified venture building platform where entrepreneurs compete for resources, supporters signal belief with tokens, and everything happens transparently in public "Arenas."</p>
+<p>Studio3 is a gamified venture building platform where entrepreneurs compete for resources, the community signals what ventures should do and forecasts what they will do, and everything happens transparently in public "Arenas."</p>
 
 </div>
 
@@ -17,10 +17,10 @@
 Imagine if building a startup was like playing a video game where:
 
 - You **level up** through 7 phases (from idea to independence)
-- You earn **experience points** (XP) for achievements
-- The **community votes** with tokens on your success
+- You earn **progression titles** from work that was actually verified
+- The **community weighs in** for free, and its forecasts are scored
 - Everything happens in **public view** for accountability
-- **Real money and stakes** make it serious, not just fun
+- **Real rewards and a permanent record** make it serious, not just fun
 
 ## 🏟️ The Arena Concept
 
@@ -50,9 +50,9 @@ Imagine if building a startup was like playing a video game where:
 
 ### 2. 📡 Echoes (The Supporters)
 
-- Community members with capital
-- Signal belief or doubt with tokens
-- Earn rewards for correct predictions
+- Anyone with judgement worth hearing
+- Signal support or doubt, and forecast outcomes - both free
+- Build a public accuracy record, and earn real rewards through Drops and Bounties
 - Guide ventures with collective wisdom
 
 ### 3. ⚓ Anchors (The Guides)
@@ -62,18 +62,20 @@ Imagine if building a startup was like playing a video game where:
 - Mentor founders
 - Maintain quality standards
 
-## 💡 The Magic Ingredient: $SIGNAL Tokens
+## 💡 The Magic Ingredient: A Public Record
 
 <div class="arena-card">
 
 <h3>How Belief Becomes Real Support</h3>
 
+<p>Studio3 has no token. Nothing is bought, staked or burned.</p>
+
 <ul>
-<li><strong>$SIGNAL</strong> tokens represent conviction</li>
-<li><strong>Stake tokens</strong> to show belief (or doubt)</li>
-<li><strong>Correct predictions</strong> multiply your tokens</li>
-<li><strong>Wrong predictions</strong> burn your tokens</li>
-<li>Creates <strong>skin in the game</strong> for everyone</li>
+<li><strong>Signals</strong> are free - they say what a venture should do</li>
+<li><strong>Forecasts</strong> are free and separate - they say what will actually happen</li>
+<li><strong>Forecasts are scored</strong> against the verified outcome, and the score is public</li>
+<li><strong>Failures stay on the record</strong> permanently, for ventures and forecasters alike</li>
+<li>Creates <strong>real accountability</strong> for everyone</li>
 </ul>
 </div>
 
@@ -137,7 +139,7 @@ We're building a world where:
 Studio3 might be perfect if you:
 
 - Have a venture idea but lack traditional funding access
-- Want to support innovative projects and earn returns
+- Want to support innovative projects and build a public record of your judgement
 - Have expertise to guide and validate ventures
 - Believe in transparency and community-driven development
 - Think the current system is broken
@@ -148,7 +150,7 @@ Studio3 might be perfect if you:
 
 <h3>Studio3 in One Paragraph</h3>
 
-<p>Studio3 gamifies venture building by creating public arenas where entrepreneurs compete for community support, backers signal belief with tokens that can multiply or burn based on outcomes, and experienced builders validate progress. Through seven phases from idea to independence, ventures grow transparently with aligned incentives ensuring everyone benefits from success.</p>
+<p>Studio3 gamifies venture building by creating public arenas where entrepreneurs compete for community support, the community signals freely and forecasts outcomes that are later scored against what actually happened, and experienced builders validate progress. Rewards are real - USDC and non-cash items held by the Arena and released on success. Through seven phases from idea to independence, ventures grow transparently with aligned incentives ensuring everyone benefits from success.</p>
 
 </div>
 

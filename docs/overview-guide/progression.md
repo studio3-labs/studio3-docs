@@ -65,7 +65,7 @@ All phase transitions require:
 <h4>✨ Spark → Forge</h4>
 
 <ul>
-<li>100+ $SIGNAL in belief</li>
+<li>A threshold of community support</li>
 
 <li>10+ unique supporters</li>
 
@@ -89,9 +89,6 @@ All phase transitions require:
 <li>Win founder duel</li>
 
 <li>Claim Signal NFT</li>
-
-
-<li>1,000+ $SIGNAL staked</li>
 
 
 <li>Present winning vision</li>
@@ -239,7 +236,7 @@ After Anchor approval:
 flowchart LR
     A[Anchor Approval] --> B[48hr Review Period]
     B --> C[Community Discussion]
-    C --> D{Token Vote}
+    C --> D{Community Signal}
     D -->|>66% Yes| E[Progression Approved]
     D -->|<66% Yes| F[Progression Delayed]
     F --> G[Address Concerns]
@@ -284,7 +281,7 @@ flowchart LR
         <ul>
             <li>Milestone completion rate</li>
             <li>Revenue/user growth</li>
-            <li>Token signal volume</li>
+            <li>Signal and forecast volume</li>
             <li>Team expansion rate</li>
             <li>Funding secured</li>
         </ul>

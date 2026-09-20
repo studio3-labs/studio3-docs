@@ -264,9 +264,9 @@ class UltraMarkdownLinter:
                         if next_line_idx != i + 2:  # Should be exactly one blank line
                             errors.append((i + 1, "Bold header with colon needs blank line before list", line))
             
-            # $STUDIO instead of $SIGNAL
-            if '$STUDIO' in line:
-                errors.append((i + 1, "Use $SIGNAL instead of $STUDIO", line))
+            # Studio3 has no native token - neither ticker should appear
+            if '$STUDIO' in line or '$SIGNAL' in line:
+                errors.append((i + 1, "Studio3 has no native token: remove $SIGNAL/$STUDIO", line))
             
             # Broken arena-card patterns
             if 'arena-card' in line and '<div' not in line and 'class=' not in line:

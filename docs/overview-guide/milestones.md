@@ -21,7 +21,7 @@ Milestones are the fundamental units of progress in Studio3. They represent spec
 <li><strong>Success Criteria</strong> : Measurable completion requirements</li>
 <li><strong>Timeline</strong> : Fixed deadline for achievement</li>
 <li><strong>Evidence Requirements</strong> : Proof needed for validation</li>
-<li><strong>Token Value</strong> : Amount at stake for signals</li>
+<li><strong>Reward</strong> : What the Arena holds and releases on success</li>
 
 </ul>
 </div>
@@ -84,10 +84,10 @@ stateDiagram-v2
     
     <div class="card">
         <h4>💰 Financial</h4>
-        <p>Funding, tokenomics, sustainability</p>
+        <p>Funding, revenue, sustainability</p>
         <ul>
             <li>Fundraising rounds</li>
-            <li>Token launches</li>
+            <li>Revenue milestones</li>
             <li>Profitability targets</li>
             <li>Treasury management</li>
         </ul>
@@ -149,7 +149,7 @@ stateDiagram-v2
 ```mermaid
 flowchart TD
     A[Draft Milestone] --> B{Internal Review}
-    B -->|Pass| C[Set Token Value]
+    B -->|Pass| C[Set the Reward]
     B -->|Fail| A
     C --> D[Choose Timeline]
     D --> E[Define Evidence]
@@ -171,7 +171,7 @@ flowchart TD
 <li>[ ] Success criteria (3-5 points)</li>
 <li>[ ] Evidence requirements</li>
 <li>[ ] Realistic timeline</li>
-<li>[ ] Token value (min 1,000 $SIGNAL)</li>
+<li>[ ] Reward committed to the Arena</li>
 <li>[ ] Risk assessment</li>
 <li>[ ] Dependencies identified</li>
 
@@ -188,10 +188,10 @@ flowchart TD
 
 ## Milestone Valuation
 
-### Setting Token Values
+### Setting the Reward
 
 !!! info "Valuation Factors"
-    Token values should reflect:
+    The reward a milestone carries should reflect:
 
 - **Difficulty**:
   Technical or operational complexity
@@ -346,12 +346,12 @@ sequenceDiagram
     
     5. **Impact**: Achieves intended outcome?
 
-| Outcome | Result | Token Impact |
+| Outcome | Result | Consequence |
 |---------|--------|-------------|
-| **Full Success** | 100% complete | Believers rewarded 1.5-3x |
-| **Partial Success** | 70-99% complete | Reduced multipliers |
-| **Extension Granted** | More time given | Signals locked |
-| **Failed** | <70% complete | All signals burned |
+| **Full Success** | 100% complete | Reward released; forecasts of success scored correct |
+| **Partial Success** | 70-99% complete | Judged case by case at verification |
+| **Extension Granted** | More time given | Question stays open until the new deadline |
+| **Failed** | <70% complete | Reward not released; failure recorded permanently |
 | **Disputed** | Contested result | Re-validation required |
 
 ## Milestone Strategies
@@ -363,7 +363,7 @@ sequenceDiagram
         <h4>🎯 Strategic Planning</h4>
         <ul>
             <li>Chain dependent milestones</li>
-            <li>Balance risk across portfolio</li>
+            <li>Balance risk across the roadmap</li>
             <li>Front-load critical paths</li>
             <li>Build credibility gradually</li>
         </ul>
@@ -396,8 +396,8 @@ sequenceDiagram
     <div class="card">
         <h4>📊 Risk Management</h4>
         <ul>
-            <li>Diversify across ventures</li>
-            <li>Size stakes appropriately</li>
+            <li>Follow several ventures</li>
+            <li>Forecast only what you understand</li>
             <li>Monitor progress actively</li>
             <li>Learn from patterns</li>
         </ul>
@@ -438,7 +438,7 @@ Milestone Success Metrics Overview:
 
 • Completion Rate: 75% of milestones are successfully completed
 • Average Duration: Milestones typically take 21 days to complete
-• Signal Accuracy: 68% of community predictions are correct
+• Forecast Accuracy: 68% of community forecasts prove correct
 • Extension Rate: 15% of milestones request timeline extensions
 • Dispute Rate: Only 5% of milestone results are contested
 ```

@@ -6,7 +6,7 @@
 
 <h3>🔍 Due Diligence Excellence</h3>
 
-<p>Success as an Echo depends on your ability to evaluate ventures accurately. This comprehensive guide provides frameworks, tools, and strategies to analyze opportunities like a professional investor while leveraging Studio3's unique transparency.</p>
+<p>Success as an Echo depends on your ability to evaluate ventures accurately. This comprehensive guide provides frameworks, tools, and strategies to analyze ventures with professional rigour while leveraging Studio3's unique transparency.</p>
 
 </div>
 
@@ -370,7 +370,7 @@
 <ul>
 <li><strong>Belief/Doubt ratio</strong></li>
 <li>Signal velocity</li>
-<li>Large stakes</li>
+<li>Community forecast level and direction</li>
 <li>Echo quality</li>
 <li>Trend direction</li>
 </ul>
@@ -378,7 +378,7 @@
 <p><strong>Signal Patterns:</strong></p>
 <ul>
 <li><strong>Early adopter profile</strong></li>
-<li>Smart money flow</li>
+<li>Proven forecaster activity</li>
 <li>Sentiment shifts</li>
 <li>Volatility levels</li>
 <li>Concentration risk</li>
@@ -412,7 +412,7 @@
 <p><strong>Ecosystem Fit:</strong></p>
 <ul>
 <li><strong>Value creation</strong></li>
-<li>Token utility</li>
+<li>Usefulness to the wider ecosystem</li>
 <li>Network effects</li>
 <li>Community benefits</li>
 <li>Platform alignment</li>
@@ -422,7 +422,7 @@
 <ul>
 <li><strong>Acquisition targets</strong></li>
 <li>IPO possibility</li>
-<li>Token appreciation</li>
+<li>Revenue growth</li>
 <li>Dividend potential</li>
 <li>Sovereignty path</li>
 </ul>
@@ -444,16 +444,16 @@
 <li><strong>TECHNICAL (1-10):</strong> Product quality and innovation</li>
 <li><strong>ROADMAP (1-10):</strong> Milestone clarity and achievability</li>
 <li><strong>EXECUTION (1-10):</strong> Track record and capability</li>
-<li><strong>SIGNALS (1-10):</strong> Community sentiment and smart money</li>
+<li><strong>SIGNALS (1-10):</strong> Community sentiment and proven-forecaster activity</li>
 <li><strong>SUSTAINABILITY (1-10):</strong> Long-term viability</li>
 </ul>
 
 <p><strong>Total Score out of 80</strong></p>
 <p>Based on your evaluation:</p>
 <ul>
-<li><strong>Decision:</strong> Belief, Doubt, or Pass</li>
-<li><strong>Confidence Level:</strong> Your certainty percentage</li>
-<li><strong>Stake Size:</strong> Amount of $SIGNAL to risk</li>
+<li><strong>Decision:</strong> Support, Doubt, or Pass</li>
+<li><strong>Forecast:</strong> Your probability that the milestone is met</li>
+<li><strong>Review Date:</strong> When you will revisit this view</li>
 </ul>
 
 </div>
@@ -563,8 +563,8 @@
 <ul>
 <li><strong>FORTRESS score 64+/80</strong></li>
 <li>High confidence (70%+)</li>
-<li>Risk/reward favorable</li>
-<li>Portfolio fit</li>
+<li>Evidence outweighs the concerns</li>
+<li>Inside your expertise</li>
 <li>Timing right</li>
 </ul>
 
@@ -572,7 +572,7 @@
 <ul>
 <li><strong>FORTRESS score <48/80</strong></li>
 <li>Major red flags</li>
-<li>Overvalued signals</li>
+<li>Support running ahead of evidence</li>
 <li>Better alternatives</li>
 <li>Timing concerns</li>
 </ul>
@@ -581,7 +581,7 @@
 <ul>
 <li><strong>Uncertain analysis</strong></li>
 <li>Outside expertise</li>
-<li>Portfolio limits</li>
+<li>Too little information to commit</li>
 <li>Better opportunities</li>
 <li>Waiting for data</li>
 </ul>
@@ -630,7 +630,7 @@
 
 Continue with:
 
-1. [Reading Signals](reading-signals.md) - Market intelligence
+1. [Reading Signals](reading-signals.md) - Community sentiment
 2. [Due Diligence](due-diligence.md) - Deep dive process
 3. [Phase Strategies](phase-strategies.md) - Phase-specific tactics
 

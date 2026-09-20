@@ -37,7 +37,7 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
 <h3>📡 Echoes (Supporters)</h3>
 <p><strong>The Believers</strong></p>
 
-<p>Community members who signal conviction through token stakes</p>
+<p>Community members who signal what a venture should do, and forecast what it will do - both free</p>
 
 
 <ul>
@@ -47,7 +47,7 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
 <li>Signal belief or doubt</li>
 
 
-<li>Earn from accuracy</li>
+<li>Build a public accuracy record</li>
 
 
 <li>Guide through wisdom</li>
@@ -86,10 +86,10 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
 ```mermaid
 graph TD
     S[Senders] -->|Declare Milestones| A[Arena]
-    E[Echoes] -->|Signal Belief/Doubt| A
+    E[Echoes] -->|Free Signals and Forecasts| A
     A -->|Request Validation| An[Anchors]
     An -->|Verify Progress| A
-    A -->|Distribute Rewards| E
+    A -->|Accuracy recorded| E
     A -->|Provide Resources| S
     S -->|Deliver Results| A
     
@@ -103,8 +103,8 @@ graph TD
 
 !!! info "Everyone Needs Everyone"
 
-    - **Senders need Echoes** for funding and validation Senders need Anchors
-    - for guidance and verification** Echoes need Senders** - for investment opportunities Echoes need Anchors
+    - **Senders need Echoes** for judgement and validation Senders need Anchors
+    - for guidance and verification** Echoes need Senders** - for ventures worth judging Echoes need Anchors
 - **- for quality assurance** Anchors need Senders
 - for ecosystem growth Anchors need Echoes
 - **- for decentralized wisdom**## Senders (Founders) Deep Dive
@@ -173,7 +173,7 @@ graph TD
             <li>Milestone funding</li>
             <li>Revenue ownership</li>
             <li>Exit opportunities</li>
-            <li>Token allocations</li>
+            <li>Rewards released by the Arena</li>
         </ul>
     </div>
     
@@ -220,12 +220,12 @@ graph TD
 <p>2. <strong>Signal Placement</strong></p>
 
 <ul>
-<li><strong>Stake $SIGNAL tokens</strong></li>
-<li>Express belief or doubt</li>
+<li><strong>Cast a Signal - free</strong></li>
+<li>Express support or doubt</li>
 
-<li>Size positions wisely</li>
+<li>Add a Forecast if the outcome is checkable</li>
 
-<li>Diversify portfolio</li>
+<li>Follow several ventures, not one</li>
 
 </ul>
 <p>3. <strong>Community Participation</strong></p>
@@ -259,8 +259,8 @@ graph TD
 - **Analytical Mind**
 - Evaluate objectively
 
-- **Risk Management**
-- Size stakes appropriately
+- **Calibration**
+- Know how confident you actually are
 
 - **Pattern Recognition**
 - Spot trends early
@@ -271,25 +271,21 @@ graph TD
 - **Continuous Learning**
 - Adapt strategies
 
-### Echo Earnings
+### What an Echo Gets Back
 
 ```text
-Echo Return Calculation:
+What an Echo Gets Back:
 
-How your signal returns are calculated:
-
-• Base Multiplier:
-  - Belief signals: 1.5x base return if correct
-  - Doubt signals: 1.2x base return if correct
-
-• Bonus Multipliers:
-  - Early Signal Bonus: +0.1x for each day you signal early
-  - Contrarian Bonus: +0.3x if you signal against the majority and are right
-  - Reputation Bonus: +0.01x for every 1,000 XP points you have
-
-• Maximum Return: Total multiplier is capped at 3.0x
-• Final Payout: Your stake amount × total multiplier (if correct)
-• Wrong Prediction: You lose your entire stake (0x return)
+• Signals cost nothing and are never scored - they tell the venture what you want
+• Forecasts cost nothing and ARE scored against the verified outcome
+• A correct, confident forecast improves your accuracy record
+• A wrong forecast is recorded against it, permanently and publicly
+• Accuracy, verified contributions and delivered bounties earn progression titles:
+  novice, adept, expert, master, legend
+• Rewards - USDC and non-cash items - come from Drops and Bounties, held by the
+  Arena and released on success
+• Where a Polymarket prediction market exists and you are eligible, a forecast can
+  carry money. This is optional, external and rare.
 ```
 
 ## Anchors (Validators) Deep Dive
@@ -361,21 +357,21 @@ How your signal returns are calculated:
 
 <div class="grid cards">
     <div class="card">
-        <h4>💵 Direct Fees</h4>
-        <p>2-5% of milestone value</p>
-        <p>Paid per validation</p>
+        <h4>💵 Real Rewards</h4>
+        <p>USDC and non-cash items</p>
+        <p>Released by the Arena</p>
     </div>
     
     <div class="card">
-        <h4>🌟 Performance Bonus</h4>
-        <p>Up to 3x multiplier</p>
-        <p>Based on quality scores</p>
+        <h4>🌟 Quality Matters</h4>
+        <p>Paid for verification and mentorship</p>
+        <p>that actually happened</p>
     </div>
     
     <div class="card">
-        <h4>📊 Long-term Upside</h4>
-        <p>Success participation</p>
-        <p>Venture token allocations</p>
+        <h4>📊 Not Yet Set</h4>
+        <p>Rates and proportions are undecided</p>
+        <p>and deliberately not stated here</p>
     </div>
 </div>
 
@@ -406,7 +402,7 @@ sequenceDiagram
     
     Common Conflicts:
     
-- **Sender overpromises, Echo loses tokens**
+- **Sender overpromises, Echoes who forecast success are proved wrong**
 - Echo signals doubt, Sender feels attacked
 
 - Anchor validates strictly, Sender disputes
@@ -438,8 +434,8 @@ sequenceDiagram
 <p><strong> Consider Echo If You:</strong></p>
 <ul>
 <li><strong>Enjoy analysis and research</strong></li>
-<li>Have risk capital available</li>
-<li>Want portfolio approach</li>
+<li>Are willing to be wrong in public</li>
+<li>Want to follow several ventures</li>
 <li>Prefer supporting to leading</li>
 <li>Learn from patterns</li>
 
@@ -479,7 +475,6 @@ Role Breakdown:
 
 Success Rates by Role:
 • Sender Graduation Rate: 34% of ventures reach Ascension phase
-• Echo Profit Rate: 67% of Echoes are profitable overall
 • Anchor Accuracy Rate: 89% validation accuracy score
 ```
 
@@ -488,11 +483,8 @@ Success Rates by Role:
 | Metric | Senders | Echoes | Anchors |
 |--------|---------|--------|----------|
 | **Avg Weekly Hours** | 50-60 | 5-10 | 10-15 |
-| **Success Rate** | 34% | 67% | 89% |
-| **Avg Earnings** | $500K | $45K | $120K |
+| **Success Rate** | 34% | — | 89% |
 | **Reputation Growth** | High | Medium | Very High |
-
-*If successful to Ascension
 
 ## Multi-Role Strategies
 
@@ -501,7 +493,7 @@ Success Rates by Role:
 <div class="grid cards">
     <div class="card">
         <h4>🎭 Echo + Future Sender</h4>
-        <p>Build reputation and capital as Echo before launching</p>
+        <p>Build reputation as Echo before launching</p>
     </div>
     
     <div class="card">
@@ -511,7 +503,7 @@ Success Rates by Role:
     
     <div class="card">
         <h4>🔄 Anchor + Active Echo</h4>
-        <p>Validate while investing in ventures you don't judge</p>
+        <p>Validate one set of ventures and forecast on another</p>
     </div>
 </div>
 
@@ -529,7 +521,7 @@ Success Rates by Role:
 
 | Myth | Reality |
 |------|--------|
-| "Only rich people can be Echoes" | Minimum stakes are accessible |
+| "Only rich people can be Echoes" | Signalling and forecasting are free |
 | "Senders need technical skills" | Many roles in founding teams |
 | "Anchors must be famous" | Expertise matters more than fame |
 | "Roles are permanent" | Can change roles anytime |

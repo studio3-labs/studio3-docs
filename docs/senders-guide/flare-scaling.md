@@ -83,14 +83,14 @@ Flare phase is about capturing market opportunity through aggressive but sustain
 - Traditional VC rounds
 - Revenue-based financing
 - Strategic partnerships
-- Token presales (if applicable)
+- Strategic investment (if applicable)
 
-### Signal Token Dynamics
+### Community Dynamics at Scale
 
-- Increased staking requirements
+- Larger rewards held by the Arena
 - Higher milestone values
-- Growth multipliers
-- Success bonuses
+- Wider scrutiny on every claim
+- More at stake reputationally
 
 ## Risk Mitigation
 

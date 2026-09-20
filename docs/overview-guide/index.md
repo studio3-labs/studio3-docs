@@ -28,7 +28,7 @@ This guide provides a comprehensive overview of Studio3, explaining how the plat
 <h3>2. Core Concepts</h3>
 <ul>
 <li><a href="arena-system.md">The Arena System</a></li>
-<li><a href="belief-signals.md">Belief & Doubt Signals</a></li>
+<li><a href="belief-signals.md">Signals &amp; Forecasts</a></li>
 <li><a href="nft-system.md">Three-NFT System</a></li>
 
 </ul>
@@ -58,11 +58,9 @@ This guide provides a comprehensive overview of Studio3, explaining how the plat
 
 <div class="arena-card">
 
-<h3>5. Economics</h3>
+<h3>5. Rewards</h3>
 <ul>
-<li><a href="signal-token.md">$SIGNAL Token</a></li>
-<li><a href="rewards-system.md">Rewards & Penalties</a></li>
-<li><a href="value-flow.md">Value Flow</a></li>
+<li><a href="rewards-system.md">Rewards &amp; Consequences</a></li>
 
 </ul>
 </div>
@@ -108,7 +106,7 @@ Based on your interests:
     After reading this overview, check out the [Senders Guide](../senders-guide/index.md) for detailed founder instructions.
 
 !!! tip "For Supporters"
-    Ready to signal? The [Echoes Guide](../echoes-guide/index.md) covers everything about belief mechanics.
+    Ready to signal? The [Echoes Guide](../echoes-guide/index.md) covers signalling, forecasting, and building an accuracy record.
 
 !!! tip "For Validators"
     Experienced builders should explore the [Anchors Guide](../anchors-guide/index.md) to become ecosystem guardians.

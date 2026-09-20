@@ -641,25 +641,22 @@
 
 ## Compensation Evolution
 
-### Earnings Growth
+### How Compensation Changes with Seniority
 
 <div class="arena-card">
 
 <h3>💰 Financial Progression</h3>
-<p>**Compensation Scaling:**</p>
 
-<p>| Level | Base Multiplier | Performance Bonus | Additional Opportunities |</p>
-<p>|-------|----------------|-------------------|-------------------------|</p>
-<p>| Junior | 1.0x | Up to 20% | Training incentives |</p>
-<p>| Anchor | 1.5x | Up to 30% | Mentorship bonus |</p>
-<p>| Senior | 2.2x | Up to 40% | Leadership roles |</p>
-<p>| Master | 3.0x | Up to 50% | Strategic advisory |</p>
+<p>**What seniority changes:** more complex work, higher-consequence decisions, arbitration, and
+leadership of standards. Anchors are compensated in real rewards released by the Arena.</p>
+
+<p>**What the rates actually are has not been decided**, so no scale is published here. See
+<a href="../compensation/">Compensation</a> for what is settled and what is not.</p>
 
 <p>**Additional Income:**</p>
 
 <ul>
-<li>Complex validation premiums</li>
-<li>Mentorship compensation</li>
+<li>Mentorship compensation, arranged directly</li>
 <li>Speaking engagements</li>
 <li>Content creation</li>
 <li>Advisory roles</li>
@@ -777,7 +774,7 @@
 
 Continue growing with:
 
-1. [Compensation](compensation.md) - Maximize earnings
+1. [Compensation](compensation.md) - What is settled, and what is not
 2. [Reputation Management](reputation-management.md) - Build your brand
 3. [Anchor Council](anchor-council.md) - Ultimate achievement
 

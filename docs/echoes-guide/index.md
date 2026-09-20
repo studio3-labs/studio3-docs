@@ -2,12 +2,12 @@
 
 <div class="hero-section">
 <h1>Signal Your Conviction</h1>
-<p class="hero-subtitle">Master the art of belief signaling and earn rewards by supporting the right ventures</p>
+<p class="hero-subtitle">Signal what ventures should do, forecast what they will do, and build a record worth reading</p>
 </div>
 
 ## 📡 About This Guide
 
-This guide is designed for Echoes (Supporters) who want to participate in Studio3 by signaling belief or doubt in ventures. Learn how to evaluate opportunities, maximize rewards, and contribute to the ecosystem's success.
+This guide is designed for Echoes (Supporters) who want to participate in Studio3 by signalling support or doubt and forecasting outcomes. Both are free. Learn how to evaluate ventures, build an accuracy record, and contribute to the ecosystem's success.
 
 ## 📚 Guide Contents
 
@@ -18,7 +18,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 <ul>
 <li><a href="echo-basics.md">Understanding Your Role</a></li>
 <li><a href="signal-mechanics.md">Signal Mechanics</a></li>
-<li><a href="rewards-system.md">Rewards & Risks</a></li>
+<li><a href="rewards-system.md">Rewards &amp; Recognition</a></li>
 
 </ul>
 </div>
@@ -28,7 +28,6 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 <h3>2. Getting Started</h3>
 <ul>
 <li><a href="first-signals.md">Your First Signals</a></li>
-<li><a href="token-management.md">Managing $SIGNAL Tokens</a></li>
 <li><a href="reputation-building.md">Building Reputation</a></li>
 
 </ul>
@@ -39,7 +38,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 <h3>3. Venture Analysis</h3>
 <ul>
 <li><a href="evaluating-ventures.md">Evaluating Ventures</a></li>
-<li><a href="reading-signals.md">Reading Market Signals</a></li>
+<li><a href="reading-signals.md">Reading Signals</a></li>
 <li><a href="due-diligence.md">Due Diligence Framework</a></li>
 
 </ul>
@@ -49,9 +48,8 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 
 <h3>4. Signal Strategies</h3>
 <ul>
-<li><a href="belief-strategies.md">When to Believe</a></li>
-<li><a href="doubt-strategies.md">Strategic Doubt</a></li>
-<li><a href="portfolio-management.md">Portfolio Management</a></li>
+<li><a href="belief-strategies.md">Signalling Support</a></li>
+<li><a href="doubt-strategies.md">Signalling Doubt</a></li>
 
 </ul>
 </div>
@@ -61,8 +59,6 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 <h3>5. Advanced Tactics</h3>
 <ul>
 <li><a href="phase-strategies.md">Phase-Based Strategies</a></li>
-<li><a href="contrarian-plays.md">Contrarian Opportunities</a></li>
-<li><a href="risk-management.md">Risk Management</a></li>
 
 </ul>
 </div>
@@ -81,8 +77,8 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 
 ## 🎯 Who Should Read This Guide?
 
-- **📊 Active Supporters** signaling daily
-- **💰 Token Holders** maximizing returns
+- **📊 Active Supporters** signalling daily
+- **🎯 Forecasters** building an accuracy record
 - **🔍 Analysts** evaluating ventures
 
 - **🌐 Community Members** growing influence
@@ -107,12 +103,12 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 
 <ul>
 <li>**Accuracy Rate**</li>
-<li>Signal success percentage</li>
-<li>**Token Returns**</li>
-<li>Multiplication achieved</li>
-<li>**XP Level**</li>
-<li>Experience progression</li>
-<li>**Reputation Score**</li>
+<li>Forecasts scored correct</li>
+<li>**Calibration**</li>
+<li>Whether your 70% calls happen 70% of the time</li>
+<li>**Progression Title**</li>
+<li>Novice through legend, earned from verified outcomes</li>
+<li>**Reputation**</li>
 <li>Community standing</li>
 
 </ul>
@@ -128,9 +124,9 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 <li>**Phase Specialists**</li>
 <li>Phase-specific experts</li>
 <li>**Contrarians**</li>
-<li>Against-the-grain winners</li>
+<li>Right when the crowd was wrong</li>
 <li>**Consistent Performers**</li>
-<li>Steady returners</li>
+<li>Well calibrated over time</li>
 
 </ul>
 </div>
@@ -146,7 +142,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 <li>Signal Psychology 101</li>
 <li>Venture Evaluation Basics</li>
 
-<li>Risk vs Reward Analysis</li>
+<li>Forecast Calibration</li>
 
 <li>Community Dynamics</li>
 
@@ -157,12 +153,12 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 
 <p>#### 🛠️ Tools & Calculators</p>
 <ul>
-<li>Signal ROI Calculator</li>
-<li>Portfolio Analyzer</li>
+<li>Forecast Tracker</li>
+<li>Venture Watchlist</li>
 
-<li>Risk Assessment Tool</li>
+<li>Milestone Calendar</li>
 
-<li>Performance Tracker</li>
+<li>Accuracy Dashboard</li>
 
 </ul>
 </div>
@@ -170,14 +166,14 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 
 ## 💡 Strategy Highlights
 
-!!! tip "Early Bird Advantage"
- Signals placed early in a venture's journey earn higher multipliers. Being first requires courage but offers the greatest rewards.
+!!! tip "Early Conviction Counts"
+    A forecast made before the outcome was obvious is worth far more on your record than one made once everybody could see it. Being early takes courage.
 
 !!! warning "Avoid Herd Mentality"
-    Following the crowd reduces returns. Develop independent analysis skills and trust your conviction.
+    Copying the visible consensus teaches you nothing and calibrates you badly. Form your view first, then look at what others think.
 
-!!! success "Diversification Matters"
-    Spread signals across phases, ventures, and belief/doubt to manage risk and maximize opportunities.
+!!! success "Forecast What You Understand"
+    Skipping a question costs you nothing. Volume is not a virtue; calibration is.
 
 ## 🌟 Echo Success Stories
 
@@ -185,7 +181,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 <div class="arena-card">
 
 <p>#### The Contrarian</p>
-<p>Turned 1,000 $SIGNAL into 127,000 by correctly doubting overhyped ventures and believing in overlooked gems.</p>
+<p>Built a top-decile accuracy record by doubting overhyped ventures and backing overlooked ones, early and in public.</p>
 
 </div>
 
@@ -200,4 +196,4 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 ## 🚀 Start Signaling
 
 !!! success "Ready to Echo?"
-    Begin with [Echo Basics](echo-basics.md) to understand your role and the power of belief signals in Studio3.
+    Begin with [Echo Basics](echo-basics.md) to understand your role, and how Signals and Forecasts differ.

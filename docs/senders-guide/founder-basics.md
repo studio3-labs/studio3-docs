@@ -29,7 +29,7 @@ Senders are the entrepreneurs who:
 |-------------------|----------------|
 | Closed-door development | Public transparency |
 | VC gatekeepers | Community validation |
-| Equity dilution | Token-based funding |
+| Equity dilution | Milestone-based funding |
 | Binary outcomes | Progressive milestones |
 | Network advantages | Merit-based success |
 
@@ -171,30 +171,34 @@ Senders are the entrepreneurs who:
 ### How Funding Works
 
 **Progressive Capital Access:**
-- **Spark Phase**: Initial signals (100-1,000 $SIGNAL)
-- **Forge Phase**: Competition stakes (1,000-10,000 $SIGNAL)
-- **Ignition Phase**: MVP funding (10,000-50,000 $SIGNAL)
-- **Drift Phase**: Growth capital (50,000-200,000 $SIGNAL)
-- **Orbit Phase**: Stability funding (200,000-1M $SIGNAL)
-- **Flare Phase**: Scale capital (1M-10M $SIGNAL)
+- **Spark Phase**: Initial community support, no capital yet
+- **Forge Phase**: Win the right to build
+- **Ignition Phase**: First funded milestones, MVP work
+- **Drift Phase**: Growth capital as product-market fit emerges
+- **Orbit Phase**: Stability funding
+- **Flare Phase**: Scale capital, including traditional investors
 - **Ascension**: Buyback funds (Variable)
 
-### Token Economics
+### How Arena Rewards Are Held and Released
 
 <div class="arena-card">
 
-<h3>💰 Understanding Stakes</h3>
+<h3>💰 Committed Up Front, Released on Success</h3>
 
-<p>**Belief Signals = Your Funding:**</p>
+<p>**There is no Studio3 token. Money in the Arena is real.**</p>
 
 <ul>
-<li>Supporters stake tokens on your success</li>
-<li>You receive funds progressively</li>
-<li>Failed milestones burn believer stakes</li>
-<li>Success multiplies supporter returns</li>
-<li>Your reputation affects future funding</li>
+<li>A reward - USDC, non-cash items, or both - is committed to the Arena before you start</li>
+<li>The Arena holds it while you work</li>
+<li>You submit evidence; Studio3 staff verify it, and Anchors take this over later</li>
+<li>On success the Arena releases it; on failure it does not</li>
+<li>Supporters put nothing at risk, so what you are competing for is their attention and their
+    honest forecast, not their money</li>
 
 </ul>
+
+<p>Your record of delivery is what makes the next reward easier to attract. A failed milestone stays
+public, permanently.</p>
 </div>
 
 ## Success Factors
@@ -313,7 +317,6 @@ Senders are the entrepreneurs who:
 <p>**Equity Alternative:**</p>
 
 <ul>
-<li>Token allocations</li>
 <li>Revenue sharing</li>
 <li>Milestone bonuses</li>
 <li>Reputation rewards</li>
@@ -325,13 +328,18 @@ Senders are the entrepreneurs who:
 
 ### Your Most Valuable Asset
 
-**XP Accumulation:**
+**What Builds It:**
 
-- +100 XP per successful milestone
-- +500 XP per phase advancement
-- +50 XP per positive validation
-- -200 XP per failed milestone
-- +1000 XP for Ascension
+- Every milestone verified as delivered
+- Every phase advanced
+- Every claim that survived checking
+
+**What Damages It:**
+
+- Every milestone declared and missed - recorded permanently, and public forever
+
+Progression titles - novice, adept, expert, master, legend - come from verified outcomes and
+delivered work. There are no points to collect.
 
 **Reputation Benefits:**
 

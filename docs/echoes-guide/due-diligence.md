@@ -41,8 +41,8 @@
 <li><strong>Reference checks</strong></li>
 <li>Community sentiment</li>
 <li>Stress testing</li>
-<li>Position sizing</li>
-<li>Entry timing</li>
+<li>Confidence level</li>
+<li>When to commit</li>
 
 </ul>
 </div>
@@ -315,21 +315,18 @@
 <ul>
 <li>**Everything goes right**</li>
 <li>2x planned growth</li>
-<li>Returns: ___x</li>
 
 </ul>
 <p>** Base Case Scenario:**</p>
 <ul>
 <li>**Normal execution**</li>
 <li>Meet milestones</li>
-<li>Returns: ___x</li>
 
 </ul>
 <p>** Worst Case Scenario:**</p>
 <ul>
 <li>**Major challenges**</li>
 <li>50% achievement</li>
-<li>Returns: ___x</li>
 
 </ul>
 <p>** Black Swan Events:**</p>
@@ -356,9 +353,9 @@
 
 <p><strong>1. Executive Summary</strong></p>
 <ul>
-<li>Clear recommendation: Belief, Doubt, or Pass</li>
-<li>Confidence level percentage</li>
-<li>Suggested stake size in $SIGNAL tokens</li>
+<li>Clear recommendation: Support, Doubt, or Pass</li>
+<li>Your forecast probability, and how confident you are in it</li>
+<li>What would change your mind</li>
 <li>Top 3-5 key risks identified</li>
 </ul>
 
@@ -376,7 +373,7 @@
 <ul>
 <li>Summary of findings</li>
 <li>Final recommendation with rationale</li>
-<li>Suggested position sizing and timing</li>
+<li>Suggested confidence level and timing</li>
 </ul>
 
 <p><strong>4. Supporting Documentation</strong></p>
@@ -563,8 +560,8 @@
 <li>[ ] Risks identified</li>
 <li>[ ] Peer reviewed</li>
 <li>[ ] Gut check passed</li>
-<li>[ ] Position sized</li>
-<li>[ ] Entry timed</li>
+<li>[ ] Confidence level decided</li>
+<li>[ ] Timing considered</li>
 
 </ul>
 </div>
@@ -648,14 +645,14 @@
 
 Continue with:
 
-1. [Belief Strategies](belief-strategies.md) - When to go long
-2. [Doubt Strategies](doubt-strategies.md) - When to go short
-3. [Portfolio Management](portfolio-management.md) - Risk management
+1. [Signalling Support](belief-strategies.md) - When to back a venture
+2. [Signalling Doubt](doubt-strategies.md) - When to raise doubt
+3. [Reading Signals](reading-signals.md) - Interpreting the community
 
 ---
 
 !!! success "DD Excellence"
-    Great due diligence is like great detective work - methodical, thorough, and objective. The time invested in proper DD pays dividends in better decisions and fewer losses.
+    Great due diligence is like great detective work - methodical, thorough, and objective. The time invested in proper DD shows up as better decisions and a better-calibrated record.
 
 !!! tip "Pro Secret"
-    The best DD often finds reasons NOT to signal. It's better to miss opportunities than to lose capital on preventable mistakes. Quality over quantity always wins.
+    The best DD often finds reasons NOT to forecast at all. It costs nothing to skip a question, and a record built on questions you actually understood is worth far more. Quality over quantity always wins.

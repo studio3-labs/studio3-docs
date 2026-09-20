@@ -87,9 +87,9 @@ This comprehensive resource guide provides links, tools, templates, and support 
 </ul>
 <p><strong>Signal Strategy</strong></p>
 <ul>
-<li><strong>Multiplier calculations</strong></li>
-<li>Risk management</li>
-<li>Portfolio balance</li>
+<li><strong>Signals versus forecasts</strong></li>
+<li>Calibration basics</li>
+<li>Choosing what to follow</li>
 <li>[Download PDF](../assets/signal-strategy-cheatsheet.pdf)</li>
 
 </ul>
@@ -116,8 +116,8 @@ This comprehensive resource guide provides links, tools, templates, and support 
 <ul>
 <li>Venture performance</li>
 
-<li>Signal accuracy</li>
-<li>Token flows</li>
+<li>Forecast accuracy</li>
+<li>Reward releases</li>
 <li>Network growth</li>
 
 </ul>
@@ -169,12 +169,11 @@ This comprehensive resource guide provides links, tools, templates, and support 
 - [Access Tool](https://app.studio3.xyz/progress)
 
 #### 📡 Echo Tools
-**Signal Calculator**
+**Forecast Tracker**
 
-- **ROI projections**
-- Risk assessment
-- Portfolio optimizer
-- [Launch Calculator](https://app.studio3.xyz/calculator)
+- **Accuracy record**
+- Calibration chart
+- Outcome history
 
 **Due Diligence Template**
 
@@ -183,12 +182,11 @@ This comprehensive resource guide provides links, tools, templates, and support 
 - Score matrix
 - [Download Template](../assets/dd-template.xlsx)
 
-**Portfolio Tracker**
+**Venture Watchlist**
 
-- **Position manager**
-- Performance analytics
-- Tax reporter
-- [Access Tracker](https://app.studio3.xyz/portfolio)
+- **Follow the ventures you know**
+- Milestone calendar
+- Update notifications
 
 #### ⚓ Anchor Tools
 **Validation Toolkit**
@@ -460,10 +458,10 @@ This comprehensive resource guide provides links, tools, templates, and support 
 
 **Signal Tracker** (iOS/Android)
 
-- **Portfolio monitoring**
+- **Venture watchlist**
 - Quick signals
-- Price alerts
-- Performance stats
+- Milestone alerts
+- Accuracy stats
 
 [Download on App Store](https://apps.apple.com/studio3) 
 [Get it on Google Play](https://play.google.com/studio3)
@@ -544,7 +542,6 @@ Currently available in:
 
 - **Flambette Marketplace** - IP-NFT source
 - **MindfulTech Institute** - Founder network
-- **Major DEXs** - Token liquidity
 - **Media Partners** - Coverage and PR
 
 ### Integration Tools

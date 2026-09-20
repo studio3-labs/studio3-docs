@@ -1,6 +1,6 @@
 # Reading Signals
 
-## Decoding Market Intelligence
+## Reading Community Sentiment
 
 <div class="arena-card">
 
@@ -23,7 +23,7 @@
 <li><strong>Total Pool Size:</strong> Overall interest level</li>
 <li><strong>Belief/Doubt Ratio:</strong> Sentiment direction</li>
 <li><strong>Signal Velocity:</strong> Speed of accumulation</li>
-<li><strong>Average Stake Size:</strong> Conviction level</li>
+<li><strong>Average Forecast:</strong> Community confidence level</li>
 <li><strong>Echo Distribution:</strong> Participant spread</li>
 </ul>
 
@@ -44,12 +44,12 @@
 <p>Imagine a visual representation showing:</p>
 
 <ul>
-<li><strong>Belief Bar:</strong> 75% filled (7,500 $SIGNAL staked on belief)</li>
-<li><strong>Doubt Bar:</strong> 25% filled (2,500 $SIGNAL staked on doubt)</li>
-<li><strong>Total Pool:</strong> 10,000 $SIGNAL across all signals</li>
-<li><strong>Echo Count:</strong> 89 total (71 belief, 18 doubt)</li>
-<li><strong>Average Stake:</strong> 112 $SIGNAL per signal</li>
-<li><strong>24h Change:</strong> +35% growth in signal activity</li>
+<li><strong>Support Bar:</strong> 80% of signals say go ahead</li>
+<li><strong>Doubt Bar:</strong> 20% say don't</li>
+<li><strong>Echo Count:</strong> 89 total (71 support, 18 doubt)</li>
+<li><strong>Community Forecast:</strong> 62% chance the milestone is met</li>
+<li><strong>Forecasters:</strong> 54, of whom 11 have an expert title or above</li>
+<li><strong>24h Change:</strong> +35% growth in signal activity, forecast down 8 points</li>
 </ul>
 
 ## Reading Patterns
@@ -83,7 +83,7 @@
 <li><strong>Doubt Heavy Start</strong>
 <ul>
 <li>Red flags present</li>
-<li>Overvalued entry</li>
+<li>Support running ahead of the evidence</li>
 <li>Weak fundamentals</li>
 <li>Contrarian opportunity?</li>
 </ul>
@@ -124,11 +124,11 @@
 <p><strong>Echo Categories:</strong></p>
 
 <ol>
-<li><strong>Smart Money</strong>
+<li><strong>Proven Forecasters</strong>
 <ul>
-<li>High XP Echoes (5000+)</li>
+<li>Master and legend titles</li>
 <li>Track record 70%+</li>
-<li>Large stakes</li>
+<li>Well calibrated</li>
 <li>Early movers</li>
 </ul>
 </li>
@@ -143,7 +143,7 @@
 <li><strong>Retail Flow</strong>
 <ul>
 <li>New Echoes</li>
-<li>Small stakes</li>
+<li>No record yet</li>
 <li>Trend followers</li>
 <li>Sentiment drivers</li>
 </ul>
@@ -159,7 +159,7 @@
 </ol>
 </div>
 
-### Following Smart Money
+### Following Proven Forecasters
 
 <div class="arena-card">
 
@@ -167,16 +167,16 @@
 <p><strong>Identification Methods:</strong></p>
 <ul>
 <li><strong>Check Echo profiles</strong></li>
-<li>Note stake sizes</li>
+<li>Note calibration, not just accuracy</li>
 <li>Track timing</li>
 <li>Monitor patterns</li>
 </ul>
 
-<p><strong>Smart Money Indicators:</strong></p>
+<p><strong>How to spot them:</strong></p>
 <ul>
-<li><strong>Early large stakes</strong></li>
-<li>Conviction positions</li>
-<li>No hedging</li>
+<li><strong>Early, confident forecasts</strong></li>
+<li>Views committed before consensus formed</li>
+<li>Willing to state a confident probability</li>
 <li>Public analysis</li>
 </ul>
 
@@ -195,15 +195,15 @@
 
 <div class="arena-card">
 
-<h3>🎭 Market Psychology</h3>
+<h3>🎭 Community Sentiment</h3>
 <p><strong>Sentiment Indicators:</strong></p>
 
 | Ratio | Sentiment | Implications |
 |-------|-----------|--------------|
-| 90%+ Belief | Euphoric | Overvalued risk |
-| 70-90% Belief | Bullish | Strong confidence |
+| 90%+ Belief | Euphoric | Consensus running ahead of evidence |
+| 70-90% Belief | Confident | Strong confidence |
 | 50-70% Belief | Balanced | Healthy debate |
-| 30-50% Belief | Bearish | Doubt prevails |
+| 30-50% Belief | Sceptical | Doubt prevails |
 | <30% Belief | Pessimistic | Major concerns |
 
 <p><strong>Contrarian Zones:</strong></p>
@@ -211,7 +211,7 @@
 <li><strong>>85% one direction</strong></li>
 <li>Extreme sentiment</li>
 <li>Herd behavior</li>
-<li>Mean reversion likely</li>
+<li>Sentiment likely to correct</li>
 </ul>
 </div>
 
@@ -292,32 +292,32 @@
 <h3>⏰ Temporal Analysis</h3>
 <p><strong>Daily Patterns:</strong></p>
 <ul>
-<li><strong>Morning (9-12 EST):</strong> Institutional activity</li>
-<li><strong>Afternoon (12-5 EST):</strong> Retail participation</li>
+<li><strong>Morning (9-12 EST):</strong> Professionals and analysts weigh in</li>
+<li><strong>Afternoon (12-5 EST):</strong> Broad community participation</li>
 <li><strong>Evening (5-9 EST):</strong> Research time</li>
-<li><strong>Night (9-12 EST):</strong> Global players</li>
+<li><strong>Night (9-12 EST):</strong> Global participants</li>
 </ul>
 
 <p><strong>Weekly Patterns:</strong></p>
 <ul>
 <li><strong>Monday:</strong> Cautious start</li>
 <li><strong>Tuesday-Thursday:</strong> Peak activity</li>
-<li><strong>Friday:</strong> Position closing</li>
+<li><strong>Friday:</strong> Last calls before the weekend</li>
 <li><strong>Weekend:</strong> Research/planning</li>
 </ul>
 </div>
 
-## Signal Arbitrage
+## Where the Crowd Is Wrong
 
-### Finding Inefficiencies
+### Finding Blind Spots
 
 <div class="arena-card">
 
 <h3>💎 Hidden Opportunities</h3>
-<p><strong>Arbitrage Types:</strong></p>
+<p><strong>Where to Look:</strong></p>
 
 <ol>
-<li><strong>Information Arbitrage</strong>
+<li><strong>Information Edge</strong>
 <ul>
 <li>You know something others don't</li>
 <li>Deep research advantage</li>
@@ -325,20 +325,20 @@
 <li>Technical understanding</li>
 </ul>
 </li>
-<li><strong>Timing Arbitrage</strong>
+<li><strong>Timing Edge</strong>
 <ul>
-<li>Market overreaction</li>
+<li>Crowd overreaction</li>
 <li>Sentiment extremes</li>
 <li>Panic/euphoria</li>
-<li>Mean reversion</li>
+<li>Sentiment settles back</li>
 </ul>
 </li>
-<li><strong>Cross-Venture Arbitrage</strong>
+<li><strong>Cross-Venture Comparison</strong>
 <ul>
 <li>Similar ventures</li>
-<li>Different valuations</li>
-<li>Market inefficiency</li>
-<li>Relative value</li>
+<li>Different levels of support</li>
+<li>Consensus blind spot</li>
+<li>Relative merit</li>
 </ul>
 </li>
 </ol>
@@ -354,16 +354,16 @@
 <p><strong>High Risk Patterns:</strong></p>
 <ul>
 <li><strong>Sudden doubt surge</strong></li>
-<li>Smart money exit</li>
+<li>Proven forecasters revising downward</li>
 <li>Velocity decline</li>
 <li>Comment negativity</li>
-<li>Whale dumping</li>
+<li>Long-standing supporters withdrawing</li>
 </ul>
 
 <p><strong>Manipulation Signs:</strong></p>
 <ul>
-<li><strong>Artificial pumping</strong></li>
-<li>Coordinated stakes</li>
+<li><strong>Manufactured enthusiasm</strong></li>
+<li>Coordinated signalling</li>
 <li>Fake accounts</li>
 <li>Misleading info</li>
 <li>Timing attacks</li>
@@ -379,7 +379,7 @@
 <h3>🎯 Signal-Based Decisions</h3>
 <p><strong>When to Follow Signals:</strong></p>
 <ul>
-<li><strong>Smart money convergence</strong></li>
+<li><strong>Proven forecasters converging</strong></li>
 <li>Specialist agreement</li>
 <li>Organic growth</li>
 <li>Positive momentum</li>
@@ -420,7 +420,7 @@
 <li>Real-time monitoring</li>
 <li>Historical charts</li>
 <li>Echo profiles</li>
-<li>Stake analysis</li>
+<li>Forecast history</li>
 </ul>
 </li>
 <li><strong>Sentiment Dashboard</strong>
@@ -431,10 +431,10 @@
 <li>Trend analysis</li>
 </ul>
 </li>
-<li><strong>Smart Money Tracker</strong>
+<li><strong>Proven Forecaster Tracker</strong>
 <ul>
 <li>Top Echo moves</li>
-<li>Large stakes</li>
+<li>Confident early calls</li>
 <li>Timing patterns</li>
 <li>Success rates</li>
 </ul>
@@ -447,7 +447,7 @@
 <p>Create custom metrics to track signal patterns:</p>
 <ul>
 <li><strong>Signal Momentum Indicator (SMI):</strong> Calculate the percentage change in signals over the past hour to gauge acceleration or deceleration</li>
-<li><strong>Smart Money Ratio (SMR):</strong> Divide smart money stakes by total stakes to see what percentage comes from experienced Echoes</li>
+<li><strong>Experienced Share (ES):</strong> What proportion of forecasts on a question come from Echoes with a proven record</li>
 <li><strong>Sentiment Velocity (SV):</strong> Track how quickly the belief percentage is changing per hour to identify sentiment shifts</li>
 </ul>
 <p>These indicators help you spot trends before they become obvious to everyone.</p>
@@ -466,7 +466,7 @@
 <li><strong>90% doubt signals</strong></li>
 <li>Negative comments</li>
 <li>Technical concerns</li>
-<li>Smart money absent</li>
+<li>No proven forecasters engaged</li>
 </ul>
 
 <p><strong>What Happened:</strong></p>
@@ -474,7 +474,7 @@
 <li><strong>Founder addressed issues</strong></li>
 <li>Live demo released</li>
 <li>Sentiment shifted</li>
-<li>Smart money entered</li>
+<li>Proven forecasters committed</li>
 </ul>
 
 <p><strong>Lesson:</strong> Extreme doubt can reverse quickly with new information.</p>
@@ -485,25 +485,25 @@
 
 <div class="arena-card">
 
-<h3>📖 Gaming Venture Pump</h3>
+<h3>📖 Gaming Venture Hype Campaign</h3>
 <p><strong>Initial State:</strong></p>
 <ul>
-<li><strong>95% belief signals</strong></li>
-<li>Coordinated stakes</li>
+<li><strong>95% support signals</strong></li>
+<li>Coordinated signalling</li>
 <li>Hype comments</li>
-<li>No smart money</li>
+<li>No proven forecasters</li>
 </ul>
 
 <p><strong>What Happened:</strong></p>
 <ul>
 <li><strong>Milestone failed</strong></li>
 <li>Manipulation revealed</li>
-<li>Mass losses</li>
+<li>Widespread wrong calls</li>
 <li>Investigation launched</li>
 </ul>
 
 <p><strong>Lesson:</strong></p>
-<p>Artificial pumping leaves traces in signal patterns.</p>
+<p>Manufactured enthusiasm leaves traces in signal patterns.</p>
 
 </div>
 
@@ -522,7 +522,7 @@
 <li>Safety in numbers</li>
 <li>FOMO driven</li>
 <li>Analysis lacking</li>
-<li>Late entry</li>
+<li>Committed late, once it was obvious</li>
 </ul>
 </li>
 <li><strong>Confirmation Bias</strong>
@@ -538,7 +538,7 @@
 <li>Last outcome focus</li>
 <li>Pattern assuming</li>
 <li>Streak following</li>
-<li>Mean reversion ignored</li>
+<li>Ignores that sentiment corrects</li>
 </ul>
 </li>
 </ol>
@@ -586,8 +586,8 @@
 Master signal analysis with:
 
 1. [Due Diligence](due-diligence.md) - Deep research methods
-2. [Belief Strategies](belief-strategies.md) - When to believe
-3. [Doubt Strategies](doubt-strategies.md) - Strategic skepticism
+2. [Signalling Support](belief-strategies.md) - When to believe
+3. [Signalling Doubt](doubt-strategies.md) - Strategic skepticism
 
 ---
 

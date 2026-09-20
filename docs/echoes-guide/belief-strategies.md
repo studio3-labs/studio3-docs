@@ -1,39 +1,38 @@
-# Belief Strategies
+# Signalling Support
 
-## Mastering Positive Conviction Signals
+## Backing a Venture Well
 
 <div class="arena-card">
 
 <h3>✅ The Art of Backing Winners</h3>
 
-<p>Successful belief signaling requires more than optimism - it demands strategic thinking, careful analysis, and disciplined execution. This guide reveals advanced strategies for identifying, timing, and maximizing belief signals that generate superior returns.</p>
+<p>Backing a venture well requires more than optimism - it demands careful analysis and honest self-assessment. Signalling support is free, and so is forecasting success; what you put at risk is the credibility of your judgement. This guide covers how to identify, time and reason about the ventures you get behind.</p>
 
 </div>
 
 ## Understanding Belief Signals
 
-### When Belief Pays
+### What Support Is, and Is Not
 
 <div class="arena-card">
 
-<h3>💎 Belief Signal Economics</h3>
+<h3>💎 Two Separate Actions</h3>
 
-<p>**Belief Reward Structure:**</p>
+<p><strong>A Signal of support</strong> says: I think this venture should go ahead. It is free, it is never
+scored, and every Echo's counts the same.</p>
 
+<p><strong>A Forecast of success</strong> says: I think they will actually pull this off, and here is my
+probability. It is free, and it <em>is</em> scored against the verified outcome.</p>
+
+<p>They often point the same way. They do not have to. You can want a venture to go ahead while
+honestly expecting it to struggle, and saying both is more useful to the founder than saying one.</p>
+
+<p><strong>A forecast of success resolves correct when:</strong></p>
 <ul>
-<li><strong>Base multiplier:</strong> 1.5x - 2.0x</li>
-<li><strong>Early bonus:</strong> Up to +1.0x</li>
-<li><strong>Reputation bonus:</strong> Up to +0.5x</li>
-<li><strong>Phase bonus:</strong> Up to +0.5x</li>
-<li><strong>Maximum possible:</strong> 4.0x</li>
-</ul>
-
-<p><strong>Success Requirements:</strong></p>
-<ul>
-<li><strong>Milestone achieved</strong></li>
-<li>Validation passed</li>
-<li>No major delays</li>
-<li>Quality delivered</li>
+<li><strong>The milestone is achieved</strong></li>
+<li>Verification passes</li>
+<li>Within the declared deadline</li>
+<li>To the declared standard</li>
 </ul>
 </div>
 
@@ -93,7 +92,7 @@
 <li>Clear market need</li>
 <li>Working product</li>
 <li>Conservative milestone</li>
-<li><strong>Stake: 5% of bankroll</strong></li>
+<li><strong>Forecast: 90%+ and say so</strong></li>
 </ul>
 
 <p><strong>High Conviction (75-90%)</strong></p>
@@ -101,7 +100,7 @@
 <li><strong>Strong indicators</strong></li>
 <li>Some uncertainties</li>
 <li>Good risk/reward</li>
-<li><strong>Stake: 3% of bankroll</strong></li>
+<li><strong>Forecast: 75-90%</strong></li>
 </ul>
 
 <p><strong>Moderate Conviction (60-75%)</strong></p>
@@ -109,26 +108,25 @@
 <li><strong>Balanced outlook</strong></li>
 <li>Normal risks</li>
 <li>Standard play</li>
-<li><strong>Stake: 2% of bankroll</strong></li>
+<li><strong>Forecast: 60-75%</strong></li>
 </ul>
 
 <p><strong>Low Conviction (50-60%)</strong></p>
 <ul>
 <li><strong>Marginal belief</strong></li>
 <li>High uncertainty</li>
-<li>Small position</li>
-<li><strong>Stake: 1% of bankroll</strong></li>
+<li><strong>Forecast: 50-60%, and consider passing</strong></li>
 </ul>
 </div>
 
 ## Timing Belief Signals
 
-### Entry Point Optimization
+### Choosing When to Commit
 
 <div class="arena-card">
 
 <h3>⏰ When to Signal Belief</h3>
-<p><strong>Optimal Entry Indicators:</strong></p>
+<p><strong>Signs it is time to commit:</strong></p>
 
 <ol>
 <li><strong>Technical Readiness</strong>
@@ -139,10 +137,10 @@
 <li>Team expanded</li>
 </ul>
 </li>
-<li><strong>Market Signals</strong>
+<li><strong>Community Signals</strong>
 <ul>
 <li>Low belief ratio (<60%)</li>
-<li>Smart money entering</li>
+<li>Proven forecasters committing</li>
 <li>Momentum building</li>
 <li>News catalyst</li>
 </ul>
@@ -162,29 +160,29 @@
 
 <div class="arena-card">
 
-<h3>📈 Phase Entry Strategies</h3>
+<h3>📈 Committing by Phase</h3>
 <p><strong>Spark/Forge Phases:</strong></p>
 <ul>
-<li><strong>Enter early for maximum multiplier</strong></li>
-<li>Higher risk tolerance required</li>
+<li><strong>Commit early, when a call still costs courage</strong></li>
+<li>Least information available</li>
 <li>Focus on team quality</li>
-<li>Small positions</li>
+<li>Hedge your probability honestly</li>
 </ul>
 
 <p><strong>Ignition Phase:</strong></p>
 <ul>
 <li><strong>Wait for MVP evidence</strong></li>
-<li>Mid-phase entry optimal</li>
+<li>Mid-phase is often the best moment to commit</li>
 <li>Balanced risk/reward</li>
-<li>Standard positions</li>
+<li>Moderate confidence</li>
 </ul>
 
 <p><strong>Drift/Orbit Phases:</strong></p>
 <ul>
-<li><strong>Late entry acceptable</strong></li>
-<li>Lower multipliers</li>
+<li><strong>Late calls are fine</strong></li>
+<li>Worth less on your record</li>
 <li>Higher certainty</li>
-<li>Larger positions safe</li>
+<li>Good for confident forecasts</li>
 </ul>
 </div>
 
@@ -241,7 +239,7 @@
 </li>
 <li><strong>B2B SaaS</strong> (70% success)
 <ul>
-<li>Clear ROI</li>
+<li>Clear customer payback</li>
 <li>Recurring revenue</li>
 <li>Sticky products</li>
 <li>Enterprise focus</li>
@@ -285,18 +283,18 @@
 <p><strong>Execution:</strong></p>
 <ol>
 <li>Identify momentum early</li>
-<li>Enter with standard position</li>
+<li>Forecast with moderate confidence</li>
 <li>Add on confirmation</li>
 <li>Ride to completion</li>
-<li>Take profits</li>
+<li>Record the outcome</li>
 </ol>
 
 <p><strong>Risk Management:</strong></p>
 <ul>
 <li><strong>Never chase late</strong></li>
-<li>Set stop-loss mentally</li>
-<li>Take partial profits</li>
-<li>Don't get greedy</li>
+<li>Revise your forecast when the evidence changes</li>
+<li>Say plainly when you were wrong</li>
+<li>Don't let one good call inflate your confidence</li>
 </ul>
 </div>
 
@@ -323,12 +321,12 @@
 <li>Technical feasibility</li>
 </ul>
 
-<p><strong>Entry Strategy:</strong></p>
+<p><strong>When to Commit:</strong></p>
 <ul>
 <li><strong>Wait for pivot proof</strong></li>
 <li>Start small</li>
 <li>Add on progress</li>
-<li>Higher returns possible</li>
+<li>Larger accuracy gain possible</li>
 </ul>
 </div>
 
@@ -348,45 +346,44 @@
 
 <p><strong>Premium Approach:</strong></p>
 <ul>
-<li><strong>Accept lower multipliers</strong></li>
-<li>Take larger positions</li>
-<li>Enter any phase</li>
-<li>Hold through volatility</li>
-<li>Compound wins</li>
+<li><strong>Accept that the call is less impressive</strong></li>
+<li>Forecast with genuine confidence</li>
+<li>Follow them across any phase</li>
+<li>Hold your view through noise</li>
+<li>Build a steady record</li>
 </ul>
 
-<p><strong>Expected Returns:</strong></p>
+<p><strong>What to expect:</strong></p>
 <ul>
-<li><strong>Lower multiplier (1.5-2x)</strong></li>
+<li><strong>Few surprises</strong></li>
 <li>Higher success rate (85%+)</li>
-<li>Consistent profits</li>
+<li>Strong accuracy, modest credit</li>
 <li>Less stress</li>
-<li>Portfolio stability</li>
+<li>A stable base to your record</li>
 </ul>
 </div>
 
-## Belief Portfolio Construction
+## Spreading Your Attention
 
-### Diversification Model
+### A Workable Mix
 
 <div class="arena-card">
 
-<h3>📊 Belief Portfolio Structure</h3>
-<p><strong>Optimal Mix:</strong></p>
-<p>A well-balanced belief portfolio should include:</p>
+<h3>📊 What to Follow</h3>
+<p><strong>A record built on one kind of venture tells you very little. A workable spread:</strong></p>
 
 <ul>
-<li><strong>Premium Teams (40%):</strong> Your safe foundation with proven founders</li>
-<li><strong>Momentum Plays (25%):</strong> Growth drivers showing strong progress</li>
-<li><strong>Recovery Plays (15%):</strong> High upside opportunities in turnaround situations</li>
-<li><strong>Early Phase (15%):</strong> Maximum multiplier potential in new ventures</li>
-<li><strong>Experimental (5%):</strong> Learning opportunities and potential lottery tickets</li>
+<li><strong>Proven teams:</strong> your steady base, where you should be confident and usually right</li>
+<li><strong>Momentum cases:</strong> ventures visibly delivering, where the question is whether it holds</li>
+<li><strong>Turnarounds:</strong> harder calls that few others will make</li>
+<li><strong>Early phase:</strong> the hardest calls, and the ones worth most on your record</li>
+<li><strong>Outside your comfort zone:</strong> occasionally, to find out where your edge stops</li>
 </ul>
 
-<p><strong>Risk Balancing:</strong></p>
+<p><strong>Keeping it honest:</strong></p>
 
 <ul>
-<li><strong>Never >10% in one venture</strong></li>
+<li><strong>One venture should not dominate your record</strong></li>
 <li>Spread across phases</li>
 <li>Different sectors</li>
 <li>Various team qualities</li>
@@ -398,29 +395,29 @@
 
 <div class="arena-card">
 
-<h3>🪜 Progressive Position Building</h3>
+<h3>🪜 Building Confidence in Stages</h3>
 <p><strong>Laddering Strategy:</strong></p>
 
 <ol>
-<li><strong>Initial Position</strong> (25%)
+<li><strong>Opening forecast</strong>
 <ul>
-<li>Test the waters</li>
+<li>State a hedged probability</li>
 <li>Verify thesis</li>
 <li>Build confidence</li>
 </ul>
 </li>
-<li><strong>Progress Position</strong> (35%)
+<li><strong>As evidence lands</strong>
 <ul>
-<li>Add on evidence</li>
+<li>Update on evidence</li>
 <li>Momentum confirmation</li>
-<li>Increase exposure</li>
+<li>Move the probability</li>
 </ul>
 </li>
-<li><strong>Confidence Position</strong> (40%)
+<li><strong>Close to resolution</strong>
 <ul>
-<li>Final addition</li>
+<li>Final revision</li>
 <li>High conviction</li>
-<li>Maximize returns</li>
+<li>State your strongest confidence</li>
 </ul>
 </li>
 </ol>
@@ -428,19 +425,19 @@
 <p><strong>Benefits:</strong></p>
 <ul>
 <li><strong>Reduced timing risk</strong></li>
-<li>Better average entry</li>
-<li>Flexibility to exit</li>
+<li>Better calibration over time</li>
+<li>Freedom to change your mind</li>
 <li>Emotional control</li>
 </ul>
 </div>
 
-## Managing Belief Positions
+## Managing Belief Over Time
 
 ### Active Management
 
 <div class="arena-card">
 
-<h3>🎮 Position Monitoring</h3>
+<h3>🎮 Keeping Your Forecast Current</h3>
 <p><strong>Daily Checks:</strong></p>
 <ul>
 <li><strong>Progress updates</strong></li>
@@ -450,7 +447,7 @@
 <li>News/events</li>
 </ul>
 
-<p><strong>Red Flags to Exit Early:</strong></p>
+<p><strong>Red Flags to Revise Down:</strong></p>
 <ul>
 <li><strong>Team changes</strong></li>
 <li>Milestone delays</li>
@@ -479,48 +476,48 @@
 <ul>
 <li><strong>Don't fall in love</strong></li>
 <li>Accept failures happen</li>
-<li>Learn from losses</li>
+<li>Learn from wrong calls</li>
 <li>Stay objective</li>
 <li>Review decisions</li>
 </ul>
 </div>
 
-## Belief Signal Optimization
+## Sharpening Your Calls
 
-### Maximizing Returns
+### Building a Record Worth Reading
 
 <div class="arena-card">
 
-<h3>💰 Return Enhancement</h3>
-<p><strong>Tactics for Higher Returns:</strong></p>
+<h3>💰 What Improves It</h3>
+<p><strong>Four habits:</strong></p>
 
 <ol>
-<li><strong>Early Entry</strong>
+<li><strong>Commit early</strong>
 <ul>
-<li>First 10% of pool</li>
-<li>Maximum multipliers</li>
-<li>Higher risk</li>
+<li>Before the consensus forms</li>
+<li>Worth far more on your record</li>
+<li>Harder to get right</li>
 </ul>
 </li>
-<li><strong>Reputation Building</strong>
+<li><strong>Calibrate honestly</strong>
 <ul>
-<li>Consistent success</li>
-<li>Higher bonuses</li>
-<li>Compound effect</li>
+<li>Say the number you actually believe</li>
+<li>Check it against outcomes</li>
+<li>Adjust when it drifts</li>
 </ul>
 </li>
-<li><strong>Phase Selection</strong>
+<li><strong>Specialise</strong>
 <ul>
-<li>Earlier = higher</li>
-<li>Balance risk</li>
-<li>Diversify phases</li>
+<li>Depth beats breadth</li>
+<li>Know where your edge is</li>
+<li>Skip everything else</li>
 </ul>
 </li>
-<li><strong>Size Optimization</strong>
+<li><strong>Write down why</strong>
 <ul>
-<li>Larger when confident</li>
-<li>Smaller when learning</li>
-<li>Scale with success</li>
+<li>Before the outcome is known</li>
+<li>So you can tell luck from judgement</li>
+<li>Revisit it either way</li>
 </ul>
 </li>
 </ol>
@@ -537,14 +534,14 @@
 <ul>
 <li><strong>Venture: DeFi lending protocol</strong></li>
 <li>Phase: Ignition</li>
-<li>Entry: Day 3 of 45</li>
+<li>Committed: Day 3 of 45</li>
 <li>Team: Second-time founders</li>
-<li>Result: 3.2x return</li>
+<li>Result: milestone delivered as forecast</li>
 </ul>
 
 <p><strong>Key Lessons:</strong></p>
 <ul>
-<li><strong>Early entry paid off</strong></li>
+<li><strong>Committing early was right</strong></li>
 <li>Team quality matters</li>
 <li>Clear market need</li>
 <li>Conservative milestone</li>
@@ -554,17 +551,17 @@
 <ul>
 <li><strong>Venture: B2B analytics tool</strong></li>
 <li>Phase: Drift</li>
-<li>Entry: After positive demo</li>
+<li>Committed: After positive demo</li>
 <li>Momentum: Building fast</li>
-<li>Result: 2.1x return</li>
+<li>Result: milestone delivered as forecast</li>
 </ul>
 
 <p><strong>Key Lessons:</strong></p>
 <ul>
-<li><strong>Momentum entry works</strong></li>
+<li><strong>Committing on proven momentum works</strong></li>
 <li>Demo de-risked</li>
 <li>B2B higher success</li>
-<li>Profit taking smart</li>
+<li>Confidence matched the evidence</li>
 </ul>
 </div>
 
@@ -579,7 +576,7 @@
 <ul>
 <li><strong>Believing hype alone</strong></li>
 <li>Ignoring red flags</li>
-<li>Oversized positions</li>
+<li>Overstating your confidence</li>
 <li>No diversification</li>
 <li>Emotional attachment</li>
 </ul>
@@ -596,31 +593,31 @@
 
 ## Advanced Techniques
 
-### Belief Arbitrage
+### Where the Crowd Is Wrong
 
 <div class="arena-card">
 
-<h3>🎯 Market Inefficiencies</h3>
-<p><strong>Arbitrage Opportunities:</strong></p>
+<h3>🎯 Consensus Blind Spots</h3>
+<p><strong>Where to Look:</strong></p>
 
 <ol>
 <li><strong>Cross-Venture</strong>
 <ul>
 <li>Similar ventures</li>
-<li>Different valuations</li>
+<li>Different levels of support</li>
 <li>Belief disparities</li>
 </ul>
 </li>
 <li><strong>Information</strong>
 <ul>
 <li>You know something</li>
-<li>Market hasn't priced</li>
+<li>Nobody else has said it</li>
 <li>Early advantage</li>
 </ul>
 </li>
 <li><strong>Sentiment</strong>
 <ul>
-<li>Oversold quality</li>
+<li>Good teams written off</li>
 <li>Panic = opportunity</li>
 <li>Contrarian belief</li>
 </ul>
@@ -637,9 +634,9 @@
 <h3>📊 KPIs for Belief Signals</h3>
 <p><strong>Key Metrics:</strong></p>
 <ul>
-<li><strong>Win rate: Target 70%+</strong></li>
-<li>Average return: Target 1.8x+</li>
-<li>Risk-adjusted return</li>
+<li><strong>Forecast accuracy: Target 70%+</strong></li>
+<li>Calibration: stated confidence vs outcomes</li>
+<li>Accuracy on contrarian calls</li>
 <li>Phase distribution</li>
 <li>Sector performance</li>
 </ul>
@@ -647,13 +644,13 @@
 <p><strong>Monthly Review:</strong></p>
 <p>Track your belief signal performance with this monthly review template:</p>
 <ul>
-<li><strong>Total Belief Signals:</strong> Count all belief signals made this month</li>
-<li><strong>Successes:</strong> Number of successful milestone completions</li>
-<li><strong>Failures:</strong> Number of failed milestones</li>
-<li><strong>Win Rate:</strong> Calculate your success percentage</li>
-<li><strong>Average Return:</strong> Your average multiplier across all signals</li>
-<li><strong>Best Signal:</strong> Your highest performing belief signal</li>
-<li><strong>Worst Signal:</strong> Your biggest loss to learn from</li>
+<li><strong>Total Forecasts:</strong> Count all forecasts made this month</li>
+<li><strong>Resolved Correct:</strong> Forecasts the outcome bore out</li>
+<li><strong>Resolved Wrong:</strong> Forecasts the outcome contradicted</li>
+<li><strong>Accuracy:</strong> Calculate your correct percentage</li>
+<li><strong>Calibration:</strong> How your stated confidence compared with outcomes</li>
+<li><strong>Best Call:</strong> The one you got right when few others did</li>
+<li><strong>Worst Call:</strong> The one you were confidently wrong about</li>
 <li><strong>Key Lessons:</strong> Important insights gained this month</li>
 </ul>
 
@@ -665,14 +662,14 @@
 
 Enhance your strategies with:
 
-1. [Doubt Strategies](doubt-strategies.md) - The other side
-2. [Portfolio Management](portfolio-management.md) - Systematic approach
-3. [Phase Strategies](phase-strategies.md) - Phase optimization
+1. [Signalling Doubt](doubt-strategies.md) - The other side
+2. [Phase Strategies](phase-strategies.md) - What to expect at each stage
+3. [Building Reputation](reputation-building.md) - The long game
 
 ---
 
 !!! success "Belief Excellence"
-    The best belief signals combine thorough research, strategic timing, and disciplined execution. Master these three pillars and watch your returns soar.
+    The best support combines thorough research, early conviction, and honest confidence. Master those three and your record will speak for itself.
 
 !!! tip "Pro Wisdom"
-    Successful belief signaling is about backing the right teams solving real problems with achievable milestones. Everything else is noise.
+    Backing a venture well is about the right teams solving real problems with achievable milestones. Everything else is noise.

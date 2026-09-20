@@ -55,7 +55,7 @@
 
 <p><strong>From day one, you have:</strong></p>
 <ul>
-<li><strong>Hundreds of supporters</strong> invested in your success</li>
+<li><strong>Hundreds of supporters</strong> committed to your success</li>
 <li><strong>Expert mentors</strong> guiding your journey</li>
 <li><strong>Real-time feedback</strong> on every decision</li>
 <li><strong>Network effects</strong> from the ecosystem</li>
@@ -88,7 +88,7 @@
 <li><strong>Discover ventures</strong> before mainstream</li>
 <li><strong>Support ideas</strong> you believe in</li>
 <li><strong>Direct participation</strong> in success</li>
-<li><strong>No accredited investor</strong> requirements</li>
+<li><strong>No financial requirements</strong> - signalling and forecasting are free</li>
 </ul>
 </div>
 
@@ -99,7 +99,7 @@
 <h3>📊 Know What You're Getting</h3>
 <p><strong>Clear Mechanics:</strong></p>
 <ul>
-<li><strong>Exact multipliers for correct predictions (1.5x-3x)</strong></li>
+<li><strong>Forecasts scored against a verified outcome</strong></li>
 <li>Public track records of all participants</li>
 <li>Real-time progress visibility</li>
 <li>Defined success criteria</li>
@@ -114,12 +114,12 @@
 - <strong>Build reputation</strong> through accuracy
 - <strong>Learn by doing</strong> in real scenarios
 
-### 4. Diversification Options
+### 4. No Barrier to Entry
 
-- <strong>Small minimum stakes</strong> (10 $SIGNAL)
-- <strong>Portfolio approach</strong> across ventures
-- <strong>Balance risk</strong> with belief/doubt signals
-- <strong>Compound gains</strong> through experience
+- <strong>Free to signal and forecast</strong> - nothing to buy
+- <strong>Follow as many ventures</strong> as you can actually judge
+- <strong>Skip anything</strong> you don't understand, at no cost
+- <strong>Compound a record</strong> through experience
 
 ## ⚓ Benefits for Validators (Anchors)
 
@@ -130,7 +130,7 @@
 <h3>💎 Your Experience Has Value</h3>
 
 <ul>
-<li><strong>Earn fees</strong> for validations (3-10%)</li>
+<li><strong>Earn real rewards</strong> released by the Arena</li>
 <li><strong>Build reputation</strong> as trusted expert</li>
 <li><strong>Guide next generation</strong> of founders</li>
 <li><strong>Stay connected</strong> to innovation</li>
@@ -202,7 +202,7 @@
 <p><strong>As more people join:</strong></p>
 <ul>
 <li><strong>More ventures</strong> = More opportunities</li>
-<li><strong>More signals</strong> = Better price discovery</li>
+<li><strong>More signals</strong> = A clearer picture of what the community wants</li>
 <li><strong>More validators</strong> = Higher quality</li>
 <li><strong>More success</strong> = More attraction</li>
 </ul>
@@ -224,12 +224,12 @@ Everyone benefits from the same outcome:
 - <strong>Competitive elements</strong> push excellence
 - <strong>Fun and addictive</strong> participation
 
-### 4. Real Stakes, Real Rewards
+### 4. Real Consequences, Real Rewards
 
-- <strong>Skin in the game</strong> ensures seriousness
-- <strong>Token burns</strong> filter out non-performers
-- <strong>Reputation systems</strong> build trust
-- <strong>Financial rewards</strong> motivate excellence
+- <strong>A permanent public record</strong> ensures seriousness
+- <strong>Failure that cannot be hidden</strong> filters out non-performers
+- <strong>Titles earned from verified outcomes</strong> build trust
+- <strong>Real rewards in USDC and goods</strong> motivate excellence
 
 ## 🎯 Who Benefits Most?
 
@@ -254,9 +254,8 @@ Everyone benefits from the same outcome:
 <h4>🌟 Perfect for Supporters Who:</h4>
 
 <ul>
-<li>Want early-stage exposure</li>
+<li>Want a close view of early-stage ventures</li>
 <li>Enjoy evaluating ideas</li>
-<li>Have risk capital to deploy</li>
 <li>Believe in democratization</li>
 <li>Like active participation</li>
 
@@ -272,7 +271,6 @@ Everyone benefits from the same outcome:
 
 <li>Want to give back</li>
 <li>Enjoy mentoring</li>
-<li>Seek flexible income</li>
 <li>Value ecosystem building</li>
 
 </ul>

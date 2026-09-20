@@ -7,7 +7,7 @@ Comprehensive documentation for Studio3, a revolutionary venture building platfo
 Studio3 is a next-generation venture building ecosystem where **belief becomes momentum**. Unlike traditional incubators or accelerators, Studio3 creates a transparent, gamified environment where:
 
 - **🚀 Founders (Senders)** build ventures in public through seven progressive phases, from initial Spark to full Ascension
-- **📡 Supporters (Echoes)** signal belief or doubt using $SIGNAL tokens, earning rewards for accurate predictions
+- **📡 Supporters (Echoes)** signal what a venture should do and forecast what it will do - both free - building a public accuracy record
 - **⚓ Validators (Anchors)** guide ventures and verify milestone completion, ensuring ecosystem quality
 
 ### Key Innovation: The Three-NFT System
@@ -38,7 +38,7 @@ The documentation is organized into four main guides:
 - Core concepts and principles
 - Seven-phase lifecycle explanation
 - Three-role system overview
-- Economics and tokenomics
+- Rewards and consequences
 
 ### 2. **Senders Guide** (Founders)
 - Complete handbook for venture builders
@@ -48,10 +48,10 @@ The documentation is organized into four main guides:
 - Exit and buyback processes
 
 ### 3. **Echoes Guide** (Supporters)
-- Signal mechanics and strategies
-- Risk management and portfolio building
+- Signal and forecast mechanics
+- Building an accuracy record
 - Venture evaluation frameworks
-- Reward optimization techniques
+- Rewards and recognition
 - Community participation
 
 ### 4. **Anchors Guide** (Validators)

@@ -6,7 +6,7 @@
 
 <h3>📡 Transforming Signals into Support</h3>
 
-<p>Echoes are your early believers - the community members who signal confidence in your venture through $SIGNAL tokens. Learning to engage, nurture, and leverage this community is crucial for your venture's success.</p>
+<p>Echoes are your early believers - the community members who signal support for your venture and forecast whether you will deliver. Both cost them nothing, which means the only thing holding their attention is you. Learning to engage, nurture, and leverage this community is crucial for your venture's success.</p>
 
 </div>
 
@@ -51,7 +51,7 @@
 <p>3. **Financial Backers**</p>
 
 <ul>
-<li>Token investors</li>
+<li>Future investors</li>
 
 <li>Future equity interest</li>
 
@@ -80,11 +80,11 @@
 <h3>🧠 Understanding Motivations</h3>
 <p>** Why Echoes Signal:**</p>
 
-<p><strong>Financial Motivations:</strong></p>
+<p><strong>What they get out of it:</strong></p>
 <ul>
-<li>Primary: Token appreciation potential</li>
-<li>Secondary: Early access to deals and opportunities</li>
-<li>Tertiary: Network effects and value growth</li>
+<li>Primary: a public record of judgement that proves out</li>
+<li>Secondary: early access to ventures, deals and opportunities</li>
+<li>Tertiary: rewards through the Drops and Bounties your Arena holds</li>
 </ul>
 
 <p><strong>Strategic Motivations:</strong></p>
@@ -191,10 +191,10 @@
 <li>Focus: Vision sharing and community questions</li>
 </ul>
 
-<p><strong>Evening Incentive (6 PM):</strong></p>
+<p><strong>Evening Recognition (6 PM):</strong></p>
 <ul>
-<li>Action: Early bird reward announcement</li>
-<li>Incentive: Special bonus for first 100 signals</li>
+<li>Action: Early supporter shout-outs</li>
+<li>Recognition: The first supporters named publicly</li>
 <li>Bonus: Exclusive access and founder perks</li>
 </ul>
 
@@ -308,8 +308,8 @@
    
    <p><strong>Ambassador Reward Structure:</strong></p>
    <ul>
-   <li><strong>Referrals</strong>: 5% signal bonus for each new Echo</li>
-   <li><strong>Content Creation</strong>: 100 $SIGNAL per quality piece</li>
+   <li><strong>Referrals</strong>: recognition for each new Echo brought in</li>
+   <li><strong>Content Creation</strong>: a bounty, where you have posted one</li>
    <li><strong>Community Moderation</strong>: Monthly reward packages</li>
    <li><strong>Bug Reporting</strong>: Bounty program with tiered rewards</li>
    <li><strong>Feature Suggestions</strong>: Implementation credits and recognition</li>
@@ -511,7 +511,6 @@
 <p>** Segment Types:**</p>
 <p>**| Segment | Characteristics | Engagement Strategy |**</p>
 <p>|---------|----------------|---------------------|</p>
-<p>| **Whales** | Large signals | Personal attention |</p>
 <p>| **Experts** | Domain knowledge | Technical discussions |</p>
 <p>| **Influencers** | Large following | Content partnerships |</p>
 <p>| **Builders** | Technical skills | Development involvement |</p>
@@ -537,7 +536,7 @@
 <p>1. **Limited Opportunities**</p>
 
 <ul>
-<li>Early bird bonuses</li>
+<li>Early supporter recognition</li>
 
 <li>Exclusive access tiers</li>
 <li>Time</li>
@@ -602,7 +601,7 @@
 
 <li>Exclusive benefits</li>
 
-<li>Growing returns</li>
+<li>Growing influence over direction</li>
 
 <li>Community growth</li>
 
@@ -667,7 +666,6 @@
 
 <h3>Week 3: Incentives</h3>
 <ul>
-<li>Comeback bonuses</li>
 <li>Exclusive access</li>
 <li>Direct founder call</li>
 <li>Special recognition</li>
@@ -675,7 +673,7 @@
 
 <h3>Week 4: Follow-up</h3>
 <ul>
-<li>Thank active returns</li>
+<li>Thank returning supporters</li>
 <li>Gather feedback</li>
 <li>Implement suggestions</li>
 <li>Maintain engagement</li>
@@ -725,7 +723,7 @@
 <ul>
 <li><strong>Referral Rate</strong>: Measure network growth from Echoes</li>
 <li><strong>Contribution Value</strong>: Track help and support provided</li>
-<li><strong>Signal Growth</strong>: Monitor increases in signal amounts</li>
+<li><strong>Signal Growth</strong>: Monitor increases in the number of signals</li>
 <li><strong>Lifetime Value</strong>: Estimate long-term Echo value</li>
 </ul>
 
@@ -795,7 +793,7 @@ Ready to handle challenges? Continue to:
 ---
 
 !!! success "Echo Power"
-    Your Echoes are more than signal holders - they're your early adopters, advisors, and advocates. Treat them with respect, engage them authentically, and watch them amplify your success.
+    Your Echoes are more than a source of signals - they're your early adopters, advisors, and advocates. Treat them with respect, engage them authentically, and watch them amplify your success.
 
 !!! tip "Engagement Secret"
     The best Echo engagement strategy is genuine care. When you truly value your community and consistently deliver value, engagement becomes natural and retention becomes automatic.

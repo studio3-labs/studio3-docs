@@ -27,28 +27,29 @@ This radical transparency creates:
 
 - **Speed** through immediate feedback
 
-## 2. Belief as Currency
+## 2. Conviction on the Record
 
-### Conviction Has Real Value
+### Belief Costs Nothing and Still Counts
 
-The $SIGNAL token transforms abstract belief into tangible support:
+Studio3 has no token. Expressing belief is free - what makes it matter is that it is public,
+timestamped, and later checked against what happened.
 
 ```mermaid
 graph TD
-    A[Belief in Team] --> B[$SIGNAL Stake]
-    B --> C[Milestone Support]
-    C --> D[Success Multiplier]
-    C --> E[Failure Penalty]
-    D --> F[Reputation Growth]
-    E --> G[Token Burn]
+    A[Belief in Team] --> B[Free Signal or Forecast]
+    B --> C[Public, timestamped record]
+    C --> D[Milestone verified]
+    D --> E[Forecast scored]
+    D --> F[Arena releases reward on success]
+    E --> G[Accuracy record updated]
 ```
 
 **Key aspects:**
 
-- **Belief must be backed by tokens**
-- **Conviction carries real risk**
+- **Signalling and forecasting are free** - nothing is bought, staked, or burned
+- **Your calls are public before the outcome is known**
 - **Accuracy builds lasting reputation**
-- **Mistakes have permanent consequences**
+- **Mistakes have permanent consequences on the record**
 
 ## 3. Community Validation
 
@@ -86,7 +87,7 @@ Venture building becomes a game with:
 - **Real penalties** for failure
 
 !!! info "Game Mechanics"
-    Unlike traditional "gamification," Studio3's game has real stakes. Tokens are burned, reputations are built or destroyed, and ventures live or die based on performance.
+    Unlike traditional "gamification," Studio3's game has real consequences. Rewards are real money and real goods, reputations are built or destroyed in public, and ventures live or die based on performance.
 
 ## 5. Aligned Incentives
 
@@ -97,8 +98,8 @@ The ecosystem aligns all participants:
 | Role | Wants | Gets | Gives |
 |------|-------|------|-------|
 | **Founders** | Funding & support | Resources & validation | Transparent execution |
-| **Echoes** | Returns on belief | Token multipliers | Risk capital |
-| **Anchors** | Quality ventures | Validation fees | Expert guidance |
+| **Echoes** | A record worth having | Rewards and a public accuracy record | Honest judgement |
+| **Anchors** | Quality ventures | Rewards from the Arena | Expert guidance and verification |
 | **Ecosystem** | Sustainable growth | Successful ventures | Fair platform |
 
 ## 6. Permissionless Innovation
@@ -114,7 +115,7 @@ No gatekeepers, no applications, no committees:
 - **Any expert** can become an Anchor
 
 !!! warning "With Freedom Comes Responsibility"
-    Permissionless doesn't mean consequence-free. Bad actors are naturally filtered out through token burns and reputation loss.
+    Permissionless doesn't mean consequence-free. Bad actors are naturally filtered out by a permanent public record and reputation loss.
 
 ## 7. Progressive Decentralization
 
@@ -135,20 +136,22 @@ Ventures gradually gain independence:
 
 Failure isn't hidden or minimized:
 
-- **Failed milestones** burn tokens permanently
+- **Failed milestones** are recorded permanently, and the reward is not released
 - **Failed ventures** become case studies
-- **Failed predictions** damage reputation
+- **Failed forecasts** damage your accuracy record
 
 - **Failed strategies** inform future attempts
 
 !!! quote "The Failure Principle"
-    "In Studio3, failure is expensive but educational. Every burned token teaches the ecosystem what doesn't work."
+    "In Studio3, failure is costly but educational. Every recorded failure teaches the ecosystem what doesn't work."
 
 ## 9. Compound Reputation
 
 ### Trust Builds Over Time
 
-Reputation (XP) in Studio3:
+Reputation in Studio3 is a track record, not a points balance. Progression titles - novice, adept,
+expert, master, legend - are earned from verified outcomes, forecast accuracy, and delivered
+bounties. Your reputation:
 
 - **Cannot be bought**
 - only earned
@@ -183,9 +186,9 @@ These aren't just ideas - they're daily practices:
 
 !!! tip "For Supporters"
 
-- Back belief with tokens
+- Signal and forecast honestly - both are free
 
-- Accept the risk of being wrong
+- Accept the risk of being wrong in public
 
 - Learn from failures
 
@@ -227,7 +230,7 @@ These aren't just ideas - they're daily practices:
 
 <p><strong>Failure as Feature</strong></p>
 
-<p>QuickFlip consistently missed milestones, burning 500K $SIGNAL tokens. Their detailed post-mortem became required reading for new founders.</p>
+<p>QuickFlip consistently missed milestones. Every miss stayed on the public record, and their detailed post-mortem became required reading for new founders.</p>
 
 <p><strong>Result:</strong></p>
 
@@ -243,7 +246,7 @@ These aren't just ideas - they're daily practices:
 |---------------|------|
 | "It's just gambling" | Signals represent conviction about execution ability |
 | "Transparency is optional" | Public execution is mandatory |
-| "Reputation can be bought" | XP only comes from accurate predictions |
+| "Reputation can be bought" | Titles only come from verified outcomes and accurate forecasts |
 | "Failure is shameful" | Failure is expensive but valuable |
 
 ## Evolution of Principles
@@ -268,6 +271,6 @@ These principles evolve through:
 1. **Understand** how principles guide decisions2. **Observe** them in action in the Arena3. **Practice** applying them to your role4. **Share** experiences with the community## Related Reading
 
 - Dive into [The Arena System](arena-system.md) to see principles in practice
-- Explore [Belief & Doubt Signals](belief-signals.md) for conviction mechanics
+- Explore [Signals & Forecasts](belief-signals.md) for conviction mechanics
 - Learn about [Three-NFT System](nft-system.md) for ownership principles
 - Understand [Seven Phase Lifecycle](seven-phases.md) for progression principles

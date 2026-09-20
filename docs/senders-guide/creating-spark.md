@@ -166,7 +166,7 @@
 
 - Collaborative challenges
 
-- Progress tokenization
+- Verifiable progress records
 
 ## Crafting Your Narrative
 
@@ -363,9 +363,7 @@
 <li>2pm EST Avoid holidays</li>
 <li>Full attention</li>
 <li>**Check Arena schedule**</li>
-<li>Avoid competition Market Conditions:</li>
-<li>**Bull market = More signals**</li>
-<li>Bear market = Quality focus</li>
+<li>Avoid competing launches</li>
 <li>News cycles matter</li>
 <li>Sector momentum helps</li>
 
@@ -460,7 +458,7 @@
 </ul>
 <p>** Results:**</p>
 <ul>
-<li>**50,000 $SIGNAL in first week**</li>
+<li>**Overwhelming support in the first week**</li>
 <li>500+ unique supporters</li>
 <li>Won Forge against 4 competitors</li>
 <li>Now in Orbit phase</li>

@@ -20,11 +20,11 @@ Winning The Forge requires more than a good idea - it demands superior strategy,
 
 **Echoes Vote Based On:**
 
-1. **Return Potential** (40%)
-   - Milestone achievability
-   - Market opportunity
+1. **Achievability** (40%)
+   - Realistic scope
+   - Credible timeline
    - Execution capability
-   - Exit possibilities
+   - Evidence of progress so far
 
 2. **Founder Quality** (30%)
    - Track record
@@ -360,7 +360,7 @@ Winning The Forge requires more than a good idea - it demands superior strategy,
 **Forbidden Tactics:**
 - Personal attacks
 - Spreading falsehoods
-- Stake manipulation
+- Coordinated or manipulated signalling
 - Bribery/collusion
 
 </div>

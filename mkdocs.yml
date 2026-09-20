@@ -142,7 +142,7 @@ nav:
       - Key Principles: overview-guide/key-principles.md
     - Core Concepts:
       - The Arena System: overview-guide/arena-system.md
-      - Belief & Doubt Signals: overview-guide/belief-signals.md
+      - Signals & Forecasts: overview-guide/belief-signals.md
       - Three-NFT System: overview-guide/nft-system.md
     - The Journey:
       - Seven Phase Lifecycle: overview-guide/seven-phases.md
@@ -152,10 +152,8 @@ nav:
       - Three Roles Overview: overview-guide/roles-overview.md
       - How They Interact: overview-guide/interactions.md
       - Aligned Incentives: overview-guide/incentives.md
-    - Economics:
-      - $SIGNAL Token: overview-guide/signal-token.md
-      - Rewards & Penalties: overview-guide/rewards-system.md
-      - Value Flow: overview-guide/value-flow.md
+    - Rewards:
+      - Rewards & Consequences: overview-guide/rewards-system.md
     - Getting Started:
       - Choosing Your Role: overview-guide/choosing-role.md
       - First Steps: overview-guide/first-steps.md
@@ -193,23 +191,19 @@ nav:
     - Fundamentals:
       - Understanding Your Role: echoes-guide/echo-basics.md
       - Signal Mechanics: echoes-guide/signal-mechanics.md
-      - Rewards & Risks: echoes-guide/rewards-system.md
+      - Rewards & Recognition: echoes-guide/rewards-system.md
     - Getting Started:
       - Your First Signals: echoes-guide/first-signals.md
-      - Managing Tokens: echoes-guide/token-management.md
       - Building Reputation: echoes-guide/reputation-building.md
     - Analysis:
       - Evaluating Ventures: echoes-guide/evaluating-ventures.md
       - Reading Signals: echoes-guide/reading-signals.md
       - Due Diligence: echoes-guide/due-diligence.md
     - Strategies:
-      - When to Believe: echoes-guide/belief-strategies.md
-      - Strategic Doubt: echoes-guide/doubt-strategies.md
-      - Portfolio Management: echoes-guide/portfolio-management.md
+      - Signalling Support: echoes-guide/belief-strategies.md
+      - Signalling Doubt: echoes-guide/doubt-strategies.md
     - Advanced:
       - Phase Strategies: echoes-guide/phase-strategies.md
-      - Contrarian Plays: echoes-guide/contrarian-plays.md
-      - Risk Management: echoes-guide/risk-management.md
     - Community:
       - Participation: echoes-guide/community-engagement.md
       - Building Influence: echoes-guide/influence-building.md

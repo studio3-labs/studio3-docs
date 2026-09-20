@@ -39,7 +39,7 @@ The buyback process transfers full ownership from Studio3's container model to t
 
 #### Signal NFT Valuation
 
-- Performance multipliers
+- Verified delivery record
 - Milestone achievements
 - Community metrics
 - Growth trajectory
@@ -120,13 +120,6 @@ Total Buyback = Spark Value + Signal Value + Transaction Fees
 - Time-limited (typically 2-3 years)
 - Performance triggers
 - Audit rights
-
-### Token Swap
-
-- Exchange for venture tokens
-- Vesting schedule
-- Liquidity provisions
-- Market pricing
 
 ## Legal Considerations
 

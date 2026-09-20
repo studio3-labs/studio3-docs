@@ -82,13 +82,13 @@
 
 <h3>🏗️ How Studio3 Governs Itself</h3>
 <p>**Governance Layers:**</p>
-<p>The governance structure flows from the Platform Team at the top, down through the Governance Council, then to the horizontal layer of Anchor Council, Echo Assembly, and Sender Forum (which all interact with each other). Below this are Community Proposals, and finally Token Holder Votes at the base. This creates a balanced system where technical implementation, policy guidance, and community input all play essential roles.</p>
+<p>The governance structure flows from the Platform Team at the top, down through the Governance Council, then to the horizontal layer of Anchor Council, Echo Assembly, and Sender Forum (which all interact with each other). Below this are Community Proposals, and finally community Signals at the base. This creates a balanced system where technical implementation, policy guidance, and community input all play essential roles.</p>
 
 <p>**Decision Types:**</p>
 
 <p>1. **Operational** - Day-to-day platform</p>
 <p>2. **Policy** - Rules and standards</p>
-<p>3. **Economic** - Token and incentives</p>
+<p>3. **Economic** - Rewards and incentives</p>
 <p>4. **Strategic** - Long-term direction</p>
 <p>5. **Emergency** - Crisis response</p>
 
@@ -115,7 +115,7 @@
 </ul>
 <p>**Open discussion**</p>
 <ul>
-<li>**Token Holders:**</li>
+<li>**The wider community:**</li>
 
 </ul>
 <p>**Voting rights**</p>
@@ -353,7 +353,7 @@
 
 ## Economic Governance
 
-### Token Economics Influence
+### Rewards and Incentives
 
 <div class="arena-card">
 
@@ -361,26 +361,28 @@
 <p>**Anchor Input Areas:**</p>
 
 <p>**Validation Rewards:**</p>
-<p>The validation reward structure includes several components: A base rate of 2-5% of milestone value forms the foundation. Quality bonuses can multiply rewards up to 2x for exceptional work. Technical complexity adds a 1.5x adjustment for challenging validations. Phase modifiers provide 1.3x rewards in early phases to incentivize risk-taking, standard 1.0x during growth phases, and 0.8x in scale phases where ventures are more established.</p>
+<p>Anchors are compensated in real rewards - USDC and non-cash items - released by the Arena on
+verified success. The rates and the proportions between roles have not been decided, and are a
+live question the Anchor Council will have a voice in. See <a href="../compensation/">Compensation</a>.</p>
 
-<p>**Signal Mechanics:**</p>
+<p>**Signal and Forecast Mechanics:**</p>
 
 <ul>
-<li>Multiplier ranges</li>
-<li>Burn mechanisms</li>
-<li>Stake requirements</li>
-<li>Lock periods</li>
-<li>Reward distribution</li>
+<li>How forecast questions are written in resolvable form</li>
+<li>How forecasts are scored</li>
+<li>Signal window lengths</li>
+<li>Whether a venture may enable an external prediction market</li>
+<li>Reward distribution and dispute arbitration</li>
 
 </ul>
-<p>**Economic Health Metrics:**</p>
+<p>**Ecosystem Health Metrics:**</p>
 
 <ul>
-<li>Token velocity</li>
-<li>Stake participation</li>
+<li>Signal and forecast participation</li>
+<li>Community forecast calibration</li>
 <li>Reward sustainability</li>
-<li>Inflation/deflation</li>
-<li>Value accrual</li>
+<li>Milestone success rates</li>
+<li>Verification turnaround</li>
 
 </ul>
 </div>
@@ -395,7 +397,7 @@
 <p>| Stakeholder | Primary Incentive | Governance Weight |</p>
 <p>|------------|------------------|-------------------|</p>
 <p>| Founders | Success/Growth | 25% |</p>
-<p>| Echoes | Returns/Accuracy | 35% |</p>
+<p>| Echoes | Accuracy | 35% |</p>
 <p>| Anchors | Quality/Rewards | 25% |</p>
 <p>| Platform | Sustainability | 15% |</p>
 
@@ -586,7 +588,7 @@
 <li>Legacy building</li>
 
 </ul>
-<p>**Influence Multipliers:**</p>
+<p>**What Builds Influence:**</p>
 
 <ul>
 <li>Quality contributions</li>

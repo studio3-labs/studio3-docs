@@ -638,7 +638,7 @@ graph TD
 <p>**Studio3 Ascension**</p>
 <ul>
 <li>**Full independence**</li>
-<li>Token mechanics</li>
+<li>NFT buyback</li>
 <li>Community ownership</li>
 <li>Ecosystem value</li>
 
@@ -779,5 +779,5 @@ Continue developing with:
 !!! tip "Strategic Excellence"
     Great strategic advice helps founders see around corners, make hard decisions, and build ventures that matter. Your strategic insight can be the difference between good and great.
 
-!!! success "Impact Multiplier"
+!!! success "Compounding Impact"
     While tactical advice helps today, strategic guidance shapes years. Invest time in developing strategic thinking skills - they're your highest leverage contribution as an Anchor.

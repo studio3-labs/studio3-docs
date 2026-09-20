@@ -23,24 +23,24 @@
 <ul>
 <li>**[ ] Read the Echo Basics guide**</li>
 <li>[ ] Understand signal mechanics</li>
-<li>[ ] Know the risk of burns</li>
-<li>[ ] Grasp reward structures</li>
+<li>[ ] Know the difference between a Signal and a Forecast</li>
+<li>[ ] Understand how forecasts are scored</li>
 <li>[ ] Join Echo community channels</li>
 
 </ul>
 <p>**Technical Setup:**</p>
 <ul>
-<li>**[ ] Wallet connected**</li>
-<li>[ ] $SIGNAL tokens acquired</li>
-<li>[ ] Gas fees available</li>
-<li>[ ] Platform account created</li>
+<li>**[ ] Account created**</li>
+<li>[ ] Profile completed</li>
+<li>[ ] Nothing to buy - signalling is free</li>
+<li>[ ] Ventures to follow chosen</li>
 <li>[ ] Notifications enabled</li>
 
 </ul>
 <p>**Mental Preparation:**</p>
 <ul>
-<li>**[ ] Accept risk of loss**</li>
-<li>[ ] Start small mindset</li>
+<li>**[ ] Ready to be wrong in public**</li>
+<li>[ ] Start with questions you understand</li>
 <li>[ ] Learning focus</li>
 <li>[ ] No FOMO pressure</li>
 <li>[ ] Long-term thinking</li>
@@ -189,22 +189,21 @@
 <li><strong>Confidence Level:</strong> Your conviction percentage</li>
 </ul>
 
-<p>**Step 2: Size Your Stake**</p>
+<p>**Step 2: Set Your Confidence**</p>
 <ul>
-<li>**First signal: 10-50 $SIGNAL**</li>
-<li>Never more than 5% bankroll</li>
-<li>Leave room for gas</li>
-<li>Plan for 2-3 signals</li>
+<li>**Decide your forecast probability, and mean it**</li>
+<li>Reserve extreme numbers for extreme cases</li>
+<li>If you cannot pick a number, you are not ready to forecast this one</li>
+<li>Skipping costs nothing</li>
 
 </ul>
-<p>**Step 3: Execute Signal**</p>
+<p>**Step 3: Submit**</p>
 <p>1. Navigate to venture page</p>
-<p>2. Click "Signal" button</p>
-<p>3. Select Belief or Doubt</p>
-<p>4. Enter token amount</p>
-<p>5. Review transaction</p>
-<p>6. Confirm in wallet</p>
-<p>7. Wait for confirmation</p>
+<p>2. Click "Signal"</p>
+<p>3. Select Support or Doubt</p>
+<p>4. Add your Forecast, if the milestone has one</p>
+<p>5. Review your reasoning</p>
+<p>6. Submit - both are free</p>
 
 <p>**Step 4: Document Decision**</p>
 <ul>
@@ -243,24 +242,23 @@
 <h3>🛡️ Safe Start Strategy</h3>
 <p>** Profile:**</p>
 <ul>
-<li>**Risk tolerance: Low**</li>
+<li>**Confidence: hedged**</li>
 <li>Learning focus: High</li>
-<li>Capital preservation: Priority</li>
+<li>Building a habit: Priority</li>
 
 </ul>
 <p>** Tactics:**</p>
 <ul>
-<li>**Signal size: 10-20 $SIGNAL**</li>
+<li>**Forecast only the clear cases at first**</li>
 <li>Only established ventures</li>
 <li>Phase 3+ preferred</li>
 <li>Strong team focus</li>
-<li>80%+ belief pools</li>
+<li>Read the whole delivery history first</li>
 
 </ul>
 <p>** Expected Outcomes:**</p>
 <ul>
-<li>**Lower returns (1.2-1.5x)**</li>
-<li>Higher success rate</li>
+<li>**Higher forecast accuracy**</li>
 <li>Confidence building</li>
 <li>Steady learning</li>
 <li>Minimal stress</li>
@@ -275,24 +273,23 @@
 <h3>⚖️ Middle Ground Strategy</h3>
 <p>** Profile:**</p>
 <ul>
-<li>**Risk tolerance: Medium**</li>
-<li>Return focus: Balanced</li>
+<li>**Confidence: honest**</li>
+<li>Coverage: Balanced</li>
 <li>Learning: Important</li>
 
 </ul>
 <p>** Tactics:**</p>
 <ul>
-<li>**Signal size: 30-50 $SIGNAL**</li>
+<li>**Forecast every milestone in the ventures you follow**</li>
 <li>Mix of phases</li>
-<li>Both belief and doubt</li>
-<li>Diversify ventures</li>
+<li>Both support and doubt</li>
+<li>Several ventures</li>
 <li>Research deeply</li>
 
 </ul>
 <p>** Expected Outcomes:**</p>
 <ul>
-<li>**Moderate returns (1.5-2x)**</li>
-<li>Some failures expected</li>
+<li>**Some failures expected**</li>
 <li>Faster learning curve</li>
 <li>Building intuition</li>
 <li>Sustainable growth</li>
@@ -307,24 +304,23 @@
 <h3>🔥 High Risk Strategy</h3>
 <p>** Profile:**</p>
 <ul>
-<li>**Risk tolerance: High**</li>
-<li>Return focus: Maximum</li>
+<li>**Confidence: committed**</li>
+<li>Coverage: Early and hard questions</li>
 <li>Learning: By doing</li>
 
 </ul>
 <p>** Tactics:**</p>
 <ul>
-<li>**Signal size: 50-100 $SIGNAL**</li>
+<li>**Commit to a number before the crowd has one**</li>
 <li>Early phase focus</li>
-<li>Contrarian plays</li>
+<li>Say so when you disagree with consensus</li>
 <li>High conviction only</li>
-<li>Accept volatility</li>
+<li>Accept being publicly wrong sometimes</li>
 
 </ul>
 <p>** Expected Outcomes:**</p>
 <ul>
-<li>**High returns possible (2-3x)**</li>
-<li>Higher failure rate</li>
+<li>**Higher failure rate**</li>
 <li>Rapid learning</li>
 <li>Emotional swings</li>
 <li>Boom or bust</li>
@@ -339,11 +335,11 @@
 <div class="arena-card">
 
 <h3>❌ Rookie Errors</h3>
-<p>**Mistake 1: Too Big Too Fast**</p>
+<p>**Mistake 1: Forecasting Everything**</p>
 <ul>
-<li>**Problem: Risking 50% on first signal**</li>
-<li>Result: Devastating if wrong</li>
-<li>Solution: Max 5% of bankroll</li>
+<li>**Problem: a view on every milestone on the platform**</li>
+<li>Result: a record full of guesses</li>
+<li>Solution: forecast only what you can judge</li>
 
 </ul>
 <p>**Mistake 2: No Research**</p>
@@ -367,22 +363,22 @@
 <li>Solution: Stay engaged</li>
 
 </ul>
-<p>**Mistake 5: Chasing Losses**</p>
+<p>**Mistake 5: Defending a Bad Call**</p>
 <ul>
-<li>**Problem: Doubling down**</li>
-<li>Result: Bigger losses</li>
-<li>Solution: Learn and move on</li>
+<li>**Problem: Doubling down when the evidence turned**</li>
+<li>Result: A worse record, and worse calibration</li>
+<li>Solution: Update, say why, move on</li>
 
 </ul>
 </div>
 
 ## Learning from Outcomes
 
-### Success Analysis
+### When Your Forecast Proves Right
 
 <div class="arena-card">
 
-<h3>✅ When You Win</h3>
+<h3>✅ When You Get It Right</h3>
 <p>** What to Document:**</p>
 <ul>
 <li>**What went right?**</li>
@@ -394,7 +390,6 @@
 </ul>
 <p>** Actions to Take:**</p>
 <ul>
-<li>**Claim rewards promptly**</li>
 <li>Thank the team</li>
 <li>Share insights</li>
 <li>Help newcomers</li>
@@ -404,7 +399,7 @@
 <p>** Mindset Check:**</p>
 <ul>
 <li>**Don't get overconfident**</li>
-<li>Success ≠ skill (yet)</li>
+<li>A right call ≠ skill (yet)</li>
 <li>Stay disciplined</li>
 <li>Keep learning</li>
 <li>Maintain process</li>
@@ -416,7 +411,7 @@
 
 <div class="arena-card">
 
-<h3>❌ When You Lose</h3>
+<h3>❌ When You Get It Wrong</h3>
 <p>** What to Document:**</p>
 <ul>
 <li>**What went wrong?**</li>
@@ -428,7 +423,7 @@
 </ul>
 <p>** Actions to Take:**</p>
 <ul>
-<li>**Accept the loss**</li>
+<li>**Own the call publicly**</li>
 <li>Analyze objectively</li>
 <li>Seek feedback</li>
 <li>Adjust process</li>
@@ -437,10 +432,10 @@
 </ul>
 <p>** Mindset Check:**</p>
 <ul>
-<li>**Losses are tuition**</li>
-<li>Everyone fails sometimes</li>
+<li>**A wrong call is how calibration improves**</li>
+<li>Everyone is wrong sometimes</li>
 <li>Focus on learning</li>
-<li>Don't revenge trade</li>
+<li>Don't rush the next call to make up for it</li>
 <li>Stay positive</li>
 
 </ul>
@@ -460,20 +455,19 @@
 <li><strong>Venture:</strong> Name of the project</li>
 <li><strong>Phase:</strong> Current phase of the venture</li>
 <li><strong>Signal Type:</strong> Belief or Doubt</li>
-<li><strong>Amount:</strong> How many $SIGNAL tokens staked</li>
+<li><strong>Forecast:</strong> The probability you gave</li>
 <li><strong>Reasoning:</strong> Why you made this decision</li>
 <li><strong>Result:</strong> Success or Failure outcome</li>
-<li><strong>Return:</strong> Multiplier achieved</li>
+<li><strong>Score:</strong> How your forecast held up</li>
 <li><strong>Lessons:</strong> What you learned from this signal</li>
 </ul>
 
 <p>**Key Metrics:**</p>
 <ul>
 <li>**Total signals made**</li>
-<li>Success rate %</li>
-<li>Average return</li>
-<li>Best/worst signal</li>
-<li>Total profit/loss</li>
+<li>Forecast accuracy</li>
+<li>Calibration: stated confidence vs outcomes</li>
+<li>Best/worst call</li>
 
 </ul>
 </div>
@@ -485,20 +479,20 @@
 <div class="arena-card">
 
 <h3>🎯 Level Up Strategy</h3>
-<p>**If First Signal Succeeded:**</p>
+<p>**If your first forecast proved right:**</p>
 <ul>
 <li>**Similar venture type**</li>
-<li>Slightly larger stake</li>
+<li>Commit a little earlier next time</li>
 <li>Same research process</li>
 <li>Build on success</li>
 <li>Stay disciplined</li>
 
 </ul>
-<p>**If First Signal Failed:**</p>
+<p>**If your first forecast proved wrong:**</p>
 <ul>
 <li>**Different approach**</li>
-<li>Smaller stake</li>
-<li>More research</li>
+<li>Hedge less, research more</li>
+<li>Re-read what you got wrong</li>
 <li>Seek mentorship</li>
 <li>Focus on learning</li>
 
@@ -562,8 +556,8 @@
 <ul>
 <li>**Make 2-3 signals**</li>
 <li>Different ventures</li>
-<li>Mix belief/doubt</li>
-<li>Small stakes only</li>
+<li>Mix support and doubt</li>
+<li>Add a forecast to each</li>
 
 </ul>
 <p>** Learning:**</p>
@@ -598,9 +592,9 @@
 
 After your first signals:
 
-1. [Token Management](token-management.md) - Optimize your bankroll
-2. [Evaluating Ventures](evaluating-ventures.md) - Deepen analysis
-3. [Portfolio Management](portfolio-management.md) - Scale systematically
+1. [Evaluating Ventures](evaluating-ventures.md) - Deepen analysis
+2. [Reading Signals](reading-signals.md) - Interpret the community
+3. [Building Reputation](reputation-building.md) - Play the long game
 
 ---
 
@@ -608,4 +602,4 @@ After your first signals:
     Your first signal is about learning, not earning. Focus on the process, not the outcome. Every expert Echo started exactly where you are now.
 
 !!! success "You're Ready!"
-    You have everything needed to make your first signal. Start small, stay curious, and remember: the journey of a thousand signals begins with a single stake.
+    You have everything needed to make your first signal. It costs nothing. Start narrow, stay curious, and remember: the journey of a thousand signals begins with one honest call.

@@ -147,24 +147,17 @@ Influence as an Anchor directly correlates with your ability to guide ventures s
 
 ### Direct Rewards
 
-- Validation fees (2-5% of milestones)
-- Success bonuses
-- Graduation incentives
-- Performance multipliers
+- Real rewards released by the Arena on verified success
+- Bounties you claim and deliver
+- Mentorship and advisory work, arranged directly
+- Rates and proportions are not yet set - see [Compensation](compensation.md)
 
 ### Indirect Benefits
 
 - Advisory positions
-- Investment opportunities
+- Board positions
 - Speaking engagements
 - Consulting contracts
-
-### Long-term Value
-
-- Equity participation
-- Carry in funds
-- Board positions
-- Exit participation
 
 ## Tools & Resources
 
@@ -219,14 +212,12 @@ Influence as an Anchor directly correlates with your ability to guide ventures s
 - **Specialization**: AI/ML ventures
 - **Influence Score**: 89
 - **Success Rate**: 78%
-- **Annual Earnings**: $500K+
 
 ### Business Anchor
 
 - **Specialization**: B2B SaaS
 - **Influence Score**: 92
 - **Success Rate**: 82%
-- **Annual Earnings**: $750K+
 
 ## Growth Tactics
 

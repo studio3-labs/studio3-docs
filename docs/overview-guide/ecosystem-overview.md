@@ -17,16 +17,19 @@ At the heart of Studio3 lies the Arena - public spaces where ventures prove them
     - **Milestone Arenas**: Public execution venues
     - **Validation Arenas**: Where progress is verified
 
-### 📡 The Signal Economy
+### 📡 Signals and Forecasts
 
-The $SIGNAL token creates a unique economy of belief:
+Studio3 has no native token. The community weighs in for free, in two distinct ways: a **Signal**
+says what a venture should do, and a **Forecast** says what will actually happen.
 
 ```mermaid
 graph LR
-    A[Echoes] -->|Signal Belief| B[Ventures]
-    B -->|Deliver Results| C[Validation]
-    C -->|Distribute Rewards| A
-    B -->|Fail Milestones| D[Token Burn]
+    A[Echoes] -->|Free Signals| B[Ventures]
+    A -->|Free Forecasts| C[Verification]
+    B -->|Deliver Results| C
+    C -->|Achieved: reward released by the Arena| B
+    C -->|Not achieved: recorded as failed, reward not released| B
+    C -->|Accuracy recorded| A
 ```
 
 ### 🏗️ The Three Pillars
@@ -38,7 +41,7 @@ graph LR
     </div>
     <div class="card">
         <h4>2. Community Validation</h4>
-        <p>The crowd decides what succeeds through belief signals and anchor verification.</p>
+        <p>The community tells ventures what it wants through free Signals, and Studio3 staff - later Anchors - verify what was actually delivered.</p>
     </div>
     <div class="card">
         <h4>3. Aligned Incentives</h4>
@@ -52,9 +55,9 @@ graph LR
 
 | Role | Function | Rewards |
 |------|----------|----------|
-| **Senders** (Founders) | Build ventures through public milestones | Ownership & funding |
-|**Echoes** (Supporters) | Signal belief or doubt in ventures | Token multipliers |
-|**Anchors** (Validators) | Verify progress and guide ventures | Validation fees |
+| **Senders** (Founders) | Build ventures through public milestones | Ownership, funding, and Arena rewards |
+|**Echoes** (Supporters) | Signal preferences and forecast outcomes, for free | USDC and non-cash rewards, plus an accuracy record |
+|**Anchors** (Validators) | Verify progress and guide ventures | Rewards from the Arena |
 
 ### Supporting Infrastructure
 
@@ -63,19 +66,19 @@ graph LR
 - **Genesis Wallets**:
   Multisig treasuries holding venture NFTs
 - **Signal Pools**:
-  Aggregated belief/doubt for each milestone
+  Aggregated support and doubt for each milestone
 - **Reputation System**:
-  XP tracking for all participants
+  Progression titles earned from verified outcomes, forecast accuracy, and delivered bounties
 
 ## Value Flows
 
 ### During Active Phases
 
-1. **Echoes** stake $SIGNAL tokens on venture milestones
+1. **Echoes** signal and forecast on venture milestones, for free
 2. **Senders** work publicly to achieve declared goals
-3. **Anchors** validate completion and quality
-4. **Rewards** flow to accurate predictors
-5. **Penalties** burn tokens from wrong predictions
+3. **Studio3 staff** verify completion and quality, with **Anchors** taking this over later
+4. **Rewards** held by the Arena are released on success
+5. **Failures** are recorded permanently and publicly
 
 ### At Graduation
 
@@ -118,9 +121,9 @@ The source of all Spark NFTs through IP remixing:
 ### Defensive Moats
 
 - **Reputation persistence**:
-  XP can't be gamed or transferred
-- **Skin in the game**:
-  Real token stakes prevent spam
+  Titles come from verified outcomes and cannot be transferred or bought
+- **Verified outcomes**:
+  Rewards are only released against checked evidence
 - **Public execution**:
   Transparency deters bad actors
 - **Community memory**:
@@ -135,7 +138,7 @@ The source of all Spark NFTs through IP remixing:
 | Active Ventures | 50-500 | <10 or >1000 |
 | Echo Participation | >60% | <30% |
 | Milestone Success Rate | 40-70% | <20% or >90% |
-| Token Velocity | Moderate | Too high/low |
+| Forecast Calibration | Close to outcomes | Persistently over- or under-confident |
 
 ### Growth Indicators
 
@@ -151,15 +154,14 @@ The source of all Spark NFTs through IP remixing:
 
 !!! tip "Coming Soon"
 
-    - **Conditional Signals**: "I believe IF..."
-    - **Cross-Venture Strategies**: Portfolio approaches
+    - **Conditional Signals**: "I think we should, if..."
     - **Recursive Studios**: Graduates launching sub-platforms
     - **Global Anchor Network**: Specialized validation
 
 ### Ecosystem Sustainability
 
-1. **Token Economics**: Controlled supply with strategic burns
-2. **Quality Gates**: Anchor standards prevent degradation
+1. **Real Rewards**: USDC and non-cash items committed to an Arena before work begins
+2. **Quality Gates**: Verification standards prevent degradation
 3. **Incentive Alignment**: Long-term thinking rewarded
 4. **Community Governance**: Gradual decentralization
 
@@ -169,14 +171,14 @@ The source of all Spark NFTs through IP remixing:
 
 - **Discord Community**: Real-time discussions and support
 - **Arena Dashboard**: Track all active ventures
-- **Signal Analytics**: Market intelligence tools
+- **Signal Analytics**: Community sentiment and forecast tools
 - **Anchor Network**: Find mentors and validators
 
 ### First Steps
 
 1. **Observe** active Arenas to understand dynamics
 2. **Connect** with community members in your interest areas
-3. **Practice** with small signals before major commitments
+3. **Practice** by signalling and forecasting - both are free
 4. **Learn** from successful ventures and their journeys
 
 ## Key Takeaways
@@ -191,5 +193,5 @@ The source of all Spark NFTs through IP remixing:
 
 - Explore [Key Principles](key-principles.md) that govern the ecosystem
 - Understand [The Arena System](arena-system.md) in detail
-- Learn about [Belief & Doubt Signals](belief-signals.md)
+- Learn about [Signals & Forecasts](belief-signals.md)
 - Discover your role in [Three Roles Overview](roles-overview.md)
