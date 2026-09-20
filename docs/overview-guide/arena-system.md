@@ -88,7 +88,7 @@ sequenceDiagram
     participant V as Validators
     participant C as Contributors
 
-    F->>A: Declare milestone + set reward split
+    F->>A: Declare milestone + propose reward split
     A->>E: Open for signals
     E->>A: Signal and forecast, both free
     F->>A: Work publicly
@@ -108,7 +108,7 @@ sequenceDiagram
 
 | Component | Function | Participants |
 |-----------|----------|-------------|
-| **Declaration** | Public commitment to goals + reward split | Founders |
+| **Declaration** | Public commitment to goals + proposed reward split | Founders |
 | **Signalling** | Free support or doubt, plus free forecasts | Echoes |
 | **Execution** | Transparent work toward goals | Founders |
 | **Validation** | Independent verification of results | Studio3 staff, later Anchors |

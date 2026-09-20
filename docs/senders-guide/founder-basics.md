@@ -179,7 +179,7 @@ Senders are the entrepreneurs who:
 - **Flare Phase**: Scale capital, including traditional investors
 - **Ascension**: Buyback funds (Variable)
 
-### How Funding Actually Works
+### How Arena Rewards Are Held and Released
 
 <div class="arena-card">
 

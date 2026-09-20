@@ -47,7 +47,7 @@
 <p><strong>If you have:</strong></p>
 <ul>
 <li>Analysis skills</li>
-<li>Risk appetite</li>
+<li>Willingness to be wrong in public</li>
 <li>Market intuition</li>
 </ul>
 <p>You'll need:</p>

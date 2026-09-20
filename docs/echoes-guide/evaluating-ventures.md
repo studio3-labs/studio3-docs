@@ -368,7 +368,7 @@
 
 <p><strong>Current Signals:</strong></p>
 <ul>
-<li><strong>Support/Doubt ratio</strong></li>
+<li><strong>Belief/Doubt ratio</strong></li>
 <li>Signal velocity</li>
 <li>Community forecast level and direction</li>
 <li>Echo quality</li>

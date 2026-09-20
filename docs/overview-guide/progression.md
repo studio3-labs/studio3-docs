@@ -91,9 +91,6 @@ All phase transitions require:
 <li>Claim Signal NFT</li>
 
 
-<li>Win the Forge duel</li>
-
-
 <li>Present winning vision</li>
 
 
