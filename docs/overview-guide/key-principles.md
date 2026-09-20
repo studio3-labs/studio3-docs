@@ -271,6 +271,6 @@ These principles evolve through:
 1. **Understand** how principles guide decisions2. **Observe** them in action in the Arena3. **Practice** applying them to your role4. **Share** experiences with the community## Related Reading
 
 - Dive into [The Arena System](arena-system.md) to see principles in practice
-- Explore [Belief & Doubt Signals](belief-signals.md) for conviction mechanics
+- Explore [Signals & Forecasts](belief-signals.md) for conviction mechanics
 - Learn about [Three-NFT System](nft-system.md) for ownership principles
 - Understand [Seven Phase Lifecycle](seven-phases.md) for progression principles
