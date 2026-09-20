@@ -13,12 +13,12 @@ graph TB
     subgraph "Venture Lifecycle"
         S[Sender] -->|Creates| V[Venture]
         V -->|Attracts| E[Echoes]
-        E -->|Signal| B[Belief/Doubt]
+        E -->|Free Signal| B[Belief/Doubt]
         B -->|Guides| S
         S -->|Executes| M[Milestones]
         M -->|Reviewed by| A[Anchors]
         A -->|Validates| R[Results]
-        R -->|Rewards| E
+        R -->|Accuracy recorded| E
         R -->|Empowers| S
     end
     

@@ -86,10 +86,10 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
 ```mermaid
 graph TD
     S[Senders] -->|Declare Milestones| A[Arena]
-    E[Echoes] -->|Signal Belief/Doubt| A
+    E[Echoes] -->|Free Signals and Forecasts| A
     A -->|Request Validation| An[Anchors]
     An -->|Verify Progress| A
-    A -->|Distribute Rewards| E
+    A -->|Accuracy recorded| E
     A -->|Provide Resources| S
     S -->|Deliver Results| A
     

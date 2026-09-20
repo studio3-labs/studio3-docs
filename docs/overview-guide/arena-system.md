@@ -143,7 +143,7 @@ contributed, contributors can dispute that proposal, and an Anchor arbitrates.</
     2. **All milestones are binding** - Once declared, must be attempted
     3. **All signals are public and permanently recorded** - Change one while the window is open; the history is kept
     4. **All validations are independent** - No founder influence
-    5. **All settlements are automatic** - No manual overrides
+    5. **All settlements follow the verified outcome** - The reward is released only on verified success, and a disputed split is arbitrated by an Anchor
 
 #### Spark Arena Rules
 

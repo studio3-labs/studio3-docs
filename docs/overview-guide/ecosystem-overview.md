@@ -27,7 +27,8 @@ graph LR
     A[Echoes] -->|Free Signals| B[Ventures]
     A -->|Free Forecasts| C[Verification]
     B -->|Deliver Results| C
-    C -->|Rewards released by the Arena| B
+    C -->|Achieved: reward released by the Arena| B
+    C -->|Not achieved: recorded as failed, reward not released| B
     C -->|Accuracy recorded| A
 ```
 
