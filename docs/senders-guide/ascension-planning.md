@@ -111,7 +111,7 @@ Buyback Price = Base Value × Performance Multiple × Market Factor
 ### Community Impact
 
 - Echo reputation gains
-- Anchor success fees
+- Anchor rewards released by the Arena
 - Ecosystem growth
 
 ## Case Studies

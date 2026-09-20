@@ -272,7 +272,7 @@ Echoes are participants who:
 
 ## Rewards
 
-### How Rewards Reach an Echo
+### Where Rewards Come From
 
 <div class="arena-card">
 
@@ -283,6 +283,8 @@ Echoes are participants who:
 <li>Specific work, posted with a reward attached</li>
 
 <li>Claim it, deliver it, get it verified</li>
+
+<li>Content creation, where a bounty has been posted for it</li>
 
 <li>Paid in USDC or non-cash items</li>
 
@@ -295,20 +297,11 @@ Echoes are participants who:
 
 <li>For contribution or being there</li>
 
-<li>Priority access</li>
+<li>Priority access, invitations and event tickets</li>
 
 </ul>
-<p>3. <strong>Community Rewards</strong></p>
-<ul>
-<li>Referral bonuses</li>
+<p>Referrals and mentorship bring recognition rather than a reward of their own.</p>
 
-<li>Content creation</li>
-
-<li>Mentorship programs</li>
-
-<li>Special events</li>
-
-</ul>
 </div>
 
 ### How a Reward Reaches You
