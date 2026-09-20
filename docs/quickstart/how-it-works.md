@@ -226,7 +226,7 @@ Every venture progresses through seven phases:
 
 <h3>The Magic Formula</h3>
 
-<p><strong>Transparency</strong> + <strong>Skin in the Game</strong> + <strong>Community Wisdom</strong> = <strong>Better Outcomes</strong></p>
+<p><strong>Transparency</strong> + <strong>A Public Record</strong> + <strong>Community Wisdom</strong> = <strong>Better Outcomes</strong></p>
 <ul>
 <li><strong>Public pressure creates accountability</strong></li>
 <li>A permanent public record ensures serious participation</li>
