@@ -57,8 +57,7 @@
 <p>**Key Differentiators:**</p>
 
 <ul>
-<li>Real skin in the game</li>
-<li>Public reputation at stake</li>
+<li>Public reputation on the record</li>
 <li>Direct impact on outcomes</li>
 <li>Community accountability</li>
 <li>Measurable contribution</li>

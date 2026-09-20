@@ -317,15 +317,6 @@
 <li>Growth in the value of what the Genesis Wallet holds</li>
 
 </ul>
-<p>**Revenue Allocation:**</p>
-
-<ul>
-<li>40% - Operations</li>
-<li>30% - Growth initiatives</li>
-<li>20% - Treasury reserve</li>
-<li>10% - Community rewards</li>
-
-</ul>
 </div>
 
 ## Community Engagement

@@ -111,12 +111,6 @@ Graduation from Studio3 marks the beginning of true sovereignty. Alumni ventures
 **Year 1 Post**: 25-50 team members
 **Year 2 Post**: 100+ team members
 
-### Valuation Growth
-
-**Buyback Price**: $5-10M typical
-**Year 1 Post**: $25-50M
-**Year 2 Post**: $100M+
-
 ## Common Challenges
 
 ### 1. Operational Gaps
@@ -200,8 +194,6 @@ Graduation from Studio3 marks the beginning of true sovereignty. Alumni ventures
 
 - **Graduation**: 2022
 - **Acquisition**: $1.2B (2024)
-- **Original Buyback**: $8M
-- **Return Multiple**: 150x
 
 ## Resources
 
