@@ -542,7 +542,6 @@ Currently available in:
 
 - **Flambette Marketplace** - IP-NFT source
 - **MindfulTech Institute** - Founder network
-- **Polymarket** - optional external prediction markets, where available
 - **Media Partners** - Coverage and PR
 
 ### Integration Tools

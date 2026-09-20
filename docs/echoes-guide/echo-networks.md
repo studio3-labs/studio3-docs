@@ -286,11 +286,11 @@
 <p>3. **Balanced Coverage**</p>
 
 <ul>
-<li>Deliberately covering both sides of a question</li>
+<li>Questions spread across ventures and phases</li>
 
 <li>Independent forecasts, shared research</li>
 
-<li>Balanced coverage</li>
+<li>Each member states their own honest probability</li>
 
 <li>Steady calibration</li>
 

@@ -297,8 +297,6 @@ Echoes are participants who:
 
 <li>Priority access</li>
 
-<li>Governance rights</li>
-
 </ul>
 <p>3. <strong>Community Rewards</strong></p>
 <ul>

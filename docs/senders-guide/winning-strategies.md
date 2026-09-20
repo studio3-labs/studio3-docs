@@ -21,10 +21,10 @@ Winning The Forge requires more than a good idea - it demands superior strategy,
 **Echoes Vote Based On:**
 
 1. **Achievability** (40%)
-   - Milestone achievability
-   - Market opportunity
+   - Realistic scope
+   - Credible timeline
    - Execution capability
-   - Exit possibilities
+   - Evidence of progress so far
 
 2. **Founder Quality** (30%)
    - Track record
