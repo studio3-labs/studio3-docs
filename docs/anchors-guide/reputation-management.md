@@ -546,7 +546,7 @@ arranged directly rather than through the platform.</p>
 <p>**Premium Opportunities:**</p>
 
 <ul>
-<li>High-stakes validations</li>
+<li>High-consequence validations</li>
 <li>Crisis interventions</li>
 <li>Strategic advisory</li>
 <li>Board positions</li>

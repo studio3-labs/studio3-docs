@@ -602,7 +602,7 @@
 <ul>
 <li>Complex cases</li>
 <li>Edge situations</li>
-<li>High-stakes decisions</li>
+<li>High-consequence decisions</li>
 <li>Learning opportunities</li>
 <li>Calibration needs</li>
 

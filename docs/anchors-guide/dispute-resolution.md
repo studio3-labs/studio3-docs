@@ -6,7 +6,7 @@
 
 <h3>⚖️ The Anchor as Mediator</h3>
 
-<p>Disputes are inevitable in high-stakes venture building. As an Anchor, you'll need to resolve conflicts between founders and stakeholders, handle validation challenges, and navigate complex disagreements. This guide equips you with frameworks and strategies for effective dispute resolution.</p>
+<p>Disputes are inevitable in high-pressure venture building. As an Anchor, you'll need to resolve conflicts between founders and stakeholders, handle validation challenges, and navigate complex disagreements. This guide equips you with frameworks and strategies for effective dispute resolution.</p>
 
 </div>
 

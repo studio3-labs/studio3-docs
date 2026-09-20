@@ -4,7 +4,7 @@
 
 <div class="arena-card">
 
-<h3>🚨 When Stakes Are Highest</h3>
+<h3>🚨 When It Matters Most</h3>
 
 <p>Crisis management is where Anchors prove their true value. When ventures face existential threats, your experience, calm leadership, and strategic thinking can mean the difference between failure and recovery. This guide prepares you for the toughest moments.</p>
 
@@ -468,7 +468,7 @@
 <li>Cool-down period</li>
 <li>Individual sessions</li>
 <li>Issue identification</li>
-<li>Stakes clarification</li>
+<li>Consequence clarification</li>
 
 </ul>
 <p>2. **Mediated Discussion**</p>

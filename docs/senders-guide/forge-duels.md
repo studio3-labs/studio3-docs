@@ -37,7 +37,7 @@
 
 <div class="arena-card">
 
-<h3>🎯 The Stakes</h3>
+<h3>🎯 What a Duel Decides</h3>
 
 <p>**Winner Receives:**</p>
 
@@ -89,7 +89,7 @@
 <ul>
 <li>Failed ventures only</li>
 <li>Proven founders get priority</li>
-<li>Higher stakes, and a harder audience</li>
+<li>A harder audience</li>
 <li>Redemption opportunity</li>
 
 </ul>
