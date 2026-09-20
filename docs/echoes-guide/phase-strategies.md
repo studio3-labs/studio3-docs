@@ -18,15 +18,15 @@
 
 <h3>📈 How Hard the Call Is, by Phase</h3>
 
-| Phase | Uncertainty | Credit for a Good Call | Typical Success Rate | Typical Duration |
-|-------|-------------|------------------------|----------------------|------------------|
-| ✨ Spark | Very High | Highest | 55-60% | 7-14 days |
-| ⚔️ Forge | High | High | 60-65% | 14-21 days |
-| 🚀 Ignition | High-Med | High | 65-70% | 30-60 days |
-| 🌊 Drift | Medium | Medium | 70-75% | 60-90 days |
-| 🛸 Orbit | Low-Med | Low-Med | 75-80% | 90-120 days |
-| 🔥 Flare | Low | Low | 80-85% | 120-180 days |
-| 🎖️ Ascension | Very Low | Very Low | 85-90% | 180+ days |
+| Phase | Uncertainty | Typical Success Rate | Typical Duration |
+|-------|-------------|----------------------|------------------|
+| ✨ Spark | Very High | 55-60% | 7-14 days |
+| ⚔️ Forge | High | 60-65% | 14-21 days |
+| 🚀 Ignition | High-Med | 65-70% | 30-60 days |
+| 🌊 Drift | Medium | 70-75% | 60-90 days |
+| 🛸 Orbit | Low-Med | 75-80% | 90-120 days |
+| 🔥 Flare | Low | 80-85% | 120-180 days |
+| 🎖️ Ascension | Very Low | 85-90% | 180+ days |
 
 </div>
 

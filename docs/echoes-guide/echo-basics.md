@@ -138,8 +138,6 @@ Echoes are participants who:
 <ul>
 <li>Milestone validated</li>
 
-<li>Rewards distributed</li>
-
 <li>Reputation updated</li>
 
 <li>Lessons learned</li>

@@ -86,15 +86,21 @@ sequenceDiagram
     participant A as Arena
     participant E as Echoes
     participant V as Validators
-    
+    participant C as Contributors
+
     F->>A: Declare milestone + set reward split
     A->>E: Open for signals
-    E->>A: Place belief/doubt
+    E->>A: Signal and forecast, both free
     F->>A: Work publicly
     F->>A: Submit evidence
     A->>V: Request validation
-    V->>A: Verify completion
-    A->>E: Distribute rewards per split
+    alt Verified as achieved
+        V->>A: Confirm completion
+        A->>C: Release reward to contributors
+    else Not delivered
+        V->>A: Record as failed
+        A->>E: Outcome recorded publicly, reward not released
+    end
 ```
 
 ### Core Components
@@ -135,7 +141,7 @@ contributed, contributors can dispute that proposal, and an Anchor arbitrates.</
 !!! warning "Non-Negotiable Rules"
     1. **All work must be public** - No private development
     2. **All milestones are binding** - Once declared, must be attempted
-    3. **All signals are final** - No takebacks after placing
+    3. **All signals are public and permanently recorded** - Change one while the window is open; the history is kept
     4. **All validations are independent** - No founder influence
     5. **All settlements are automatic** - No manual overrides
 
