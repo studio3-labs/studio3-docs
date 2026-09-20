@@ -51,8 +51,8 @@ met.
 
 ### Drops
 
-A **Drop** is a reward granted to participants around a venture - recognising contribution,
-early support, or presence at a moment that mattered. Drops can be USDC or non-cash items.
+A **Drop** is a reward granted to participants around a venture - recognising contribution or
+presence at a moment that mattered. Drops can be USDC or non-cash items.
 
 ### Bounties
 

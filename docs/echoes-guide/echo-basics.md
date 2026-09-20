@@ -293,7 +293,7 @@ Echoes are participants who:
 <ul>
 <li>Rewards granted around a venture</li>
 
-<li>For contribution, early support, or being there</li>
+<li>For contribution or being there</li>
 
 <li>Priority access</li>
 

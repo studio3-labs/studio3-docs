@@ -158,8 +158,6 @@ graph LR
     For Echoes:
 - **Wrong forecasts are recorded permanently against your accuracy**
 - Herd following shows up as poor calibration
-
-- Reputation reflects recent, verified activity
     
     For Anchors:
 - **Poor validations reduce future assignments**

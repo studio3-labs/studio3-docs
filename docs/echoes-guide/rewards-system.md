@@ -89,8 +89,8 @@ it changes is how seriously people read your reasoning, and what the platform tr
 **Bounties.** A specific piece of work posted with a reward attached. You claim it, deliver it,
 the delivery is verified, and the reward is released. Delivered bounties count towards your title.
 
-**Drops.** Rewards granted to participants around a venture, recognising contribution, early
-support, or presence at a moment that mattered.
+**Drops.** Rewards granted to participants around a venture, recognising contribution or presence
+at a moment that mattered.
 
 In both cases the reward is held by the **Arena** and released on verified success. Where several
 people contributed, the Sender proposes how it is divided, contributors can dispute that, and an

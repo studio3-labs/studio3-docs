@@ -96,10 +96,11 @@ sequenceDiagram
     A->>V: Request validation
     alt Verified as achieved
         V->>A: Confirm completion
+        A->>E: Outcome recorded publicly, forecasts scored
         A->>C: Release reward to contributors
     else Not delivered
         V->>A: Record as failed
-        A->>E: Outcome recorded publicly, reward not released
+        A->>E: Outcome recorded publicly, forecasts scored, reward not released
     end
 ```
 
