@@ -156,6 +156,10 @@ To manually deploy:
 mkdocs gh-deploy
 ```
 
+### Vercel
+
+This site is published solely through GitHub Pages. The Vercel Git integration is switched off in `vercel.json` so it no longer attempts (and fails) a deployment on every commit and pull request.
+
 ## 🤝 Contributing
 
 We welcome contributions to improve the documentation! Please:
