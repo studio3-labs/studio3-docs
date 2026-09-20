@@ -30,8 +30,7 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 - Real operating runway for the work itself
 - The ability to fund, or attract funding for, the rewards your Arena will hold
 - Time to answer the community in public
-- Team incentive pool
-- Community rewards
+
 </div>
 
 ### Additional Costs

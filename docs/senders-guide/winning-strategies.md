@@ -271,7 +271,7 @@ Winning The Forge requires more than a good idea - it demands superior strategy,
 
 - **Early Supporters**: Your evangelists
 - **Domain Experts**: Credibility lenders
-- **Future Team**: Skin in the game
+- **Future Team**: Committed to the build
 - **Partner Ventures**: Ecosystem support
 - **Anchor Interest**: Validation preview
 

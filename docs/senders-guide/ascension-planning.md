@@ -42,11 +42,6 @@ Ascension is the final phase where ventures achieve full sovereignty by buying b
 2. **Signal NFT**: Valued on the venture's verified track record
 3. **Halo NFT**: Unlocks upon complete buyback
 
-### Pricing Formula
-```
-Buyback Price = Base Value × Performance Multiple × Market Factor
-```
-
 ### Payment Options
 
 - Direct purchase (preferred)
@@ -113,22 +108,6 @@ Buyback Price = Base Value × Performance Multiple × Market Factor
 - Echo reputation gains
 - Anchor rewards released by the Arena
 - Ecosystem growth
-
-## Case Studies
-
-### DeFi Success
-
-- **Entry**: $100K Spark value
-- **Exit**: $10M buyback price
-- **Multiple**: 100x return
-- **Duration**: 24 months
-
-### AI Platform
-
-- **Entry**: $50K Spark value
-- **Exit**: $5M buyback price
-- **Multiple**: 100x return
-- **Duration**: 18 months
 
 ## Common Concerns
 
