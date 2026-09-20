@@ -586,8 +586,8 @@
 Master signal analysis with:
 
 1. [Due Diligence](due-diligence.md) - Deep research methods
-2. [Belief Strategies](belief-strategies.md) - When to believe
-3. [Doubt Strategies](doubt-strategies.md) - Strategic skepticism
+2. [Signalling Support](belief-strategies.md) - When to believe
+3. [Signalling Doubt](doubt-strategies.md) - Strategic skepticism
 
 ---
 

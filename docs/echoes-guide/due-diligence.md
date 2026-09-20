@@ -645,8 +645,8 @@
 
 Continue with:
 
-1. [Belief Strategies](belief-strategies.md) - When to back a venture
-2. [Doubt Strategies](doubt-strategies.md) - When to raise doubt
+1. [Signalling Support](belief-strategies.md) - When to back a venture
+2. [Signalling Doubt](doubt-strategies.md) - When to raise doubt
 3. [Reading Signals](reading-signals.md) - Interpreting the community
 
 ---
