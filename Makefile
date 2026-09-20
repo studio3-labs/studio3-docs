@@ -1,4 +1,4 @@
-.PHONY: lint lint-tokens lint-strict lint-fix build build-strict serve clean install validate help format format-check pdfs
+.PHONY: lint lint-tokens lint-strict build build-strict serve clean install validate help pdfs
 
 # Default target
 help:
@@ -7,9 +7,6 @@ help:
 	@echo "  lint-tokens - Run the dead-token guard (\$$SIGNAL / \$$STUDIO) only"
 	@echo "  lint-strict - Run MkDocs strict build validation"
 	@echo "  validate    - Run every validation check"
-	@echo "  lint-fix    - Auto-fix formatting with Prettier"
-	@echo "  format      - Format markdown files with Prettier"
-	@echo "  format-check- Check markdown formatting without changes"
 	@echo "  build       - Build the documentation with PDFs"
 	@echo "  build-strict- Build with strict validation"
 	@echo "  pdfs        - Generate PDF guides"
@@ -36,9 +33,12 @@ lint-strict:
 validate: lint-strict lint-tokens lint
 	@echo "✅ All validation checks completed"
 
-# Fix what can be fixed automatically
-lint-fix: format
-	@echo "🔧 Prettier has fixed formatting. Remaining linter errors are manual fixes."
+# There is no auto-formatter for docs/, and there must not be one. Prettier
+# does not understand MkDocs admonitions - it strips the four-space indentation
+# from an admonition body and reflows it onto the "!!!" line, which breaks the
+# published pages - so docs/ is in .prettierignore and the former `format`,
+# `format-check` and `lint-fix` targets are gone. `make lint` reports what needs
+# fixing; fix it by hand. See LINTING.md.
 
 # Generate PDF guides
 pdfs:
@@ -66,18 +66,6 @@ clean:
 	@rm -rf site/
 	@rm -f lint_output.txt
 	@rm -f docs/pdf/*.pdf
-
-# Format markdown files with Prettier
-format:
-	@echo "💅 Formatting markdown files with Prettier..."
-	@npm install --silent
-	@npm run format
-
-# Check markdown formatting without changes
-format-check:
-	@echo "🔍 Checking markdown formatting..."
-	@npm install --silent
-	@npm run lint:prettier
 
 # Install dependencies
 install:

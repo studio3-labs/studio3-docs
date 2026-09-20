@@ -115,6 +115,11 @@ MkDocs + Material Theme
 - Include **emoji indicators** for visual navigation
 - Maintain **conversational but authoritative** tone
 
+**Never run Prettier over `docs/`.** It does not understand MkDocs admonitions and reflows the
+four-space body onto the `!!!` line, which breaks published pages. `docs/` is in
+`.prettierignore`, no check or hook runs Prettier on it, and there is no auto-formatter for the
+documentation - `lint_markdown_ultra.py` reports, you fix by hand. See `LINTING.md`.
+
 ## Project Structure
 
 ```

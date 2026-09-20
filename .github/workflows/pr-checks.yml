@@ -68,11 +68,20 @@ jobs:
       - name: Check every file in docs/ for $SIGNAL and $STUDIO
         run: python3 lint_markdown_ultra.py --token-guard docs
 
-  # 3. Markdown lint and Prettier, on the files this pull request changes only.
+  # 3. Markdown lint and format checking, on the files this pull request changes
+  #    only. The job keeps its name so existing required-check configuration
+  #    still matches; lint_markdown_ultra.py checks formatting as well as lint.
   #    Deliberate: gating all of docs/ would fail every pull request on 60 lint
-  #    errors and 77 Prettier failures nobody here introduced, while running
-  #    them in a mode that cannot fail would mean nothing. Changed files only
-  #    gates new work honestly and leaves the existing debt visible.
+  #    errors nobody here introduced, while running the linter in a mode that
+  #    cannot fail would mean nothing. Changed files only gates new work
+  #    honestly and leaves the existing debt visible.
+  #
+  #    Prettier is NOT run here, and must not be added back. It does not
+  #    understand MkDocs admonitions: it strips the four-space indentation from
+  #    an admonition body and reflows it onto the "!!!" line, which breaks the
+  #    published pages (the Flare Playbook in docs/overview-guide/seven-phases.md
+  #    stops rendering as a list). docs/ is in .prettierignore for that reason,
+  #    so lint_markdown_ultra.py is the format and lint gate here. See LINTING.md.
   changed-files:
     name: Lint and format changed docs
     runs-on: ubuntu-latest
@@ -86,12 +95,6 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '18'
-          cache: 'npm'
 
       - name: List changed markdown files under docs/
         id: changed
@@ -111,14 +114,6 @@ jobs:
           echo "Changed markdown files under docs/:"
           cat changed.txt
           echo "count=$(wc -l < changed.txt | tr -d " ")" >> "$GITHUB_OUTPUT"
-
-      - name: Install Prettier
-        if: steps.changed.outputs.count != '0'
-        run: npm ci || npm install
-
-      - name: Prettier check (changed files)
-        if: steps.changed.outputs.count != '0'
-        run: xargs -a changed.txt -d '\n' -r npx prettier --check --
 
       - name: Markdown lint (changed files)
         if: steps.changed.outputs.count != '0'
