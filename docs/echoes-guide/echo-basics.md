@@ -562,4 +562,4 @@ Ready to dive deeper? Continue with:
     The best Echoes treat signalling like a craft. Master the fundamentals, develop your style, and remember: a well-calibrated record beats a loud one.
 
 !!! info "Remember"
-    Your signals don't just affect your wallet - they shape which ventures succeed and which fail. Signal responsibly.
+    Your signals shape which ventures succeed and which fail. Signal responsibly.

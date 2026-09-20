@@ -188,7 +188,7 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 - Freelance platforms
 **Incentive Structures:**
 
-- Equity allocations (5-15%)
+- Equity allocations
 - Milestone bonuses
 - Revenue sharing
 - Reputation rewards
