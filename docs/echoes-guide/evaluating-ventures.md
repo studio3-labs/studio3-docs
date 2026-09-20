@@ -630,7 +630,7 @@
 
 Continue with:
 
-1. [Reading Signals](reading-signals.md) - Market intelligence
+1. [Reading Signals](reading-signals.md) - Community sentiment
 2. [Due Diligence](due-diligence.md) - Deep dive process
 3. [Phase Strategies](phase-strategies.md) - Phase-specific tactics
 

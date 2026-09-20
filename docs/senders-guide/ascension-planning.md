@@ -52,7 +52,6 @@ Buyback Price = Base Value × Performance Multiple × Market Factor
 - Direct purchase (preferred)
 - Structured payments
 - Revenue sharing
-- Equity or revenue instruments (if applicable)
 
 ## Ascension Timeline
 

@@ -363,9 +363,7 @@
 <li>2pm EST Avoid holidays</li>
 <li>Full attention</li>
 <li>**Check Arena schedule**</li>
-<li>Avoid competition Market Conditions:</li>
-<li>**Bull market = More signals**</li>
-<li>Bear market = Quality focus</li>
+<li>Avoid competing launches</li>
 <li>News cycles matter</li>
 <li>Sector momentum helps</li>
 

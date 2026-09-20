@@ -1,6 +1,6 @@
 # Reading Signals
 
-## Decoding Market Intelligence
+## Reading Community Sentiment
 
 <div class="arena-card">
 

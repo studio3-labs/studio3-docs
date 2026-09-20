@@ -536,7 +536,7 @@
 <p>1. **Limited Opportunities**</p>
 
 <ul>
-<li>Early bird bonuses</li>
+<li>Early supporter recognition</li>
 
 <li>Exclusive access tiers</li>
 <li>Time</li>
@@ -666,7 +666,6 @@
 
 <h3>Week 3: Incentives</h3>
 <ul>
-<li>Comeback bonuses</li>
 <li>Exclusive access</li>
 <li>Direct founder call</li>
 <li>Special recognition</li>

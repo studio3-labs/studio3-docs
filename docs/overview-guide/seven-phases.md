@@ -419,7 +419,7 @@ Flare Phase Target Metrics:
 
 - **Spark**: Idea doesn't gather support → NFT remains tradeable
 - **Forge**: No suitable founder emerges → Spark returns to Arena
-- **Ignition**: Can't build MVP → Dissolution, unreleased rewards returned
+- **Ignition**: Can't build MVP → Dissolution, reward not released
 - **Drift**: No product-market fit → Pivot or dissolve
 - **Orbit**: Can't sustain operations → Acquisition candidate
 - **Flare**: Growth stalls → Return to Orbit or exit

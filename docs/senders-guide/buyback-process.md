@@ -121,13 +121,6 @@ Total Buyback = Spark Value + Signal Value + Transaction Fees
 - Performance triggers
 - Audit rights
 
-### Equity or Revenue Instruments
-
-- Exchange for an instrument in the venture
-- Vesting schedule
-- Agreed valuation
-- Negotiated terms
-
 ## Legal Considerations
 
 ### Entity Structure
