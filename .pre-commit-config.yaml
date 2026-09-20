@@ -9,14 +9,22 @@ repos:
         
   - repo: local
     hooks:
-      - id: markdown-lint-strict
-        name: Strict Markdown Lint
-        entry: python lint_markdown_strict.py
-        language: python
-        files: \.md$
+      # Changed files only, matching the PR Checks workflow: the repository
+      # still carries pre-existing lint errors, and gating every commit on
+      # them would just get the hook disabled.
+      - id: markdown-lint
+        name: Markdown Lint (staged files)
+        entry: python3 lint_markdown_ultra.py
+        language: system
+        files: ^docs/.*\.md$
+
+      - id: markdown-dead-token-guard
+        name: Dead-token guard ($SIGNAL / $STUDIO)
+        entry: python3 lint_markdown_ultra.py
+        language: system
+        files: ^docs/.*\.md$
         pass_filenames: false
-        args: [docs]
-        additional_dependencies: [pyyaml]
+        args: [--token-guard, docs]
         
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.4.0

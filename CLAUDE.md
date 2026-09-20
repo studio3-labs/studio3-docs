@@ -17,10 +17,10 @@ This project creates a comprehensive 50+ page MkDocs + Material documentation si
 #### 1. Signals, Forecasts and Rewards (there is NO token)
 Studio3 has **no native token**. `$SIGNAL` was removed in September 2026 and must never be
 reintroduced. `lint_markdown_ultra.py` carries a guard that reports an error for `$SIGNAL` or
-`$STUDIO` in `docs/`, but nothing runs it: the Makefile, pre-commit hook and package.json lint
-scripts all still point at `lint_markdown_strict.py`, which does not exist, and CI runs no lint
-step. Run `python3 lint_markdown_ultra.py` by hand, with NO argument - passing `docs` makes it treat
-the directory as a single file, check zero documentation files and never evaluate the guard.
+`$STUDIO` in `docs/`, and that guard now runs on every pull request
+(`.github/workflows/pr-checks.yml`), from the Makefile, and from the pre-commit hooks. Run it
+yourself with `make lint-tokens`, or `python3 lint_markdown_ultra.py --token-guard docs`. The full
+linter is `make lint`; see `LINTING.md` for the rest.
 
 - **Signal**: a FREE protocol action answering "what do you think we should do?" - yes/no, A or B,
   a preference. Costs nothing, never scored, equal weight for every participant.

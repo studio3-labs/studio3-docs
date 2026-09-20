@@ -1,320 +1,156 @@
 # Studio3 Documentation Linting Guide
 
-This document explains the comprehensive markdown linting system for Studio3 documentation.
+This document describes the validation that actually runs on this repository.
+
+Until September 2026 it described a linter that was not here. `LINTING.md`, the `Makefile`,
+`package.json` and `.pre-commit-config.yaml` all named `lint_markdown.py` or
+`lint_markdown_strict.py`, and neither file exists. The only linter in the repository is
+`lint_markdown_ultra.py`. Everything below names that file.
 
 ## Overview
 
-We use a three-tier validation approach:
+Three tools validate the documentation:
 
-1. **Prettier Formatting** - Ensures consistent markdown formatting
-2. **Custom Markdown Linter** - Catches Studio3-specific issues
-3. **MkDocs Built-in Strict Mode** - Catches structural issues
+1. **`lint_markdown_ultra.py`** - the custom markdown linter, including the dead-token guard
+2. **Prettier** - consistent markdown formatting
+3. **`mkdocs build --strict`** - structural and navigation problems
 
 ## Quick Commands
 
 ```bash
-# Run all validations
-make validate
+make validate      # everything below, in one go
 
-# Run individual validations
-make format-check  # Check Prettier formatting
-make lint-strict   # MkDocs validation
-make lint          # Custom linter
+make lint          # custom linter over docs/
+make lint-tokens   # dead-token guard only
+make lint-strict   # mkdocs --strict
+make format-check  # Prettier, check only
+make format        # Prettier, apply
 
-# Format and fix
-make format        # Apply Prettier formatting
-make lint-fix      # Fix custom linter issues
-
-# Build documentation
-make build         # Regular build
-make build-strict  # Build with validation
-
-# Development
-make serve         # Local development server
-make install       # Set up environment
+make build         # build the site (with PDFs)
+make serve         # local development server
+make install       # set up the virtualenv and npm dependencies
 ```
 
-## Prettier Formatting
+## The dead-token guard
 
-Prettier ensures consistent markdown formatting:
-
-- **Consistent spacing** around headers and lists
-- **Proper indentation** for nested content
-- **Line wrapping** at configured width (100 chars)
-- **Table formatting** alignment
-- **Code block** consistency
-
-Configuration in `.prettierrc`:
-- `proseWrap: preserve` - Maintains manual line breaks
-- `printWidth: 100` - Maximum line width
-- `embeddedLanguageFormatting: auto` - Formats code blocks
-
-## MkDocs Built-in Validation
-
-MkDocs `--strict` mode catches:
-
-- **Missing files** referenced in navigation
-- **Broken internal links** between pages
-- **Invalid YAML** in frontmatter or config
-- **Plugin errors** and configuration issues
-- **Template rendering** problems
-
-### Usage
+Studio3 has no native token. `$SIGNAL` was removed in September 2026 and must never be
+reintroduced, and `$STUDIO` must not appear either. `lint_markdown_ultra.py` carries that rule and
+can run it on its own:
 
 ```bash
-# Command line
-mkdocs build --strict
+python3 lint_markdown_ultra.py --token-guard docs
+```
 
-# Via Makefile
+It exits non-zero if either name appears anywhere under `docs/`, and it runs on every pull
+request. The rule has one definition in the code - `check_dead_tokens()` - which both
+the full linter and `--token-guard` call, so the two can never drift apart.
+
+## Custom markdown linter
+
+```bash
+python3 lint_markdown_ultra.py            # all of docs/ (the default)
+python3 lint_markdown_ultra.py docs       # same, explicitly
+python3 lint_markdown_ultra.py FILE ...   # only the named files
+python3 lint_markdown_ultra.py --token-guard docs
+```
+
+A path may be a file or a directory; directories are searched recursively for `*.md`. Passing no
+path checks all of `docs/`. The linter exits 1 when it finds errors and is pure standard library,
+so it needs no virtualenv.
+
+### Issues detected
+
+1. **Bold formatting** - unclosed `**`, stray spaces inside bold markers
+2. **List formatting** - missing blank line before a list, double markers, odd indentation
+3. **Arena cards** - `markdown="1"` on an `arena-card` that contains HTML, nested divs, unclosed divs
+4. **Dead token names** - `$SIGNAL` or `$STUDIO` anywhere
+5. **Structure** - skipped header levels, unclosed code blocks, malformed tables and links
+6. **Whitespace** - multiple consecutive spaces, too many blank lines
+
+## Prettier
+
+```bash
+make format-check   # check
+make format         # apply
+```
+
+Configuration is in `.prettierrc` (`printWidth: 100`, `proseWrap: preserve`) and `.prettierignore`.
+
+## MkDocs strict mode
+
+```bash
 make lint-strict
 ```
 
-### Configuration
+Catches missing files referenced in navigation, broken internal links, invalid YAML and plugin
+errors. The warn/error behaviour is configured under `validation:` in `mkdocs.yml`.
 
-The validation behavior is controlled in `mkdocs.yml`:
+## Automated validation
 
-```yaml
-validation:
-  nav:
-    omitted_files: warn     # Files not in navigation
-    not_found: warn         # Missing referenced files  
-    absolute_links: warn    # Absolute URLs in nav
-  links:
-    not_found: warn         # Broken internal links
-    absolute_links: warn    # External links
-    unrecognized_links: warn # Invalid link formats
-    anchors: warn           # Missing anchor targets
-```
+### Pull requests
 
-## Custom Markdown Linter
+`.github/workflows/pr-checks.yml` runs on every pull request. Every check is a hard failure:
 
-Our custom linter (`lint_markdown.py`) catches Studio3-specific issues:
+| Check | Scope | What it does |
+| --- | --- | --- |
+| **Build site** | whole repo | `make install` then `make build`, the same path the deploy workflow uses |
+| **Dead-token guard** | **all of `docs/`** | `lint_markdown_ultra.py --token-guard docs` |
+| **Lint and format changed docs** | files the PR changes | Prettier `--check` and the custom linter, on changed `docs/**/*.md` only |
 
-### Issues Detected
+The third check is deliberately scoped to changed files. The repository carries pre-existing debt -
+60 linter errors across four files, and Prettier failures in all 77 files under `docs/` - so gating
+whole-repository lint would fail every pull request on problems nobody in it introduced. Running
+the tools in a mode that cannot fail would be worse: it would look like evidence while proving
+nothing. Changed-files-only gates new work honestly and leaves the existing debt visible and
+tracked separately.
 
-1. **Bold Formatting Problems**
-   - Incomplete patterns: `**text*` → `**text**`
-   - Mixed formatting: `*text**` → `**text**`
+### Deploys
 
-2. **List Formatting Issues**
-   - Broken numbered lists: `**1. item` → `1. **item**`
-   - Orphaned asterisks in lists
-   - Mixed bullet/numbered patterns
+`.github/workflows/deploy.yml` builds and publishes to GitHub Pages on push to `main`. It does not
+run on pull requests; that is what `pr-checks.yml` is for.
 
-3. **Arena Card Issues**
-   - Missing `markdown="1"` attribute
-   - Potential rendering problems in divs
-
-4. **Studio3-Specific Rules**
-   - Studio3 has no native token: neither `$SIGNAL` nor `$STUDIO` may appear
-   - Proper emoji and formatting conventions
-
-5. **General Quality**
-   - Trailing whitespace
-   - Windows line endings
-   - Invalid YAML frontmatter
-
-### Usage
-
-```bash
-# Command line
-python3 lint_markdown_ultra.py
-
-# Via Makefile  
-make lint
-```
-
-### Sample Output
-
-```
-📋 Markdown Linting Results
-Files checked: 83
-Errors: 15
-Warnings: 42
-
-❌ ERRORS (15):
-  docs/page.md:42: ERROR: Incomplete bold formatting: **text*
-  docs/page.md:55: ERROR: Studio3 has no native token: remove $SIGNAL/$STUDIO
-
-⚠️  WARNINGS (42):
-  docs/page.md:12: WARNING: Trailing whitespace
-  docs/page.md:34: WARNING: Arena card missing markdown="1" attribute
-```
-
-## Automated Validation
-
-### GitHub Actions
-
-Documentation is automatically validated on:
-- Push to any `.md` file in `docs/`  
-- Pull requests modifying documentation
-- Changes to `mkdocs.yml` or linting scripts
-
-The workflow:
-1. Sets up Python and virtual environment
-2. Installs MkDocs and all plugins
-3. Runs `mkdocs build --strict` 
-4. Runs custom linter
-5. Fails if critical errors found
-6. Uploads build artifacts
-
-### Pre-commit Hooks
-
-Install pre-commit hooks to validate before commits:
+### Pre-commit hooks
 
 ```bash
 pip install pre-commit
 pre-commit install
 ```
 
-This will run:
-- Markdown linting
-- Trailing whitespace removal  
-- YAML validation
-- Line ending fixes
+`.pre-commit-config.yaml` runs Prettier, the custom linter over the staged markdown files, the
+dead-token guard over all of `docs/`, and the usual whitespace and YAML hygiene hooks.
 
-## Integration with Development
+## Known debt
 
-### Package.json Scripts
+Not introduced by current work, and not fixed by the pull-request checks:
 
-```json
-{
-  "scripts": {
-    "lint": "python3 lint_markdown.py docs",
-    "build": "mkdocs build",
-    "serve": "mkdocs serve"
-  }
-}
-```
+- 60 linter errors in `docs/senders-guide/{founder-basics,milestone-planning,requirements,winning-strategies}.md`
+- Prettier formatting failures in all 77 files under `docs/`
 
-### VSCode Integration
+Both are tracked as their own work. Do not fix them incidentally inside an unrelated pull request;
+reformatting 77 files makes every other change unreviewable.
 
-Add to `.vscode/tasks.json`:
+## Extending the linter
 
-```json
-{
-  "version": "2.0.0",
-  "tasks": [
-    {
-      "label": "Validate Documentation",
-      "type": "shell", 
-      "command": "make validate",
-      "group": "test"
-    }
-  ]
-}
-```
-
-## Best Practices
-
-### Writing Guidelines
-
-1. **Always use proper bold formatting**
-   ```markdown
-   ✅ **Correct bold text**
-   ❌ **Incorrect bold text*
-   ```
-
-2. **Format numbered lists properly**
-   ```markdown
-   ✅ 1. **Item one** - description
-   ❌ **1. **Item one** - description
-   ```
-
-3. **Use arena-card divs correctly**
-   ```markdown
-   ✅ <div class="arena-card" markdown="1">
-   ❌ <div class="arena-card">
-   ```
-
-4. **Follow Studio3 conventions**
-   ```markdown
-   ✅ free Signals and Forecasts; rewards in USDC and non-cash items
-   ❌ $SIGNAL tokens, $STUDIO tokens, staking, burns
-   ```
-
-### Development Workflow
-
-1. **Before writing**: Run `make serve` for live preview
-2. **While writing**: Check formatting as you go
-3. **Before committing**: Run `make validate`
-4. **In CI/CD**: Automatic validation on push
-
-### Fixing Issues
-
-Most issues can be auto-fixed:
-
-```bash
-# Fix common formatting problems
-make lint-fix
-
-# Manual fixes for complex issues
-# Edit files based on linter output
-make lint        # Check remaining issues
-make validate    # Full validation
-```
-
-## Extending the Linter
-
-### Adding New Rules
-
-Edit `lint_markdown.py` and add new check functions:
+Add a check method to `UltraMarkdownLinter` and call it from `lint_file()`:
 
 ```python
-def check_new_rule(self, content, file_path):
-    """Check for new rule violations"""
-    lines = content.split('\n')
-    for i, line in enumerate(lines, 1):
+def check_new_rule(self, lines):
+    errors = []
+    for i, line in enumerate(lines):
         if 'pattern' in line:
-            self.add_error(file_path, i, f"Rule violation: {line}")
+            errors.append((i + 1, "Rule violation", line))
+    return errors
 ```
 
-### Configuration
-
-The linter can be configured by modifying the class variables:
-
-```python
-class MarkdownLinter:
-    def __init__(self):
-        self.strict_mode = True      # Fail on warnings
-        self.max_errors = 100        # Limit error output
-        self.ignored_files = []      # Skip certain files
-```
+Each check returns `(line_number, message, line)` tuples. If a rule needs to run on its own as a
+CI gate, give it a method of its own - as `check_dead_tokens()` does - so there is only ever one
+definition of it.
 
 ## Troubleshooting
 
-### Common Issues
-
-1. **"source: command not found"**
-   - Make sure you're using bash: `bash -c "source venv/bin/activate"`
-
-2. **MkDocs plugins not found**
-   - Install all dependencies: `make install`
-
-3. **Too many linter errors**
-   - Fix core issues first: broken bold formatting
-   - Use `make lint-fix` for automated fixes
-
-4. **False positives**
-   - Update linter rules in `lint_markdown.py`
-   - Add exceptions for specific patterns
-
-### Performance
-
-For large documentation sets:
-
-- Linter processes ~80 files in <5 seconds
-- MkDocs builds in ~10 seconds  
-- Total validation time: ~15 seconds
-
-## Summary
-
-This linting system ensures:
-
-- **Consistent formatting** across all documentation
-- **Early detection** of rendering issues
-- **Automated validation** in CI/CD
-- **Developer-friendly** tools and commands
-- **Studio3-specific** quality standards
-
-Run `make validate` before any commit to maintain documentation quality!
+1. **`source: command not found`** - use bash: `bash -c "source venv/bin/activate"`
+2. **MkDocs plugins not found** - run `make install`
+3. **A pull request fails "Lint and format changed docs"** - run `make format`, then
+   `python3 lint_markdown_ultra.py <the files you changed>` and fix what it reports
+4. **A pull request fails the dead-token guard** - remove `$SIGNAL` / `$STUDIO`; see `CLAUDE.md`
+   for the wording to use instead
