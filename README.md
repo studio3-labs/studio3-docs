@@ -105,7 +105,6 @@ make help         # Show all available commands
 make serve        # Start local development server
 make build        # Build documentation with PDFs
 make lint         # Run markdown linter
-make format       # Format markdown files
 make pdfs         # Generate PDF guides only
 make clean        # Clean build artifacts
 make validate     # Run all validation checks

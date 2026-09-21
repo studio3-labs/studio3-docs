@@ -29,6 +29,20 @@ Thumbs.db
 .vscode/
 .idea/
 
+# The documentation itself. Prettier MUST NOT format docs/.
+#
+# These pages are MkDocs-flavoured Markdown. MkDocs admonitions ("!!! note")
+# carry their body in a four-space-indented block, which is not standard
+# Markdown, so Prettier does not recognise it: it strips the indentation and
+# reflows the body onto the "!!!" line. On docs/overview-guide/seven-phases.md
+# that collapses the whole Flare Playbook into a single line that no longer
+# renders as a list, and the same happens to every other phase admonition.
+#
+# This is not a width or wrapping setting that can be tuned - Prettier has no
+# concept of the syntax - so docs/ is out of Prettier's scope entirely.
+# lint_markdown_ultra.py is the format and lint gate for docs/. See LINTING.md.
+docs/
+
 # Specific files to preserve formatting
 CLAUDE.md
 README.md

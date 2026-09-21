@@ -5,12 +5,10 @@
   "scripts": {
     "lint": "python3 lint_markdown_ultra.py docs",
     "lint:tokens": "python3 lint_markdown_ultra.py --token-guard docs",
-    "lint:prettier": "prettier --check 'docs/**/*.md'",
-    "format": "prettier --write 'docs/**/*.md'",
     "build": "mkdocs build",
     "serve": "mkdocs serve",
     "deploy": "mkdocs gh-deploy",
-    "pre-commit": "prettier --write 'docs/**/*.md' && python3 lint_markdown_ultra.py docs"
+    "pre-commit": "python3 lint_markdown_ultra.py docs"
   },
   "devDependencies": {
     "prettier": "^3.2.4"
