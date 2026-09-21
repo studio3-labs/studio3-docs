@@ -90,7 +90,7 @@ Flare phase is about capturing market opportunity through aggressive but sustain
 - Larger rewards held by the Arena
 - Higher milestone values
 - Wider scrutiny on every claim
-- More at stake reputationally
+- Greater reputational exposure
 
 ## Risk Mitigation
 

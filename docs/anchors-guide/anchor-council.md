@@ -260,7 +260,7 @@
 <li>Significant precedent value</li>
 <li>Systemic issues raised</li>
 <li>Standard interpretation needed</li>
-<li>High stakes involved</li>
+<li>Serious consequences for those involved</li>
 <li>Previous resolution failed</li>
 
 </ul>

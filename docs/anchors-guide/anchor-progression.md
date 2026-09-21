@@ -414,7 +414,7 @@
 
 <p>1. **Apex Validations**</p>
 <ul>
-<li>Highest stakes</li>
+<li>Greatest consequence</li>
 <li>Most complex</li>
 <li>Precedent setting</li>
 <li>Crisis management</li>

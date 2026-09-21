@@ -28,10 +28,6 @@ An Arena is a transparent, public space where:
 
 <p><strong>Idea validation</p></strong></p>
         <p><strong>Duration:</strong> 7-14 days</p>
-
-<p><strong>Stakes:</strong>
-
-<p><strong>Initial belief gathering</p></strong></p>
         <p>Where ideas compete for attention and initial support</p>
 </div>
     
@@ -42,7 +38,7 @@ An Arena is a transparent, public space where:
 <p><strong>Founder selection</p></strong></p>
         <p><strong>Duration:</strong> 3-5 days</p>
 
-<p><strong>Stakes:</strong>
+<p><strong>Outcome:</strong>
 
 <p><strong>Venture ownership</p></strong></p>
         <p>Where founders duel for the right to build</p>
@@ -56,7 +52,7 @@ An Arena is a transparent, public space where:
         <p><strong>Duration:</strong>
 
 <p><strong>Variable (per milestone)</p></strong></p>
-        <p><strong>Stakes:</strong>
+        <p><strong>Outcome:</strong>
 
 <p><strong>The venture's public record, and the Arena's reward</p></strong></p>
         <p>Where ventures prove their execution ability</p>
@@ -68,10 +64,6 @@ An Arena is a transparent, public space where:
 
 <p><strong>Achievement verification</p></strong></p>
         <p><strong>Duration:</strong> 24-48 hours</p>
-
-<p><strong>Stakes:</strong>
-
-<p><strong>Milestone completion</p></strong></p>
         <p>Where Anchors verify claimed progress</p>
 </div>
 </div>
