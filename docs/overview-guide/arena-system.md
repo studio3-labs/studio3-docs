@@ -28,10 +28,6 @@ An Arena is a transparent, public space where:
 
 <p><strong>Idea validation</p></strong></p>
         <p><strong>Duration:</strong> 7-14 days</p>
-
-<p><strong>Outcome:</strong>
-
-<p><strong>Initial belief gathering</p></strong></p>
         <p>Where ideas compete for attention and initial support</p>
 </div>
     
@@ -68,10 +64,6 @@ An Arena is a transparent, public space where:
 
 <p><strong>Achievement verification</p></strong></p>
         <p><strong>Duration:</strong> 24-48 hours</p>
-
-<p><strong>Outcome:</strong>
-
-<p><strong>Milestone completion</p></strong></p>
         <p>Where Anchors verify claimed progress</p>
 </div>
 </div>
